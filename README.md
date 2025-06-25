@@ -142,7 +142,7 @@ The QA result file will be saved in the `tdbench/results` folder.
 ### 5. Evaluate Responses
 Use `tdbench/src/evaluation/analyze_result.py` for the evaluation.
 TDBench verify both final answer and time references during the TSQA task.
-For example, given LLM responses to temporal alignment questions like "Who is currently serving as the president of U.S.?", TDBench verifies whether both (1) the name of the president and (2) his start date is correctly included in the model response, assessing both the final answer and model explanations.
+For example, given LLM responses to temporal alignment questions like "Who is currently serving as the president of U.S.?", TDBench verifies whether both (1) the name of the president and (2) his start date are correctly included in the model response, assessing both the final answer and model explanations.
 
 #### 5-1. Set Up the Time Verifier LLM
 While we use rule-based string matching to compute the final answer accuracy, we employ an LLM to compute time accuracy -- please refer to the Section 3.2 of the paper for more details of time accuracy evaluation. Similar to the [translator LLM](#3-1-set-up-the-translator-llm), you can freely change the model type while we use deepseek-R1-14b via [Ollama](https://github.com/ollama/ollama).
