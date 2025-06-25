@@ -1,0 +1,54 @@
+Game_edition,Country,City,Season,Game_name,Start,End
+1,Greece,Athens,Summer,Athens 1896,1896-04-06,1896-04-15
+2,France,Paris,Summer,Paris 1900,1900-05-14,1900-10-28
+3,United States,St.,Summer,St. Louis 1904,1904-07-01,1904-11-24
+4,Great Britain,London,Summer,London 1908,1908-04-27,1908-10-31
+5,Sweden,Stockholm,Summer,Stockholm 1912,1912-05-05,1912-07-27
+6,Belgium,Antwerp,Summer,Antwerp 1920,1920-04-20,1920-09-12
+1,France,Chamonix,Winter,Chamonix 1924,1924-01-25,1924-02-05
+7,France,Paris,Summer,Paris 1924,1924-05-04,1924-07-27
+2,Switzerland,St.,Winter,St. Moritz 1928,1928-02-11,1928-02-19
+8,Netherlands,Amsterdam,Summer,Amsterdam 1928,1928-05-17,1928-08-12
+3,United States,Lake,Winter,Lake Placid 1932,1932-02-04,1932-02-15
+9,United States,Los,Summer,Los Angeles 1932,1932-07-30,1932-08-14
+4,Germany,Garmisch-Partenkirchen,Winter,Garmisch-Partenkirchen 1936,1936-02-06,1936-02-16
+10,Germany,Berlin,Summer,Berlin 1936,1936-08-01,1936-08-16
+5,Switzerland,St.,Winter,St. Moritz 1948,1948-01-30,1948-02-08
+11,Great Britain,London,Summer,London 1948,1948-07-29,1948-08-14
+6,Norway,Oslo,Winter,Oslo 1952,1952-02-14,1952-02-25
+12,Finland,Helsinki,Summer,Helsinki 1952,1952-07-19,1952-08-03
+7,Italy,Cortina,Winter,Cortina d'Ampezzo 1956,1956-01-26,1956-02-05
+13,"Australia, Sweden",Melbourne,Summer,Melbourne 1956,1956-11-21,1956-12-08
+8,United States,Squaw,Winter,Squaw Valley 1960,1960-02-18,1960-02-28
+14,Italy,Rome,Summer,Rome 1960,1960-08-25,1960-09-11
+9,Austria,Innsbruck,Winter,Innsbruck 1964,1964-01-29,1964-02-09
+15,Japan,Tokyo,Summer,Tokyo 1964,1964-10-09,1964-10-24
+10,France,Grenoble,Winter,Grenoble 1968,1968-02-06,1968-02-18
+16,Mexico,Mexico,Summer,Mexico City 1968,1968-10-12,1968-10-28
+11,Japan,Sapporo,Winter,Sapporo 1972,1972-02-02,1972-02-13
+17,Federal Republic of Germany,Munich,Summer,Munich 1972,1972-08-26,1972-09-11
+12,Austria,Innsbruck,Winter,Innsbruck 1976,1976-02-04,1976-02-15
+18,Canada,Montreal,Summer,Montreal 1976,1976-07-17,1976-07-31
+13,United States,Lake,Winter,Lake Placid 1980,1980-02-13,1980-02-24
+19,USSR,Moscow,Summer,Moscow 1980,1980-07-19,1980-08-03
+14,Yugoslavia,Sarajevo,Winter,Sarajevo 1984,1984-02-08,1984-02-19
+20,United States,Los,Summer,Los Angeles 1984,1984-07-28,1984-08-12
+15,Canada,Calgary,Winter,Calgary 1988,1988-02-13,1988-02-28
+21,Republic of Korea,Seoul,Summer,Seoul 1988,1988-09-16,1988-10-02
+16,France,Albertville,Winter,Albertville 1992,1992-02-08,1992-02-23
+22,Spain,Barcelona,Summer,Barcelona 1992,1992-07-25,1992-08-09
+17,Norway,Lillehammer,Winter,Lillehammer 1994,1994-02-12,1994-02-27
+23,United States,Atlanta,Summer,Atlanta 1996,1996-07-19,1996-08-05
+18,Japan,Nagano,Winter,Nagano 1998,1998-02-06,1998-02-22
+24,Australia,Sydney,Summer,Sydney 2000,2000-09-15,2000-10-01
+19,United States,Salt,Winter,Salt Lake City 2002,2002-02-08,2002-02-24
+25,Greece,Athens,Summer,Athens 2004,2004-08-13,2004-08-29
+20,Italy,Turin,Winter,Turin 2006,2006-02-10,2006-02-26
+26,China,Beijing,Summer,Beijing 2008,2008-08-08,2008-08-24
+21,Canada,Vancouver,Winter,Vancouver 2010,2010-02-12,2010-02-28
+27,Great Britain,London,Summer,London 2012,2012-07-27,2012-08-12
+22,Russian Federation,Sochi,Winter,Sochi 2014,2014-02-07,2014-02-23
+28,Brazil,Rio,Summer,Rio 2016,2016-08-05,2016-08-21
+23,Republic of Korea,PyeongChang,Winter,PyeongChang 2018,2018-02-08,2018-02-25
+29,Japan,Tokyo,Summer,Tokyo 2020,2021-07-23,2021-08-08
+24,China,Beijing,Winter,Beijing 2022,2022-02-04,2022-02-20

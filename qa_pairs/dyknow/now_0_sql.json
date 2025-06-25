@@ -1,0 +1,2934 @@
+[
+    {
+        "idx": 0,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Italy\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Sergio Mattarella",
+                "Start": "2015-02-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Carlo Azeglio Ciampi",
+                "Start": "1999-05-18 00:00:00",
+                "End": "2006-05-15 00:00:00"
+            },
+            {
+                "Name": "Oscar Luigi Scalfaro",
+                "Start": "1992-05-28 00:00:00",
+                "End": "1999-05-15 00:00:00"
+            },
+            {
+                "Name": "Francesco Cossiga",
+                "Start": "1985-07-03 00:00:00",
+                "End": "1992-04-28 00:00:00"
+            },
+            {
+                "Name": "Giorgio Napolitano",
+                "Start": "2006-05-15 00:00:00",
+                "End": "2015-01-14 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Italy\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Giorgia Meloni",
+                "Start": "2022-10-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Paolo Gentiloni",
+                "Start": "2016-12-12 00:00:00",
+                "End": "2018-06-01 00:00:00"
+            },
+            {
+                "Name": "Matteo Renzi",
+                "Start": "2014-02-22 00:00:00",
+                "End": "2016-12-12 00:00:00"
+            },
+            {
+                "Name": "Enrico Letta",
+                "Start": "2013-04-28 00:00:00",
+                "End": "2014-02-22 00:00:00"
+            },
+            {
+                "Name": "Mario Monti",
+                "Start": "2011-11-16 00:00:00",
+                "End": "2013-04-28 00:00:00"
+            },
+            {
+                "Name": "Silvio Berlusconi",
+                "Start": "2008-05-08 00:00:00",
+                "End": "2011-11-16 00:00:00"
+            },
+            {
+                "Name": "Romano Prodi",
+                "Start": "2006-05-17 00:00:00",
+                "End": "2008-05-08 00:00:00"
+            },
+            {
+                "Name": "Silvio Berlusconi",
+                "Start": "2005-04-23 00:00:00",
+                "End": "2006-05-17 00:00:00"
+            },
+            {
+                "Name": "Silvio Berlusconi",
+                "Start": "2001-06-11 00:00:00",
+                "End": "2005-04-23 00:00:00"
+            },
+            {
+                "Name": "Giuliano Amato",
+                "Start": "2000-04-25 00:00:00",
+                "End": "2001-06-11 00:00:00"
+            },
+            {
+                "Name": "Massimo D'Alema",
+                "Start": "1999-12-22 00:00:00",
+                "End": "2000-04-25 00:00:00"
+            },
+            {
+                "Name": "Massimo D'Alema",
+                "Start": "1998-10-21 00:00:00",
+                "End": "1999-12-22 00:00:00"
+            },
+            {
+                "Name": "Romano Prodi",
+                "Start": "1996-05-17 00:00:00",
+                "End": "1998-10-21 00:00:00"
+            },
+            {
+                "Name": "Lamberto Dini",
+                "Start": "1995-01-17 00:00:00",
+                "End": "1996-05-17 00:00:00"
+            },
+            {
+                "Name": "Silvio Berlusconi",
+                "Start": "1994-05-10 00:00:00",
+                "End": "1995-01-17 00:00:00"
+            },
+            {
+                "Name": "Carlo Azeglio Ciampi",
+                "Start": "1993-04-28 00:00:00",
+                "End": "1994-05-10 00:00:00"
+            },
+            {
+                "Name": "Giuliano Amato",
+                "Start": "1992-06-28 00:00:00",
+                "End": "1993-04-28 00:00:00"
+            },
+            {
+                "Name": "Giulio Andreotti",
+                "Start": "1991-04-12 00:00:00",
+                "End": "1992-06-28 00:00:00"
+            },
+            {
+                "Name": "Giulio Andreotti",
+                "Start": "1989-07-22 00:00:00",
+                "End": "1991-04-12 00:00:00"
+            },
+            {
+                "Name": "Giuseppe Conte",
+                "Start": "2018-06-01 00:00:00",
+                "End": "2021-02-13 00:00:00"
+            },
+            {
+                "Name": "Mario Draghi",
+                "Start": "2021-02-13 00:00:00",
+                "End": "2022-10-22 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"United States of America\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Joe Biden",
+                "Start": "2021-01-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Bill Clinton",
+                "Start": "1993-01-20 00:00:00",
+                "End": "2001-01-20 00:00:00"
+            },
+            {
+                "Name": "George H. W. Bush",
+                "Start": "1989-01-20 00:00:00",
+                "End": "1993-01-20 00:00:00"
+            },
+            {
+                "Name": "George W. Bush",
+                "Start": "2001-01-20 00:00:00",
+                "End": "2009-01-20 00:00:00"
+            },
+            {
+                "Name": "Donald Trump",
+                "Start": "2017-01-20 00:00:00",
+                "End": "2021-01-20 00:00:00"
+            },
+            {
+                "Name": "Barack Obama",
+                "Start": "2009-01-20 00:00:00",
+                "End": "2017-01-20 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"China\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Xi Jinping",
+                "Start": "2013-03-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Hu Jintao",
+                "Start": "2003-03-15 00:00:00",
+                "End": "2013-03-14 00:00:00"
+            },
+            {
+                "Name": "Zhemin Jiang",
+                "Start": "1993-03-27 00:00:00",
+                "End": "2003-03-15 00:00:00"
+            },
+            {
+                "Name": "Yang Shangkun",
+                "Start": "1988-04-08 00:00:00",
+                "End": "1993-03-27 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"China\" and Role = \"Premier\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Li Qiang",
+                "Start": "2023-03-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Li Keqiang",
+                "Start": "2013-03-15 00:00:00",
+                "End": "2023-03-11 00:00:00"
+            },
+            {
+                "Name": "Wen Jiabao",
+                "Start": "2003-03-16 00:00:00",
+                "End": "2013-03-15 00:00:00"
+            },
+            {
+                "Name": "Zhu Rongji",
+                "Start": "1998-03-17 00:00:00",
+                "End": "2003-03-16 00:00:00"
+            },
+            {
+                "Name": "Li Peng",
+                "Start": "1987-11-24 00:00:00",
+                "End": "1998-03-17 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Germany\" and Role = \"president\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Frank-Walter Steinmeier",
+                "Start": "2017-03-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Richard von Weizs\u00e4cker",
+                "Start": "1984-07-01 00:00:00",
+                "End": "1994-06-30 00:00:00"
+            },
+            {
+                "Name": "Roman Herzog",
+                "Start": "1994-07-01 00:00:00",
+                "End": "1999-06-30 00:00:00"
+            },
+            {
+                "Name": "Johannes Rau",
+                "Start": "1999-07-01 00:00:00",
+                "End": "2004-06-30 00:00:00"
+            },
+            {
+                "Name": "Horst K\u00f6hler",
+                "Start": "2004-07-01 00:00:00",
+                "End": "2010-05-31 00:00:00"
+            },
+            {
+                "Name": "Christian Wulff",
+                "Start": "2010-06-30 00:00:00",
+                "End": "2012-02-17 00:00:00"
+            },
+            {
+                "Name": "Joachim Gauck",
+                "Start": "2012-03-18 00:00:00",
+                "End": "2017-03-18 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Germany\" and Role = \"Federal Chancellor\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Olaf Scholz",
+                "Start": "2021-12-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Helmut Kohl",
+                "Start": "1982-10-04 00:00:00",
+                "End": "1998-10-26 00:00:00"
+            },
+            {
+                "Name": "Gerhard Schr\u00f6der",
+                "Start": "1998-10-27 00:00:00",
+                "End": "2005-10-18 00:00:00"
+            },
+            {
+                "Name": "Angela Merkel",
+                "Start": "2005-11-22 00:00:00",
+                "End": "2021-12-08 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Japan\" and Role = \"Emperor\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Naruhito",
+                "Start": "2019-05-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Akihito",
+                "Start": "1989-01-07 00:00:00",
+                "End": "2019-05-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Japan\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Shigeru Ishiba",
+                "Start": "2024-10-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Shinz\u014d Abe",
+                "Start": "2012-12-26 00:00:00",
+                "End": "2020-09-16 00:00:00"
+            },
+            {
+                "Name": "Yoshihide Suga",
+                "Start": "2020-09-16 00:00:00",
+                "End": "2021-10-04 00:00:00"
+            },
+            {
+                "Name": "Fumio Kishida",
+                "Start": "2021-10-04 00:00:00",
+                "End": "2024-10-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"India\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Droupadi Murmu",
+                "Start": "2022-07-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Ram Nath Kovind",
+                "Start": "2017-07-25 00:00:00",
+                "End": "2022-07-25 00:00:00"
+            },
+            {
+                "Name": "Pranab Mukherjee",
+                "Start": "2012-07-25 00:00:00",
+                "End": "2017-07-25 00:00:00"
+            },
+            {
+                "Name": "Pratibha Patil",
+                "Start": "2007-07-25 00:00:00",
+                "End": "2012-07-25 00:00:00"
+            },
+            {
+                "Name": "A. P. J. Abdul Kalam",
+                "Start": "2002-07-25 00:00:00",
+                "End": "2007-07-25 00:00:00"
+            },
+            {
+                "Name": "K. R. Narayanan",
+                "Start": "1997-07-25 00:00:00",
+                "End": "2002-07-25 00:00:00"
+            },
+            {
+                "Name": "Shankar Dayal Sharma",
+                "Start": "1992-07-25 00:00:00",
+                "End": "1997-07-25 00:00:00"
+            },
+            {
+                "Name": "R. Venkataraman",
+                "Start": "1987-07-25 00:00:00",
+                "End": "1992-07-25 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"India\" and Role = \"Prime minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Narendra Modi",
+                "Start": "2014-05-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "P. V. Narasimha Rao",
+                "Start": "1991-06-21 00:00:00",
+                "End": "1996-05-16 00:00:00"
+            },
+            {
+                "Name": "Manmohan Singh",
+                "Start": "2004-05-22 00:00:00",
+                "End": "2014-05-26 00:00:00"
+            },
+            {
+                "Name": "Atal Bihari Vajpayee",
+                "Start": "1998-03-19 00:00:00",
+                "End": "2004-05-22 00:00:00"
+            },
+            {
+                "Name": "I. K. Gujral",
+                "Start": "1997-04-21 00:00:00",
+                "End": "1998-03-19 00:00:00"
+            },
+            {
+                "Name": "H. D. Deve Gowda",
+                "Start": "1996-06-01 00:00:00",
+                "End": "1997-04-21 00:00:00"
+            },
+            {
+                "Name": "Atal Bihari Vajpayee",
+                "Start": "1996-05-16 00:00:00",
+                "End": "1996-06-01 00:00:00"
+            },
+            {
+                "Name": "Chandra Shekhar",
+                "Start": "1990-11-10 00:00:00",
+                "End": "1991-06-21 00:00:00"
+            },
+            {
+                "Name": "Vishwanath Pratap Singh",
+                "Start": "1989-12-02 00:00:00",
+                "End": "1990-11-10 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"United Kingdom\" and Role = \"monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Charles III",
+                "Start": "2022-09-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Start": "1952-02-06 00:00:00",
+                "End": "2022-09-08 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"United Kingdom\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Keir Starmer",
+                "Start": "2024-07-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Theresa May",
+                "Start": "2016-07-13 00:00:00",
+                "End": "2019-07-24 00:00:00"
+            },
+            {
+                "Name": "David Cameron",
+                "Start": "2010-05-11 00:00:00",
+                "End": "2016-07-12 00:00:00"
+            },
+            {
+                "Name": "Boris Johnson",
+                "Start": "2019-07-24 00:00:00",
+                "End": "2022-09-06 00:00:00"
+            },
+            {
+                "Name": "Liz Truss",
+                "Start": "2022-09-06 00:00:00",
+                "End": "2022-10-25 00:00:00"
+            },
+            {
+                "Name": "Rishi Sunak",
+                "Start": "2022-10-25 00:00:00",
+                "End": "2024-07-05 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"France\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Emmanuel Macron",
+                "Start": "2017-05-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Fran\u00e7ois Hollande",
+                "Start": "2012-05-15 00:00:00",
+                "End": "2017-05-14 00:00:00"
+            },
+            {
+                "Name": "Nicolas Sarkozy",
+                "Start": "2007-05-16 00:00:00",
+                "End": "2012-05-15 00:00:00"
+            },
+            {
+                "Name": "Jacques Chirac",
+                "Start": "1995-05-17 00:00:00",
+                "End": "2007-05-16 00:00:00"
+            },
+            {
+                "Name": "Fran\u00e7ois Mitterrand",
+                "Start": "1981-05-21 00:00:00",
+                "End": "1995-05-17 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"France\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Fran\u00e7ois Bayrou",
+                "Start": "2024-12-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Manuel Valls",
+                "Start": "2014-03-31 00:00:00",
+                "End": "2016-12-06 00:00:00"
+            },
+            {
+                "Name": "Jean-Marc Ayrault",
+                "Start": "2012-05-16 00:00:00",
+                "End": "2014-03-31 00:00:00"
+            },
+            {
+                "Name": "Bernard Cazeneuve",
+                "Start": "2016-12-06 00:00:00",
+                "End": "2017-05-10 00:00:00"
+            },
+            {
+                "Name": "\u00c9douard Philippe",
+                "Start": "2017-05-15 00:00:00",
+                "End": "2020-07-02 00:00:00"
+            },
+            {
+                "Name": "Fran\u00e7ois Fillon",
+                "Start": "2007-05-17 00:00:00",
+                "End": "2012-05-10 00:00:00"
+            },
+            {
+                "Name": "Jean Castex",
+                "Start": "2020-07-03 00:00:00",
+                "End": "2022-05-16 00:00:00"
+            },
+            {
+                "Name": "\u00c9lisabeth Borne",
+                "Start": "2022-05-16 00:00:00",
+                "End": "2024-01-09 00:00:00"
+            },
+            {
+                "Name": "Michel Barnier",
+                "Start": "2024-09-05 00:00:00",
+                "End": "2024-12-13 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Brazil\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Luiz In\u00e1cio Lula da Silva",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Jair Bolsonaro",
+                "Start": "2019-01-01 00:00:00",
+                "End": "2023-01-01 00:00:00"
+            },
+            {
+                "Name": "Fernando Henrique Cardoso",
+                "Start": "1995-01-01 00:00:00",
+                "End": "2002-12-31 00:00:00"
+            },
+            {
+                "Name": "Michel Temer",
+                "Start": "2016-08-31 00:00:00",
+                "End": "2019-01-01 00:00:00"
+            },
+            {
+                "Name": "Fernando Collor de Mello",
+                "Start": "1990-03-15 00:00:00",
+                "End": "1992-10-02 00:00:00"
+            },
+            {
+                "Name": "Luiz In\u00e1cio Lula da Silva",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2010-12-31 00:00:00"
+            },
+            {
+                "Name": "Dilma Rousseff",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2016-08-31 00:00:00"
+            },
+            {
+                "Name": "Itamar Franco",
+                "Start": "1992-12-29 00:00:00",
+                "End": "1994-12-31 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Canada\" and Role = \"monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Charles III",
+                "Start": "2022-09-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Start": "1952-02-06 00:00:00",
+                "End": "2022-09-08 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Canada\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Justin Trudeau",
+                "Start": "2015-11-04 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Stephen Harper",
+                "Start": "2006-02-06 00:00:00",
+                "End": "2015-11-03 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Russia\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Vladimir Putin",
+                "Start": "2012-05-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Boris Yeltsin",
+                "Start": "1991-07-10 00:00:00",
+                "End": "1999-12-31 00:00:00"
+            },
+            {
+                "Name": "Vladimir Putin",
+                "Start": "2000-05-07 00:00:00",
+                "End": "2008-05-07 00:00:00"
+            },
+            {
+                "Name": "Dmitry Medvedev",
+                "Start": "2008-05-07 00:00:00",
+                "End": "2012-05-07 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Russia\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mikhail Mishustin",
+                "Start": "2020-01-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Boris Yeltsin",
+                "Start": "1991-11-06 00:00:00",
+                "End": "1992-06-15 00:00:00"
+            },
+            {
+                "Name": "Yegor Gaidar",
+                "Start": "1992-06-15 00:00:00",
+                "End": "1992-12-15 00:00:00"
+            },
+            {
+                "Name": "Viktor Chernomyrdin",
+                "Start": "1992-12-14 00:00:00",
+                "End": "1998-03-23 00:00:00"
+            },
+            {
+                "Name": "Sergey Kiriyenko",
+                "Start": "1998-03-23 00:00:00",
+                "End": "1998-08-23 00:00:00"
+            },
+            {
+                "Name": "Viktor Chernomyrdin",
+                "Start": "1998-08-23 00:00:00",
+                "End": "1998-09-11 00:00:00"
+            },
+            {
+                "Name": "Yevgeny Primakov",
+                "Start": "1998-09-11 00:00:00",
+                "End": "1999-05-12 00:00:00"
+            },
+            {
+                "Name": "Sergei Stepashin",
+                "Start": "1999-05-12 00:00:00",
+                "End": "1999-08-09 00:00:00"
+            },
+            {
+                "Name": "Vladimir Putin",
+                "Start": "1999-08-09 00:00:00",
+                "End": "2000-05-07 00:00:00"
+            },
+            {
+                "Name": "Mikhail Kasyanov",
+                "Start": "2000-05-07 00:00:00",
+                "End": "2004-02-24 00:00:00"
+            },
+            {
+                "Name": "Viktor Khristenko",
+                "Start": "2004-02-24 00:00:00",
+                "End": "2004-03-05 00:00:00"
+            },
+            {
+                "Name": "Mikhail Fradkov",
+                "Start": "2004-03-05 00:00:00",
+                "End": "2007-09-14 00:00:00"
+            },
+            {
+                "Name": "Victor Zubkov",
+                "Start": "2007-09-14 00:00:00",
+                "End": "2008-05-08 00:00:00"
+            },
+            {
+                "Name": "Vladimir Putin",
+                "Start": "2008-05-08 00:00:00",
+                "End": "2012-05-07 00:00:00"
+            },
+            {
+                "Name": "Victor Zubkov",
+                "Start": "2012-05-07 00:00:00",
+                "End": "2012-05-08 00:00:00"
+            },
+            {
+                "Name": "Dmitry Medvedev",
+                "Start": "2012-05-08 00:00:00",
+                "End": "2020-01-16 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Mexico\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Claudia Sheinbaum",
+                "Start": "2024-10-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Felipe Calder\u00f3n",
+                "Start": "2006-12-01 00:00:00",
+                "End": "2012-12-01 00:00:00"
+            },
+            {
+                "Name": "Enrique Pe\u00f1a Nieto",
+                "Start": "2012-12-01 00:00:00",
+                "End": "2018-12-01 00:00:00"
+            },
+            {
+                "Name": "Carlos Salinas de Gortari",
+                "Start": "1988-01-01 00:00:00",
+                "End": "1994-01-01 00:00:00"
+            },
+            {
+                "Name": "Vicente Fox Quesada",
+                "Start": "2000-01-01 00:00:00",
+                "End": "2006-01-01 00:00:00"
+            },
+            {
+                "Name": "Andr\u00e9s Manuel L\u00f3pez Obrador",
+                "Start": "2018-12-01 00:00:00",
+                "End": "2024-09-30 00:00:00"
+            },
+            {
+                "Name": "Ernesto Zedillo",
+                "Start": "1994-01-01 00:00:00",
+                "End": "2000-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"South Korea\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Yoon Suk Yeol",
+                "Start": "2022-05-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Kim Young-sam",
+                "Start": "1993-02-25 00:00:00",
+                "End": "1998-02-24 00:00:00"
+            },
+            {
+                "Name": "Roh Moo-hyun",
+                "Start": "2003-02-25 00:00:00",
+                "End": "2008-02-24 00:00:00"
+            },
+            {
+                "Name": "Kim Dae-jung",
+                "Start": "1998-02-25 00:00:00",
+                "End": "2003-02-24 00:00:00"
+            },
+            {
+                "Name": "Moon Jae-in",
+                "Start": "2017-05-10 00:00:00",
+                "End": "2022-05-09 00:00:00"
+            },
+            {
+                "Name": "Lee Myung-bak",
+                "Start": "2008-02-25 00:00:00",
+                "End": "2013-02-24 00:00:00"
+            },
+            {
+                "Name": "Roh Tae-woo",
+                "Start": "1988-02-25 00:00:00",
+                "End": "1993-02-24 00:00:00"
+            },
+            {
+                "Name": "Park Geun-hye",
+                "Start": "2013-02-25 00:00:00",
+                "End": "2017-03-10 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Australia\" and Role = \"monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Charles III",
+                "Start": "2022-09-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Start": "1952-02-06 00:00:00",
+                "End": "2022-09-08 00:00:00"
+            },
+            {
+                "Name": "Quentin Bryce",
+                "Start": "2008-09-05 00:00:00",
+                "End": "2014-03-27 00:00:00"
+            },
+            {
+                "Name": "Michael Jeffery",
+                "Start": "2003-08-11 00:00:00",
+                "End": "2008-09-04 00:00:00"
+            },
+            {
+                "Name": "Peter Hollingworth",
+                "Start": "2001-06-29 00:00:00",
+                "End": "2003-05-29 00:00:00"
+            },
+            {
+                "Name": "William Deane",
+                "Start": "1996-02-16 00:00:00",
+                "End": "2001-06-28 00:00:00"
+            },
+            {
+                "Name": "Bill Hayden",
+                "Start": "1989-02-16 00:00:00",
+                "End": "1996-02-15 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Australia\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Anthony Albanese",
+                "Start": "2022-05-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Tony Abbott",
+                "Start": "2013-09-18 00:00:00",
+                "End": "2015-09-15 00:00:00"
+            },
+            {
+                "Name": "Kevin Rudd",
+                "Start": "2013-06-27 00:00:00",
+                "End": "2013-09-18 00:00:00"
+            },
+            {
+                "Name": "Julia Gillard",
+                "Start": "2010-06-24 00:00:00",
+                "End": "2013-06-27 00:00:00"
+            },
+            {
+                "Name": "Kevin Rudd",
+                "Start": "2007-03-12 00:00:00",
+                "End": "2010-06-24 00:00:00"
+            },
+            {
+                "Name": "John Howard",
+                "Start": "1996-03-11 00:00:00",
+                "End": "2007-03-12 00:00:00"
+            },
+            {
+                "Name": "Paul Keating",
+                "Start": "1991-12-20 00:00:00",
+                "End": "1996-03-11 00:00:00"
+            },
+            {
+                "Name": "Bob Hawke",
+                "Start": "1983-03-11 00:00:00",
+                "End": "1991-12-20 00:00:00"
+            },
+            {
+                "Name": "Malcolm Turnbull",
+                "Start": "2015-09-15 00:00:00",
+                "End": "2018-08-24 00:00:00"
+            },
+            {
+                "Name": "Scott Morrison",
+                "Start": "2018-08-24 00:00:00",
+                "End": "2022-05-23 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Spain\" and Role = \"Monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Felipe VI",
+                "Start": "2014-06-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Juan Carlos I",
+                "Start": "1975-11-22 00:00:00",
+                "End": "2014-06-19 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Spain\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Pedro S\u00e1nchez",
+                "Start": "2018-06-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mariano Rajoy",
+                "Start": "2011-12-21 00:00:00",
+                "End": "2018-06-01 00:00:00"
+            },
+            {
+                "Name": "Jos\u00e9 Luis Rodr\u00edguez Zapatero",
+                "Start": "2004-04-16 00:00:00",
+                "End": "2011-12-21 00:00:00"
+            },
+            {
+                "Name": "Jos\u00e9 Mar\u00eda Aznar",
+                "Start": "1996-05-04 00:00:00",
+                "End": "2004-04-16 00:00:00"
+            },
+            {
+                "Name": "Felipe Gonz\u00e1lez",
+                "Start": "1982-12-01 00:00:00",
+                "End": "1996-05-04 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Indonesia\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Prabowo Subianto",
+                "Start": "2024-10-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Bacharuddin Jusuf Habibie",
+                "Start": "1998-05-21 00:00:00",
+                "End": "1999-10-20 00:00:00"
+            },
+            {
+                "Name": "Megawati Soekarnoputri",
+                "Start": "2001-07-23 00:00:00",
+                "End": "2004-10-20 00:00:00"
+            },
+            {
+                "Name": "Joko Widodo",
+                "Start": "2014-10-20 00:00:00",
+                "End": "2024-10-20 00:00:00"
+            },
+            {
+                "Name": "Suharto",
+                "Start": "1967-03-12 00:00:00",
+                "End": "1998-05-21 00:00:00"
+            },
+            {
+                "Name": "Abdurrahman Wahid",
+                "Start": "1999-10-20 00:00:00",
+                "End": "2001-07-23 00:00:00"
+            },
+            {
+                "Name": "Susilo Bambang Yudhoyono",
+                "Start": "2004-10-20 00:00:00",
+                "End": "2014-10-20 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Turkey\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Recep Tayyip Erdo\u011fan",
+                "Start": "2014-08-28 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Abdullah G\u00fcl",
+                "Start": "2007-08-28 00:00:00",
+                "End": "2014-08-28 00:00:00"
+            },
+            {
+                "Name": "Ahmet Necdet Sezer",
+                "Start": "2000-05-16 00:00:00",
+                "End": "2007-08-28 00:00:00"
+            },
+            {
+                "Name": "S\u00fcleyman Demirel",
+                "Start": "1993-05-16 00:00:00",
+                "End": "2000-05-16 00:00:00"
+            },
+            {
+                "Name": "Turgut \u00d6zal",
+                "Start": "1989-11-09 00:00:00",
+                "End": "1993-04-17 00:00:00"
+            },
+            {
+                "Name": "H\u00fcsamettin Cindoruk",
+                "Start": "1993-04-17 00:00:00",
+                "End": "1993-05-16 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Turkey\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Recep Tayyip Erdo\u011fan",
+                "Start": "2018-06-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Ahmet Davuto\u011flu",
+                "Start": "2014-08-28 00:00:00",
+                "End": "2016-05-24 00:00:00"
+            },
+            {
+                "Name": "Recep Tayyip Erdo\u011fan",
+                "Start": "2003-03-23 00:00:00",
+                "End": "2014-08-28 00:00:00"
+            },
+            {
+                "Name": "Binali Y\u0131ld\u0131r\u0131m",
+                "Start": "2016-05-24 00:00:00",
+                "End": "2018-07-09 00:00:00"
+            },
+            {
+                "Name": "Abdullah G\u00fcl",
+                "Start": "2002-12-18 00:00:00",
+                "End": "2003-03-14 00:00:00"
+            },
+            {
+                "Name": "B\u00fclent Ecevit",
+                "Start": "1999-01-11 00:00:00",
+                "End": "2002-11-18 00:00:00"
+            },
+            {
+                "Name": "Tansu \u00c7iller",
+                "Start": "1993-06-25 00:00:00",
+                "End": "1996-03-06 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Netherlands\" and Role = \"King\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Willem-Alexander",
+                "Start": "2013-04-30 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Beatrix",
+                "Start": "1980-04-30 00:00:00",
+                "End": "2013-04-30 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Netherlands\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Dick Schoof",
+                "Start": "2024-07-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mark Rutte",
+                "Start": "2010-10-14 00:00:00",
+                "End": "2024-07-02 00:00:00"
+            },
+            {
+                "Name": "Jan Peter Balkenende",
+                "Start": "2002-07-22 00:00:00",
+                "End": "2010-10-14 00:00:00"
+            },
+            {
+                "Name": "Wim Kok",
+                "Start": "1994-08-22 00:00:00",
+                "End": "2002-07-22 00:00:00"
+            },
+            {
+                "Name": "Ruud Lubbers",
+                "Start": "1982-11-04 00:00:00",
+                "End": "1994-08-22 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Saudi Arabia\" and Role = \"King\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Salman bin Abdulaziz Al Saud",
+                "Start": "2015-01-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Fahd bin Abdulaziz Al Saud",
+                "Start": "1982-06-13 00:00:00",
+                "End": "2005-08-01 00:00:00"
+            },
+            {
+                "Name": "Abdullah",
+                "Start": "2005-08-01 00:00:00",
+                "End": "2015-01-23 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Saudi Arabia\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mohammed bin Salman",
+                "Start": "2022-09-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Salman bin Abdulaziz Al Saud",
+                "Start": "2015-01-23 00:00:00",
+                "End": "2022-09-27 00:00:00"
+            },
+            {
+                "Name": "Fahd bin Abdulaziz Al Saud",
+                "Start": "1982-06-13 00:00:00",
+                "End": "2005-08-01 00:00:00"
+            },
+            {
+                "Name": "Abdullah",
+                "Start": "2005-08-01 00:00:00",
+                "End": "2015-01-23 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Poland\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Andrzej Duda",
+                "Start": "2015-08-06 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Lech Kaczy\u0144ski",
+                "Start": "2005-12-23 00:00:00",
+                "End": "2010-04-10 00:00:00"
+            },
+            {
+                "Name": "Aleksander Kwa\u015bniewski",
+                "Start": "1995-12-23 00:00:00",
+                "End": "2005-12-23 00:00:00"
+            },
+            {
+                "Name": "Lech Wa\u0142\u0119sa",
+                "Start": "1990-12-22 00:00:00",
+                "End": "1995-12-22 00:00:00"
+            },
+            {
+                "Name": "Wojciech Jaruzelski",
+                "Start": "1989-07-19 00:00:00",
+                "End": "1990-12-22 00:00:00"
+            },
+            {
+                "Name": "Bronis\u0142aw Komorowski",
+                "Start": "2010-08-06 00:00:00",
+                "End": "2015-08-06 00:00:00"
+            },
+            {
+                "Name": "Bronis\u0142aw Komorowski",
+                "Start": "2010-04-10 00:00:00",
+                "End": "2010-07-08 00:00:00"
+            },
+            {
+                "Name": "Bogdan Borusewicz",
+                "Start": "2010-07-08 00:00:00",
+                "End": "2010-07-08 00:00:00"
+            },
+            {
+                "Name": "Grzegorz Schetyna",
+                "Start": "2010-07-08 00:00:00",
+                "End": "2010-08-06 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Poland\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Donald Tusk",
+                "Start": "2023-12-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Ewa Kopacz",
+                "Start": "2014-09-22 00:00:00",
+                "End": "2015-11-16 00:00:00"
+            },
+            {
+                "Name": "Donald Tusk",
+                "Start": "2007-11-16 00:00:00",
+                "End": "2014-09-22 00:00:00"
+            },
+            {
+                "Name": "Jaros\u0142aw Kaczy\u0144ski",
+                "Start": "2006-07-14 00:00:00",
+                "End": "2007-11-16 00:00:00"
+            },
+            {
+                "Name": "Beata Szyd\u0142o",
+                "Start": "2015-11-16 00:00:00",
+                "End": "2017-12-11 00:00:00"
+            },
+            {
+                "Name": "Tadeusz Mazowiecki",
+                "Start": "1989-08-24 00:00:00",
+                "End": "1991-01-04 00:00:00"
+            },
+            {
+                "Name": "Jan Krzysztof Bielecki",
+                "Start": "1991-01-04 00:00:00",
+                "End": "1991-12-06 00:00:00"
+            },
+            {
+                "Name": "Jan Olszewski",
+                "Start": "1991-12-06 00:00:00",
+                "End": "1992-06-05 00:00:00"
+            },
+            {
+                "Name": "Waldemar Pawlak",
+                "Start": "1992-06-05 00:00:00",
+                "End": "1992-07-10 00:00:00"
+            },
+            {
+                "Name": "Hanna Suchocka",
+                "Start": "1992-07-10 00:00:00",
+                "End": "1993-10-26 00:00:00"
+            },
+            {
+                "Name": "Waldemar Pawlak",
+                "Start": "1993-10-26 00:00:00",
+                "End": "1995-03-07 00:00:00"
+            },
+            {
+                "Name": "J\u00f3zef Oleksy",
+                "Start": "1995-03-07 00:00:00",
+                "End": "1996-02-07 00:00:00"
+            },
+            {
+                "Name": "W\u0142odzimierz Cimoszewicz",
+                "Start": "1996-02-07 00:00:00",
+                "End": "1997-10-31 00:00:00"
+            },
+            {
+                "Name": "Jerzy Buzek",
+                "Start": "1997-10-31 00:00:00",
+                "End": "2001-10-19 00:00:00"
+            },
+            {
+                "Name": "Leszek Miller",
+                "Start": "2001-10-19 00:00:00",
+                "End": "2004-05-02 00:00:00"
+            },
+            {
+                "Name": "Marek Belka",
+                "Start": "2004-05-02 00:00:00",
+                "End": "2005-10-31 00:00:00"
+            },
+            {
+                "Name": "Kazimierz Marcinkiewicz",
+                "Start": "2005-10-31 00:00:00",
+                "End": "2006-07-14 00:00:00"
+            },
+            {
+                "Name": "Mateusz Morawiecki",
+                "Start": "2017-12-11 00:00:00",
+                "End": "2023-12-13 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Belgium\" and Role = \"Monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Philippe",
+                "Start": "2013-07-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Baudouin I",
+                "Start": "1951-07-17 00:00:00",
+                "End": "1993-07-31 00:00:00"
+            },
+            {
+                "Name": "Albert II",
+                "Start": "1993-08-09 00:00:00",
+                "End": "2013-07-21 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Belgium\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Alexander De Croo",
+                "Start": "2020-10-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Sophie Wilm\u00e8s",
+                "Start": "2019-10-27 00:00:00",
+                "End": "2020-10-01 00:00:00"
+            },
+            {
+                "Name": "Charles Michel",
+                "Start": "2014-10-11 00:00:00",
+                "End": "2019-10-27 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Argentina\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Javier Milei",
+                "Start": "2023-12-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Alberto Fern\u00e1ndez",
+                "Start": "2019-12-10 00:00:00",
+                "End": "2023-12-10 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Sweden\" and Role = \"Monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Carl XVI Gustaf",
+                "Start": "1973-09-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Gustaf VI Adolf",
+                "Start": "1950-10-29 00:00:00",
+                "End": "1973-09-15 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Sweden\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Ulf Kristersson",
+                "Start": "2022-10-18 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Stefan L\u00f6fven",
+                "Start": "2014-10-03 00:00:00",
+                "End": "2021-10-30 00:00:00"
+            },
+            {
+                "Name": "Fredrik Reinfeldt",
+                "Start": "2006-10-06 00:00:00",
+                "End": "2014-10-03 00:00:00"
+            },
+            {
+                "Name": "G\u00f6ran Persson",
+                "Start": "1996-03-22 00:00:00",
+                "End": "2006-10-06 00:00:00"
+            },
+            {
+                "Name": "Ingvar Carlsson",
+                "Start": "1994-10-07 00:00:00",
+                "End": "1996-03-22 00:00:00"
+            },
+            {
+                "Name": "Carl Bildt",
+                "Start": "1991-10-14 00:00:00",
+                "End": "1994-10-07 00:00:00"
+            },
+            {
+                "Name": "Ingvar Carlsson",
+                "Start": "1990-02-27 00:00:00",
+                "End": "1991-10-04 00:00:00"
+            },
+            {
+                "Name": "Magdalena Andersson",
+                "Start": "2021-11-30 00:00:00",
+                "End": "2022-10-18 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Ireland\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Michael D. Higgins",
+                "Start": "2011-11-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mary McAleese",
+                "Start": "1997-11-11 00:00:00",
+                "End": "2011-11-11 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Norway\" and Role = \"Monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Harald V",
+                "Start": "1991-01-17 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Olav V",
+                "Start": "1957-09-21 00:00:00",
+                "End": "1991-01-17 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Norway\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Jonas Gahr St\u00f8re",
+                "Start": "2021-10-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Erna Solberg",
+                "Start": "2013-10-16 00:00:00",
+                "End": "2021-10-14 00:00:00"
+            },
+            {
+                "Name": "Jens Stoltenberg",
+                "Start": "2005-10-17 00:00:00",
+                "End": "2013-10-16 00:00:00"
+            },
+            {
+                "Name": "Kjell Magne Bondevik",
+                "Start": "2001-10-19 00:00:00",
+                "End": "2005-10-17 00:00:00"
+            },
+            {
+                "Name": "Jens Stoltenberg",
+                "Start": "2000-03-17 00:00:00",
+                "End": "2001-10-19 00:00:00"
+            },
+            {
+                "Name": "Kjell Magne Bondevik",
+                "Start": "1997-10-17 00:00:00",
+                "End": "2000-03-17 00:00:00"
+            },
+            {
+                "Name": "Thorbj\u00f8rn Jagland",
+                "Start": "1996-10-25 00:00:00",
+                "End": "1997-10-17 00:00:00"
+            },
+            {
+                "Name": "Gro Harlem Brundtland",
+                "Start": "1990-11-03 00:00:00",
+                "End": "1996-10-25 00:00:00"
+            },
+            {
+                "Name": "Anne Enger",
+                "Start": "1998-08-31 00:00:00",
+                "End": "1998-09-24 00:00:00"
+            },
+            {
+                "Name": "Jan P. Syse",
+                "Start": "1989-10-16 00:00:00",
+                "End": "1990-11-03 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Austria\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Alexander Van der Bellen",
+                "Start": "2017-01-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Heinz Fischer",
+                "Start": "2004-07-08 00:00:00",
+                "End": "2016-07-08 00:00:00"
+            },
+            {
+                "Name": "Thomas Klestil",
+                "Start": "1992-07-08 00:00:00",
+                "End": "2004-07-06 00:00:00"
+            },
+            {
+                "Name": "Kurt Waldheim",
+                "Start": "1986-07-08 00:00:00",
+                "End": "1992-07-08 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Austria\" and Role = \"Federal Chancellor\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Karl Nehammer",
+                "Start": "2021-12-06 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Werner Faymann",
+                "Start": "2008-12-02 00:00:00",
+                "End": "2016-05-09 00:00:00"
+            },
+            {
+                "Name": "Alfred Gusenbauer",
+                "Start": "2007-01-11 00:00:00",
+                "End": "2008-12-02 00:00:00"
+            },
+            {
+                "Name": "Wolfgang Sch\u00fcssel",
+                "Start": "2000-02-04 00:00:00",
+                "End": "2007-01-11 00:00:00"
+            },
+            {
+                "Name": "Viktor Klima",
+                "Start": "1997-01-28 00:00:00",
+                "End": "2000-02-04 00:00:00"
+            },
+            {
+                "Name": "Franz Vranitzky",
+                "Start": "1986-06-16 00:00:00",
+                "End": "1997-01-20 00:00:00"
+            },
+            {
+                "Name": "Christian Kern",
+                "Start": "2016-05-17 00:00:00",
+                "End": "2017-12-18 00:00:00"
+            },
+            {
+                "Name": "Sebastian Kurz",
+                "Start": "2017-12-18 00:00:00",
+                "End": "2019-05-28 00:00:00"
+            },
+            {
+                "Name": "Hartwig L\u00f6ger",
+                "Start": "2019-05-28 00:00:00",
+                "End": "2019-06-03 00:00:00"
+            },
+            {
+                "Name": "Brigitte Bierlein",
+                "Start": "2019-06-03 00:00:00",
+                "End": "2020-01-07 00:00:00"
+            },
+            {
+                "Name": "Sebastian Kurz",
+                "Start": "2020-01-07 00:00:00",
+                "End": "2021-10-11 00:00:00"
+            },
+            {
+                "Name": "Alexander Schallenberg",
+                "Start": "2021-10-11 00:00:00",
+                "End": "2021-12-06 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Israel\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Isaac Herzog",
+                "Start": "2021-07-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Reuven Rivlin",
+                "Start": "2014-07-24 00:00:00",
+                "End": "2021-07-07 00:00:00"
+            },
+            {
+                "Name": "Shimon Peres",
+                "Start": "2007-07-15 00:00:00",
+                "End": "2014-07-24 00:00:00"
+            },
+            {
+                "Name": "Chaim Herzog",
+                "Start": "1983-05-05 00:00:00",
+                "End": "1993-05-13 00:00:00"
+            },
+            {
+                "Name": "Ezer Weizman",
+                "Start": "1993-05-13 00:00:00",
+                "End": "2000-07-13 00:00:00"
+            },
+            {
+                "Name": "Moshe Katsav",
+                "Start": "2000-08-01 00:00:00",
+                "End": "2007-07-01 00:00:00"
+            },
+            {
+                "Name": "Avraham Burg",
+                "Start": "2000-07-12 00:00:00",
+                "End": "2000-08-01 00:00:00"
+            },
+            {
+                "Name": "Dalia Itzik",
+                "Start": "2007-01-07 00:00:00",
+                "End": "2007-07-18 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Israel\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Benjamin Netanyahu",
+                "Start": "2022-12-29 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Benjamin Netanyahu",
+                "Start": "2009-03-31 00:00:00",
+                "End": "2021-06-13 00:00:00"
+            },
+            {
+                "Name": "Yizhak Rabin",
+                "Start": "1992-07-13 00:00:00",
+                "End": "1995-11-04 00:00:00"
+            },
+            {
+                "Name": "Shimon Peres",
+                "Start": "1995-11-04 00:00:00",
+                "End": "1996-06-18 00:00:00"
+            },
+            {
+                "Name": "Benjamin Netanyahu",
+                "Start": "1996-06-18 00:00:00",
+                "End": "1999-07-06 00:00:00"
+            },
+            {
+                "Name": "Ehud Barak",
+                "Start": "1999-07-06 00:00:00",
+                "End": "2001-03-07 00:00:00"
+            },
+            {
+                "Name": "Ariel Sharon",
+                "Start": "2001-03-07 00:00:00",
+                "End": "2006-04-14 00:00:00"
+            },
+            {
+                "Name": "Ehud Olmert",
+                "Start": "2006-04-14 00:00:00",
+                "End": "2009-03-31 00:00:00"
+            },
+            {
+                "Name": "Naftali Bennett",
+                "Start": "2021-06-13 00:00:00",
+                "End": "2022-07-01 00:00:00"
+            },
+            {
+                "Name": "Yair Lapid",
+                "Start": "2022-07-01 00:00:00",
+                "End": "2022-12-29 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Thailand\" and Role = \"King\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Vajiralongkorn",
+                "Start": "2016-12-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Rama X",
+                "Start": "1952-07-28 00:00:00",
+                "End": "2016-10-13 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Thailand\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Paetongtarn Shinawatra",
+                "Start": "2024-08-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Niwatthamrong Boonsongpaisan",
+                "Start": "2014-05-07 00:00:00",
+                "End": "2014-05-22 00:00:00"
+            },
+            {
+                "Name": "Prayut Chan-o-cha",
+                "Start": "2014-05-22 00:00:00",
+                "End": "2023-08-22 00:00:00"
+            },
+            {
+                "Name": "Srettha Thavisin",
+                "Start": "2023-08-24 00:00:00",
+                "End": "2024-08-14 00:00:00"
+            },
+            {
+                "Name": "Phumtham Wechayachai",
+                "Start": "2024-08-14 00:00:00",
+                "End": "2024-08-16 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"United Arab Emirates\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mohammed bin Zayed Al Nahyan",
+                "Start": "2022-05-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Khalifa bin Zayed Al Nahyan",
+                "Start": "2004-11-03 00:00:00",
+                "End": "2022-05-13 00:00:00"
+            },
+            {
+                "Name": "Zayed bin Sultan Al Nahyan",
+                "Start": "1971-12-02 00:00:00",
+                "End": "2004-11-02 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Singapore\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Tharman Shanmugaratnam",
+                "Start": "2023-09-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Halimah Yacob",
+                "Start": "2017-09-14 00:00:00",
+                "End": "2023-09-13 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Bangladesh\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mohammad Shahabuddin",
+                "Start": "2023-04-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Abdul Hamid",
+                "Start": "2013-04-14 00:00:00",
+                "End": "2023-04-24 00:00:00"
+            },
+            {
+                "Name": "Zillur Rahman",
+                "Start": "2009-02-12 00:00:00",
+                "End": "2013-03-20 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Bangladesh\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Muhammad Yunus",
+                "Start": "2024-08-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Khaleda Zia",
+                "Start": "1991-03-20 00:00:00",
+                "End": "1996-03-30 00:00:00"
+            },
+            {
+                "Name": "Muhammad Habibur Rahman",
+                "Start": "1996-03-30 00:00:00",
+                "End": "1996-06-23 00:00:00"
+            },
+            {
+                "Name": "Sheikh Hasina",
+                "Start": "1996-06-23 00:00:00",
+                "End": "2001-07-15 00:00:00"
+            },
+            {
+                "Name": "Latifur Rahman",
+                "Start": "2001-07-15 00:00:00",
+                "End": "2001-10-10 00:00:00"
+            },
+            {
+                "Name": "Khaleda Zia",
+                "Start": "2001-10-10 00:00:00",
+                "End": "2006-10-29 00:00:00"
+            },
+            {
+                "Name": "Iajuddin Ahmed",
+                "Start": "2006-10-29 00:00:00",
+                "End": "2007-01-11 00:00:00"
+            },
+            {
+                "Name": "Fazlul Haque",
+                "Start": "2007-01-11 00:00:00",
+                "End": "2007-01-12 00:00:00"
+            },
+            {
+                "Name": "Fakhruddin Ahmed",
+                "Start": "2007-01-12 00:00:00",
+                "End": "2009-01-06 00:00:00"
+            },
+            {
+                "Name": "Sheikh Hasina",
+                "Start": "2009-01-06 00:00:00",
+                "End": "2024-08-05 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Philippines\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Bongbong Marcos",
+                "Start": "2022-06-30 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Benigno Aquino III",
+                "Start": "2010-06-30 00:00:00",
+                "End": "2016-06-30 00:00:00"
+            },
+            {
+                "Name": "Rodrigo Duterte",
+                "Start": "2016-06-30 00:00:00",
+                "End": "2022-06-30 00:00:00"
+            },
+            {
+                "Name": "Corazon Aquino",
+                "Start": "1986-02-25 00:00:00",
+                "End": "1992-06-30 00:00:00"
+            },
+            {
+                "Name": "Gloria Macapagal Arroyo",
+                "Start": "2001-01-20 00:00:00",
+                "End": "2010-06-30 00:00:00"
+            },
+            {
+                "Name": "Joseph Estrada",
+                "Start": "1998-06-30 00:00:00",
+                "End": "2001-01-20 00:00:00"
+            },
+            {
+                "Name": "Fidel Ramos",
+                "Start": "1992-06-30 00:00:00",
+                "End": "1998-06-30 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Vietnam\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "L\u01b0\u01a1ng C\u01b0\u1eddng",
+                "Start": "2024-10-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Tr\u1ea7n \u0110\u1ea1i Quang",
+                "Start": "2016-04-02 00:00:00",
+                "End": "2018-09-21 00:00:00"
+            },
+            {
+                "Name": "Nguyen Phu Trong",
+                "Start": "2018-10-23 00:00:00",
+                "End": "2021-04-05 00:00:00"
+            },
+            {
+                "Name": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh",
+                "Start": "2018-09-21 00:00:00",
+                "End": "2018-10-23 00:00:00"
+            },
+            {
+                "Name": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "Start": "2021-04-05 00:00:00",
+                "End": "2023-01-18 00:00:00"
+            },
+            {
+                "Name": "V\u00f5 V\u0103n Th\u01b0\u1edfng",
+                "Start": "2023-03-02 00:00:00",
+                "End": "2024-03-21 00:00:00"
+            },
+            {
+                "Name": "V\u00f5 Th\u1ecb \u00c1nh Xu\u00e2n",
+                "Start": "2024-03-21 00:00:00",
+                "End": "2024-05-22 00:00:00"
+            },
+            {
+                "Name": "T\u00f4 L\u00e2m",
+                "Start": "2024-05-22 00:00:00",
+                "End": "2024-10-21 00:00:00"
+            },
+            {
+                "Name": "V\u00f5 Th\u1ecb \u00c1nh Xu\u00e2n",
+                "Start": "2023-01-18 00:00:00",
+                "End": "2023-03-02 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Vietnam\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Ph\u1ea1m Minh Ch\u00ednh",
+                "Start": "2021-04-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "Start": "2016-04-07 00:00:00",
+                "End": "2021-04-05 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Malaysia\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Anwar Ibrahim",
+                "Start": "2022-11-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mahathir Mohamad",
+                "Start": "2018-05-10 00:00:00",
+                "End": "2020-03-01 00:00:00"
+            },
+            {
+                "Name": "Muhyiddin Yassin",
+                "Start": "2020-03-01 00:00:00",
+                "End": "2021-08-21 00:00:00"
+            },
+            {
+                "Name": "Ismail Sabri Yaakob",
+                "Start": "2021-08-21 00:00:00",
+                "End": "2022-11-24 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Denmark\" and Role = \"monarch\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Frederik X",
+                "Start": "2024-01-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Margrethe II",
+                "Start": "1972-01-14 00:00:00",
+                "End": "2024-01-14 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Denmark\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mette Frederiksen",
+                "Start": "2019-06-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Helle Thorning-Schmidt",
+                "Start": "2011-10-03 00:00:00",
+                "End": "2015-06-28 00:00:00"
+            },
+            {
+                "Name": "Lars L\u00f8kke Rasmussen",
+                "Start": "2009-04-05 00:00:00",
+                "End": "2011-10-03 00:00:00"
+            },
+            {
+                "Name": "Anders Fogh Rasmussen",
+                "Start": "2001-11-27 00:00:00",
+                "End": "2009-04-05 00:00:00"
+            },
+            {
+                "Name": "Poul Nyrup Rasmussen",
+                "Start": "1993-01-25 00:00:00",
+                "End": "2001-11-27 00:00:00"
+            },
+            {
+                "Name": "Poul Schl\u00fcter",
+                "Start": "1982-09-10 00:00:00",
+                "End": "1993-01-25 00:00:00"
+            },
+            {
+                "Name": "Lars L\u00f8kke Rasmussen",
+                "Start": "2015-06-28 00:00:00",
+                "End": "2019-06-27 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Egypt\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Abdel Fattah el-Sisi",
+                "Start": "2014-06-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Adly Mansour",
+                "Start": "2013-07-04 00:00:00",
+                "End": "2014-06-08 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Egypt\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mostafa Madbouly",
+                "Start": "2018-06-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Sherif Ismail",
+                "Start": "2015-09-19 00:00:00",
+                "End": "2018-06-14 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Nigeria\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Bola Tinubu",
+                "Start": "2023-05-29 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Olusegun Obasanjo",
+                "Start": "1999-05-29 00:00:00",
+                "End": "2007-05-29 00:00:00"
+            },
+            {
+                "Name": "Umaru Musa Yar'Adua",
+                "Start": "2007-05-29 00:00:00",
+                "End": "2010-05-05 00:00:00"
+            },
+            {
+                "Name": "Muhammadu Buhari",
+                "Start": "2015-05-29 00:00:00",
+                "End": "2023-05-29 00:00:00"
+            },
+            {
+                "Name": "Goodluck Jonathan",
+                "Start": "2010-05-06 00:00:00",
+                "End": "2015-05-28 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"South Africa\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Cyril Ramaphosa",
+                "Start": "2018-02-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Jacob Zuma",
+                "Start": "2009-05-09 00:00:00",
+                "End": "2018-02-14 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Iran\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Masoud Pezeshkian",
+                "Start": "2024-07-28 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Hassan Rouhani",
+                "Start": "2013-08-03 00:00:00",
+                "End": "2021-08-03 00:00:00"
+            },
+            {
+                "Name": "Mahmoud Ahmadinejad",
+                "Start": "2005-08-03 00:00:00",
+                "End": "2013-08-03 00:00:00"
+            },
+            {
+                "Name": "Mohammad Khatami",
+                "Start": "1997-08-03 00:00:00",
+                "End": "2005-08-03 00:00:00"
+            },
+            {
+                "Name": "Akbar Hashemi Rafsanjani",
+                "Start": "1989-08-03 00:00:00",
+                "End": "1997-08-03 00:00:00"
+            },
+            {
+                "Name": "Ebrahim Raisi",
+                "Start": "2021-08-03 00:00:00",
+                "End": "2024-05-19 00:00:00"
+            },
+            {
+                "Name": "Mohammad Mokhber",
+                "Start": "2024-05-19 00:00:00",
+                "End": "2024-07-28 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Colombia\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Gustavo Petro Urrego",
+                "Start": "2022-08-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Iv\u00e1n Duque",
+                "Start": "2018-08-07 00:00:00",
+                "End": "2022-08-07 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Romania\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Klaus Iohannis",
+                "Start": "2014-12-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Traian B\u0103sescu",
+                "Start": "2004-12-21 00:00:00",
+                "End": "2014-12-21 00:00:00"
+            },
+            {
+                "Name": "Ion Iliescu",
+                "Start": "1990-05-20 00:00:00",
+                "End": "1996-11-29 00:00:00"
+            },
+            {
+                "Name": "Ion Iliescu",
+                "Start": "2000-12-20 00:00:00",
+                "End": "2004-12-20 00:00:00"
+            },
+            {
+                "Name": "Emil Constantinescu",
+                "Start": "1996-11-29 00:00:00",
+                "End": "2000-12-20 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Romania\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Marcel Ciolacu",
+                "Start": "2023-06-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mihai R\u0103zvan Ungureanu",
+                "Start": "2012-02-09 00:00:00",
+                "End": "2012-05-07 00:00:00"
+            },
+            {
+                "Name": "Emil Boc",
+                "Start": "2008-12-22 00:00:00",
+                "End": "2012-02-06 00:00:00"
+            },
+            {
+                "Name": "C\u0103lin Popescu-T\u0103riceanu",
+                "Start": "2004-12-28 00:00:00",
+                "End": "2008-12-22 00:00:00"
+            },
+            {
+                "Name": "Adrian N\u0103stase",
+                "Start": "2000-12-28 00:00:00",
+                "End": "2004-12-28 00:00:00"
+            },
+            {
+                "Name": "Mugur Is\u0103rescu",
+                "Start": "1999-12-22 00:00:00",
+                "End": "2000-12-28 00:00:00"
+            },
+            {
+                "Name": "Radu Vasile",
+                "Start": "1998-04-17 00:00:00",
+                "End": "1999-12-22 00:00:00"
+            },
+            {
+                "Name": "Victor Ciorbea",
+                "Start": "1996-12-12 00:00:00",
+                "End": "1998-04-17 00:00:00"
+            },
+            {
+                "Name": "Nicolae V\u0103c\u0103roiu",
+                "Start": "1992-11-19 00:00:00",
+                "End": "1996-12-11 00:00:00"
+            },
+            {
+                "Name": "Theodor Stolojan",
+                "Start": "1991-10-16 00:00:00",
+                "End": "1992-11-19 00:00:00"
+            },
+            {
+                "Name": "Petre Roman",
+                "Start": "1989-12-26 00:00:00",
+                "End": "1991-10-16 00:00:00"
+            },
+            {
+                "Name": "Dacian Ciolo\u0219",
+                "Start": "2015-11-17 00:00:00",
+                "End": "2017-01-04 00:00:00"
+            },
+            {
+                "Name": "Sorin Grindeanu",
+                "Start": "2017-01-04 00:00:00",
+                "End": "2017-06-29 00:00:00"
+            },
+            {
+                "Name": "Mihai Tudose",
+                "Start": "2017-06-29 00:00:00",
+                "End": "2018-01-16 00:00:00"
+            },
+            {
+                "Name": "Viorica D\u0103ncil\u0103",
+                "Start": "2018-01-29 00:00:00",
+                "End": "2019-11-04 00:00:00"
+            },
+            {
+                "Name": "Victor Ponta",
+                "Start": "2012-05-07 00:00:00",
+                "End": "2015-11-04 00:00:00"
+            },
+            {
+                "Name": "Ludovic Orban",
+                "Start": "2019-11-04 00:00:00",
+                "End": "2020-12-07 00:00:00"
+            },
+            {
+                "Name": "Florin C\u00ee\u021bu",
+                "Start": "2020-12-23 00:00:00",
+                "End": "2021-11-25 00:00:00"
+            },
+            {
+                "Name": "Nicolae Ciuc\u0103",
+                "Start": "2021-11-25 00:00:00",
+                "End": "2023-06-15 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Chile\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Gabriel Boric",
+                "Start": "2022-03-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Eduardo Frei Ruiz-Tagle",
+                "Start": "1994-03-11 00:00:00",
+                "End": "2000-03-11 00:00:00"
+            },
+            {
+                "Name": "Michelle Bachelet",
+                "Start": "2006-03-11 00:00:00",
+                "End": "2010-03-11 00:00:00"
+            },
+            {
+                "Name": "Patricio Aylwin",
+                "Start": "1990-03-11 00:00:00",
+                "End": "1994-03-11 00:00:00"
+            },
+            {
+                "Name": "Ricardo Lagos",
+                "Start": "2000-03-11 00:00:00",
+                "End": "2006-03-11 00:00:00"
+            },
+            {
+                "Name": "Sebasti\u00e1n Pi\u00f1era",
+                "Start": "2018-03-11 00:00:00",
+                "End": "2022-03-11 00:00:00"
+            },
+            {
+                "Name": "Michelle Bachelet",
+                "Start": "2014-03-11 00:00:00",
+                "End": "2018-03-11 00:00:00"
+            },
+            {
+                "Name": "Sebasti\u00e1n Pi\u00f1era",
+                "Start": "2010-03-11 00:00:00",
+                "End": "2014-03-11 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Pakistan\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Arif Alvi",
+                "Start": "2018-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mamnoon Hussain",
+                "Start": "2013-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Pakistan\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Shehbaz Sharif",
+                "Start": "2022-04-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Imran Khan",
+                "Start": "2018-08-18 00:00:00",
+                "End": "2022-04-10 00:00:00"
+            },
+            {
+                "Name": "Nasir-ul-Mulk",
+                "Start": "2018-06-01 00:00:00",
+                "End": "2018-08-18 00:00:00"
+            },
+            {
+                "Name": "Shahid Khaqan Abbasi",
+                "Start": "2017-08-01 00:00:00",
+                "End": "2018-05-31 00:00:00"
+            },
+            {
+                "Name": "Nawaz Sharif",
+                "Start": "2013-06-05 00:00:00",
+                "End": "2017-07-28 00:00:00"
+            },
+            {
+                "Name": "Mir Hazar Khan Khoso",
+                "Start": "2013-03-25 00:00:00",
+                "End": "2013-06-05 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Czech Republic\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Petr Pavel",
+                "Start": "2023-03-09 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Milo\u0161 Zeman",
+                "Start": "2013-03-08 00:00:00",
+                "End": "2023-03-08 00:00:00"
+            },
+            {
+                "Name": "V\u00e1clav Klaus",
+                "Start": "2003-03-07 00:00:00",
+                "End": "2013-03-07 00:00:00"
+            },
+            {
+                "Name": "V\u00e1clav Havel",
+                "Start": "1993-02-02 00:00:00",
+                "End": "2003-02-02 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Czech Republic\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Petr Fiala",
+                "Start": "2021-11-28 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Andrej Babi\u0161",
+                "Start": "2017-12-06 00:00:00",
+                "End": "2021-11-28 00:00:00"
+            },
+            {
+                "Name": "Bohuslav Sobotka",
+                "Start": "2014-01-29 00:00:00",
+                "End": "2017-12-13 00:00:00"
+            },
+            {
+                "Name": "Ji\u0159\u00ed Rusnok",
+                "Start": "2013-06-25 00:00:00",
+                "End": "2014-01-29 00:00:00"
+            },
+            {
+                "Name": "Petr Ne\u010das",
+                "Start": "2010-06-28 00:00:00",
+                "End": "2013-07-10 00:00:00"
+            },
+            {
+                "Name": "Jan Fischer",
+                "Start": "2009-04-09 00:00:00",
+                "End": "2010-07-10 00:00:00"
+            },
+            {
+                "Name": "Mirek Topol\u00e1nek",
+                "Start": "2006-08-16 00:00:00",
+                "End": "2009-05-08 00:00:00"
+            },
+            {
+                "Name": "Ji\u0159\u00ed Paroubek",
+                "Start": "2005-04-25 00:00:00",
+                "End": "2006-09-04 00:00:00"
+            },
+            {
+                "Name": "Stanislav Gross",
+                "Start": "2004-08-04 00:00:00",
+                "End": "2005-04-25 00:00:00"
+            },
+            {
+                "Name": "Vladim\u00edr \u0160pidla",
+                "Start": "2002-07-15 00:00:00",
+                "End": "2004-08-04 00:00:00"
+            },
+            {
+                "Name": "Milo\u0161 Zeman",
+                "Start": "1998-07-17 00:00:00",
+                "End": "2002-07-15 00:00:00"
+            },
+            {
+                "Name": "Josef To\u0161ovsk\u00fd",
+                "Start": "1997-12-17 00:00:00",
+                "End": "1998-07-22 00:00:00"
+            },
+            {
+                "Name": "V\u00e1clav Klaus",
+                "Start": "1993-01-01 00:00:00",
+                "End": "1998-01-02 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Finland\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Alexander Stubb",
+                "Start": "2024-03-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Sauli Niinist\u00f6",
+                "Start": "2012-03-01 00:00:00",
+                "End": "2024-03-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Finland\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Petteri Orpo",
+                "Start": "2023-06-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Alexander Stubb",
+                "Start": "2014-06-24 00:00:00",
+                "End": "2015-05-28 00:00:00"
+            },
+            {
+                "Name": "Juha Sipil\u00e4",
+                "Start": "2015-05-29 00:00:00",
+                "End": "2019-06-06 00:00:00"
+            },
+            {
+                "Name": "Antti Rinne",
+                "Start": "2019-06-06 00:00:00",
+                "End": "2019-12-10 00:00:00"
+            },
+            {
+                "Name": "Sanna Marin",
+                "Start": "2019-12-10 00:00:00",
+                "End": "2023-06-20 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Iraq\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Abdul Latif Rashid",
+                "Start": "2022-10-17 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Barham Salih",
+                "Start": "2018-10-02 00:00:00",
+                "End": "2022-10-17 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Iraq\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Mohammed Shia' Al Sudani",
+                "Start": "2022-10-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Mustafa Al-Kadhimi",
+                "Start": "2020-05-07 00:00:00",
+                "End": "2022-10-27 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Portugal\" and Role = \"President\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Marcelo Rebelo de Sousa",
+                "Start": "2016-03-09 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "An\u00edbal Cavaco Silva",
+                "Start": "2006-03-09 00:00:00",
+                "End": "2016-03-09 00:00:00"
+            },
+            {
+                "Name": "Jorge Sampaio",
+                "Start": "1996-03-09 00:00:00",
+                "End": "2006-03-09 00:00:00"
+            },
+            {
+                "Name": "M\u00e1rio Soares",
+                "Start": "1986-03-09 00:00:00",
+                "End": "1996-03-09 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "qtype": "now",
+        "sql_for_db": "select Name, start, end from dyknow where Country = \"Portugal\" and Role = \"Prime Minister\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Name": "Luis Montenegro",
+                "Start": "2024-04-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Name": "Pedro Passos Coelho",
+                "Start": "2011-06-21 00:00:00",
+                "End": "2015-11-26 00:00:00"
+            },
+            {
+                "Name": "Ant\u00f3nio Costa",
+                "Start": "2015-11-26 00:00:00",
+                "End": "2024-04-02 00:00:00"
+            }
+        ]
+    }
+]

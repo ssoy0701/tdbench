@@ -1,0 +1,449 @@
+Country,Role,Name,Start,End
+Italy,President,Carlo Azeglio Ciampi,1999-05-18,2006-05-15
+Italy,President,Oscar Luigi Scalfaro,1992-05-28,1999-05-15
+Italy,President,Francesco Cossiga,1985-07-03,1992-04-28
+Italy,President,Giorgio Napolitano,2006-05-15,2015-01-14
+Italy,President,Sergio Mattarella,2015-02-03,
+Italy,Prime Minister,Paolo Gentiloni,2016-12-12,2018-06-01
+Italy,Prime Minister,Matteo Renzi,2014-02-22,2016-12-12
+Italy,Prime Minister,Enrico Letta,2013-04-28,2014-02-22
+Italy,Prime Minister,Mario Monti,2011-11-16,2013-04-28
+Italy,Prime Minister,Silvio Berlusconi,2008-05-08,2011-11-16
+Italy,Prime Minister,Romano Prodi,2006-05-17,2008-05-08
+Italy,Prime Minister,Silvio Berlusconi,2005-04-23,2006-05-17
+Italy,Prime Minister,Silvio Berlusconi,2001-06-11,2005-04-23
+Italy,Prime Minister,Giuliano Amato,2000-04-25,2001-06-11
+Italy,Prime Minister,Massimo D'Alema,1999-12-22,2000-04-25
+Italy,Prime Minister,Massimo D'Alema,1998-10-21,1999-12-22
+Italy,Prime Minister,Romano Prodi,1996-05-17,1998-10-21
+Italy,Prime Minister,Lamberto Dini,1995-01-17,1996-05-17
+Italy,Prime Minister,Silvio Berlusconi,1994-05-10,1995-01-17
+Italy,Prime Minister,Carlo Azeglio Ciampi,1993-04-28,1994-05-10
+Italy,Prime Minister,Giuliano Amato,1992-06-28,1993-04-28
+Italy,Prime Minister,Giulio Andreotti,1991-04-12,1992-06-28
+Italy,Prime Minister,Giulio Andreotti,1989-07-22,1991-04-12
+Italy,Prime Minister,Giuseppe Conte,2018-06-01,2021-02-13
+Italy,Prime Minister,Mario Draghi,2021-02-13,2022-10-22
+Italy,Prime Minister,Giorgia Meloni,2022-10-22,
+United States of America,President,Bill Clinton,1993-01-20,2001-01-20
+United States of America,President,George H. W. Bush,1989-01-20,1993-01-20
+United States of America,President,Joe Biden,2021-01-20,
+United States of America,President,George W. Bush,2001-01-20,2009-01-20
+United States of America,President,Donald Trump,2017-01-20,2021-01-20
+United States of America,President,Barack Obama,2009-01-20,2017-01-20
+China,President,Xi Jinping,2013-03-14,
+China,President,Hu Jintao,2003-03-15,2013-03-14
+China,President,Zhemin Jiang,1993-03-27,2003-03-15
+China,President,Yang Shangkun,1988-04-08,1993-03-27
+China,Premier,Li Keqiang,2013-03-15,2023-03-11
+China,Premier,Wen Jiabao,2003-03-16,2013-03-15
+China,Premier,Zhu Rongji,1998-03-17,2003-03-16
+China,Premier,Li Peng,1987-11-24,1998-03-17
+China,Premier,Li Qiang,2023-03-11,
+Germany,president,Richard von Weizsäcker,1984-07-01,1994-06-30
+Germany,president,Roman Herzog,1994-07-01,1999-06-30
+Germany,president,Johannes Rau,1999-07-01,2004-06-30
+Germany,president,Horst Köhler,2004-07-01,2010-05-31
+Germany,president,Christian Wulff,2010-06-30,2012-02-17
+Germany,president,Joachim Gauck,2012-03-18,2017-03-18
+Germany,president,Frank-Walter Steinmeier,2017-03-19,
+Germany,Federal Chancellor,Helmut Kohl,1982-10-04,1998-10-26
+Germany,Federal Chancellor,Gerhard Schröder,1998-10-27,2005-10-18
+Germany,Federal Chancellor,Angela Merkel,2005-11-22,2021-12-08
+Germany,Federal Chancellor,Olaf Scholz,2021-12-08,
+Japan,Emperor,Akihito,1989-01-07,2019-05-01
+Japan,Emperor,Naruhito,2019-05-01,
+Japan,Prime Minister,Shinzō Abe,2012-12-26,2020-09-16
+Japan,Prime Minister,Yoshihide Suga,2020-09-16,2021-10-04
+Japan,Prime Minister,Fumio Kishida,2021-10-04,2024-10-01
+Japan,Prime Minister,Shigeru Ishiba,2024-10-01,
+India,President,Ram Nath Kovind,2017-07-25,2022-07-25
+India,President,Pranab Mukherjee,2012-07-25,2017-07-25
+India,President,Pratibha Patil,2007-07-25,2012-07-25
+India,President,A. P. J. Abdul Kalam,2002-07-25,2007-07-25
+India,President,K. R. Narayanan,1997-07-25,2002-07-25
+India,President,Shankar Dayal Sharma,1992-07-25,1997-07-25
+India,President,R. Venkataraman,1987-07-25,1992-07-25
+India,President,Droupadi Murmu,2022-07-25,
+India,Prime minister,Narendra Modi,2014-05-26,
+India,Prime minister,P. V. Narasimha Rao,1991-06-21,1996-05-16
+India,Prime minister,Manmohan Singh,2004-05-22,2014-05-26
+India,Prime minister,Atal Bihari Vajpayee,1998-03-19,2004-05-22
+India,Prime minister,I. K. Gujral,1997-04-21,1998-03-19
+India,Prime minister,H. D. Deve Gowda,1996-06-01,1997-04-21
+India,Prime minister,Atal Bihari Vajpayee,1996-05-16,1996-06-01
+India,Prime minister,Chandra Shekhar,1990-11-10,1991-06-21
+India,Prime minister,Vishwanath Pratap Singh,1989-12-02,1990-11-10
+United Kingdom,monarch,Charles III,2022-09-08,
+United Kingdom,monarch,Elizabeth II,1952-02-06,2022-09-08
+United Kingdom,Prime Minister,Theresa May,2016-07-13,2019-07-24
+United Kingdom,Prime Minister,David Cameron,2010-05-11,2016-07-12
+United Kingdom,Prime Minister,Boris Johnson,2019-07-24,2022-09-06
+United Kingdom,Prime Minister,Liz Truss,2022-09-06,2022-10-25
+United Kingdom,Prime Minister,Rishi Sunak,2022-10-25,2024-07-05
+United Kingdom,Prime Minister,Keir Starmer,2024-07-05,
+France,President,Emmanuel Macron,2017-05-14,
+France,President,François Hollande,2012-05-15,2017-05-14
+France,President,Nicolas Sarkozy,2007-05-16,2012-05-15
+France,President,Jacques Chirac,1995-05-17,2007-05-16
+France,President,François Mitterrand,1981-05-21,1995-05-17
+France,Prime Minister,Manuel Valls,2014-03-31,2016-12-06
+France,Prime Minister,Jean-Marc Ayrault,2012-05-16,2014-03-31
+France,Prime Minister,Bernard Cazeneuve,2016-12-06,2017-05-10
+France,Prime Minister,Édouard Philippe,2017-05-15,2020-07-02
+France,Prime Minister,François Fillon,2007-05-17,2012-05-10
+France,Prime Minister,Jean Castex,2020-07-03,2022-05-16
+France,Prime Minister,Élisabeth Borne,2022-05-16,2024-01-09
+France,Prime Minister,Michel Barnier,2024-09-05,2024-12-13
+France,Prime Minister,François Bayrou,2024-12-13,
+Brazil,President,Jair Bolsonaro,2019-01-01,2023-01-01
+Brazil,President,Fernando Henrique Cardoso,1995-01-01,2002-12-31
+Brazil,President,Michel Temer,2016-08-31,2019-01-01
+Brazil,President,Fernando Collor de Mello,1990-03-15,1992-10-02
+Brazil,President,Luiz Inácio Lula da Silva,2023-01-01,
+Brazil,President,Luiz Inácio Lula da Silva,2003-01-01,2010-12-31
+Brazil,President,Dilma Rousseff,2011-01-01,2016-08-31
+Brazil,President,Itamar Franco,1992-12-29,1994-12-31
+Canada,monarch,Elizabeth II,1952-02-06,2022-09-08
+Canada,monarch,Charles III,2022-09-08,
+Canada,Prime Minister,Stephen Harper,2006-02-06,2015-11-03
+Canada,Prime Minister,Justin Trudeau,2015-11-04,
+Russia,President,Boris Yeltsin,1991-07-10,1999-12-31
+Russia,President,Vladimir Putin,2000-05-07,2008-05-07
+Russia,President,Dmitry Medvedev,2008-05-07,2012-05-07
+Russia,President,Vladimir Putin,2012-05-07,
+Russia,Prime Minister,Boris Yeltsin,1991-11-06,1992-06-15
+Russia,Prime Minister,Yegor Gaidar,1992-06-15,1992-12-15
+Russia,Prime Minister,Viktor Chernomyrdin,1992-12-14,1998-03-23
+Russia,Prime Minister,Sergey Kiriyenko,1998-03-23,1998-08-23
+Russia,Prime Minister,Viktor Chernomyrdin,1998-08-23,1998-09-11
+Russia,Prime Minister,Yevgeny Primakov,1998-09-11,1999-05-12
+Russia,Prime Minister,Sergei Stepashin,1999-05-12,1999-08-09
+Russia,Prime Minister,Vladimir Putin,1999-08-09,2000-05-07
+Russia,Prime Minister,Mikhail Kasyanov,2000-05-07,2004-02-24
+Russia,Prime Minister,Viktor Khristenko,2004-02-24,2004-03-05
+Russia,Prime Minister,Mikhail Fradkov,2004-03-05,2007-09-14
+Russia,Prime Minister,Victor Zubkov,2007-09-14,2008-05-08
+Russia,Prime Minister,Vladimir Putin,2008-05-08,2012-05-07
+Russia,Prime Minister,Victor Zubkov,2012-05-07,2012-05-08
+Russia,Prime Minister,Dmitry Medvedev,2012-05-08,2020-01-16
+Russia,Prime Minister,Mikhail Mishustin,2020-01-16,
+Mexico,President,Felipe Calderón,2006-12-01,2012-12-01
+Mexico,President,Enrique Peña Nieto,2012-12-01,2018-12-01
+Mexico,President,Carlos Salinas de Gortari,1988-01-01,1994-01-01
+Mexico,President,Vicente Fox Quesada,2000-01-01,2006-01-01
+Mexico,President,Andrés Manuel López Obrador,2018-12-01,2024-09-30
+Mexico,President,Claudia Sheinbaum,2024-10-01,
+Mexico,President,Ernesto Zedillo,1994-01-01,2000-01-01
+South Korea,President,Yoon Suk Yeol,2022-05-10,
+South Korea,President,Kim Young-sam,1993-02-25,1998-02-24
+South Korea,President,Roh Moo-hyun,2003-02-25,2008-02-24
+South Korea,President,Kim Dae-jung,1998-02-25,2003-02-24
+South Korea,President,Moon Jae-in,2017-05-10,2022-05-09
+South Korea,President,Lee Myung-bak,2008-02-25,2013-02-24
+South Korea,President,Roh Tae-woo,1988-02-25,1993-02-24
+South Korea,President,Park Geun-hye,2013-02-25,2017-03-10
+Australia,monarch,Elizabeth II,1952-02-06,2022-09-08
+Australia,monarch,Quentin Bryce,2008-09-05,2014-03-27
+Australia,monarch,Michael Jeffery,2003-08-11,2008-09-04
+Australia,monarch,Peter Hollingworth,2001-06-29,2003-05-29
+Australia,monarch,William Deane,1996-02-16,2001-06-28
+Australia,monarch,Bill Hayden,1989-02-16,1996-02-15
+Australia,monarch,Charles III,2022-09-08,
+Australia,Prime Minister,Tony Abbott,2013-09-18,2015-09-15
+Australia,Prime Minister,Kevin Rudd,2013-06-27,2013-09-18
+Australia,Prime Minister,Julia Gillard,2010-06-24,2013-06-27
+Australia,Prime Minister,Kevin Rudd,2007-03-12,2010-06-24
+Australia,Prime Minister,John Howard,1996-03-11,2007-03-12
+Australia,Prime Minister,Paul Keating,1991-12-20,1996-03-11
+Australia,Prime Minister,Bob Hawke,1983-03-11,1991-12-20
+Australia,Prime Minister,Malcolm Turnbull,2015-09-15,2018-08-24
+Australia,Prime Minister,Scott Morrison,2018-08-24,2022-05-23
+Australia,Prime Minister,Anthony Albanese,2022-05-23,
+Spain,Monarch,Felipe VI,2014-06-19,
+Spain,Monarch,Juan Carlos I,1975-11-22,2014-06-19
+Spain,Prime Minister,Mariano Rajoy,2011-12-21,2018-06-01
+Spain,Prime Minister,José Luis Rodríguez Zapatero,2004-04-16,2011-12-21
+Spain,Prime Minister,José María Aznar,1996-05-04,2004-04-16
+Spain,Prime Minister,Felipe González,1982-12-01,1996-05-04
+Spain,Prime Minister,Pedro Sánchez,2018-06-02,
+Indonesia,President,Bacharuddin Jusuf Habibie,1998-05-21,1999-10-20
+Indonesia,President,Megawati Soekarnoputri,2001-07-23,2004-10-20
+Indonesia,President,Joko Widodo,2014-10-20,2024-10-20
+Indonesia,President,Prabowo Subianto,2024-10-20,
+Indonesia,President,Suharto,1967-03-12,1998-05-21
+Indonesia,President,Abdurrahman Wahid,1999-10-20,2001-07-23
+Indonesia,President,Susilo Bambang Yudhoyono,2004-10-20,2014-10-20
+Turkey,President,Recep Tayyip Erdoğan,2014-08-28,
+Turkey,President,Abdullah Gül,2007-08-28,2014-08-28
+Turkey,President,Ahmet Necdet Sezer,2000-05-16,2007-08-28
+Turkey,President,Süleyman Demirel,1993-05-16,2000-05-16
+Turkey,President,Turgut Özal,1989-11-09,1993-04-17
+Turkey,President,Hüsamettin Cindoruk,1993-04-17,1993-05-16
+Turkey,Prime Minister,Ahmet Davutoğlu,2014-08-28,2016-05-24
+Turkey,Prime Minister,Recep Tayyip Erdoğan,2003-03-23,2014-08-28
+Turkey,Prime Minister,Binali Yıldırım,2016-05-24,2018-07-09
+Turkey,Prime Minister,Abdullah Gül,2002-12-18,2003-03-14
+Turkey,Prime Minister,Bülent Ecevit,1999-01-11,2002-11-18
+Turkey,Prime Minister,Tansu Çiller,1993-06-25,1996-03-06
+Turkey,Prime Minister,Recep Tayyip Erdoğan,2018-06-24,
+Netherlands,King,Willem-Alexander,2013-04-30,
+Netherlands,King,Beatrix,1980-04-30,2013-04-30
+Netherlands,Prime Minister,Dick Schoof,2024-07-02,
+Netherlands,Prime Minister,Mark Rutte,2010-10-14,2024-07-02
+Netherlands,Prime Minister,Jan Peter Balkenende,2002-07-22,2010-10-14
+Netherlands,Prime Minister,Wim Kok,1994-08-22,2002-07-22
+Netherlands,Prime Minister,Ruud Lubbers,1982-11-04,1994-08-22
+Saudi Arabia,King,Salman bin Abdulaziz Al Saud,2015-01-23,
+Saudi Arabia,King,Fahd bin Abdulaziz Al Saud,1982-06-13,2005-08-01
+Saudi Arabia,King,Abdullah,2005-08-01,2015-01-23
+Saudi Arabia,Prime Minister,Mohammed bin Salman,2022-09-27,
+Saudi Arabia,Prime Minister,Salman bin Abdulaziz Al Saud,2015-01-23,2022-09-27
+Saudi Arabia,Prime Minister,Fahd bin Abdulaziz Al Saud,1982-06-13,2005-08-01
+Saudi Arabia,Prime Minister,Abdullah,2005-08-01,2015-01-23
+Poland,President,Andrzej Duda,2015-08-06,
+Poland,President,Lech Kaczyński,2005-12-23,2010-04-10
+Poland,President,Aleksander Kwaśniewski,1995-12-23,2005-12-23
+Poland,President,Lech Wałęsa,1990-12-22,1995-12-22
+Poland,President,Wojciech Jaruzelski,1989-07-19,1990-12-22
+Poland,President,Bronisław Komorowski,2010-08-06,2015-08-06
+Poland,President,Bronisław Komorowski,2010-04-10,2010-07-08
+Poland,President,Bogdan Borusewicz,2010-07-08,2010-07-08
+Poland,President,Grzegorz Schetyna,2010-07-08,2010-08-06
+Poland,Prime Minister,Ewa Kopacz,2014-09-22,2015-11-16
+Poland,Prime Minister,Donald Tusk,2007-11-16,2014-09-22
+Poland,Prime Minister,Jarosław Kaczyński,2006-07-14,2007-11-16
+Poland,Prime Minister,Beata Szydło,2015-11-16,2017-12-11
+Poland,Prime Minister,Tadeusz Mazowiecki,1989-08-24,1991-01-04
+Poland,Prime Minister,Jan Krzysztof Bielecki,1991-01-04,1991-12-06
+Poland,Prime Minister,Jan Olszewski,1991-12-06,1992-06-05
+Poland,Prime Minister,Waldemar Pawlak,1992-06-05,1992-07-10
+Poland,Prime Minister,Hanna Suchocka,1992-07-10,1993-10-26
+Poland,Prime Minister,Waldemar Pawlak,1993-10-26,1995-03-07
+Poland,Prime Minister,Józef Oleksy,1995-03-07,1996-02-07
+Poland,Prime Minister,Włodzimierz Cimoszewicz,1996-02-07,1997-10-31
+Poland,Prime Minister,Jerzy Buzek,1997-10-31,2001-10-19
+Poland,Prime Minister,Leszek Miller,2001-10-19,2004-05-02
+Poland,Prime Minister,Marek Belka,2004-05-02,2005-10-31
+Poland,Prime Minister,Kazimierz Marcinkiewicz,2005-10-31,2006-07-14
+Poland,Prime Minister,Mateusz Morawiecki,2017-12-11,2023-12-13
+Poland,Prime Minister,Donald Tusk,2023-12-13,
+Belgium,Monarch,Baudouin I,1951-07-17,1993-07-31
+Belgium,Monarch,Albert II,1993-08-09,2013-07-21
+Belgium,Monarch,Philippe,2013-07-21,
+Belgium,Prime Minister,Sophie Wilmès,2019-10-27,2020-10-01
+Belgium,Prime Minister,Charles Michel,2014-10-11,2019-10-27
+Belgium,Prime Minister,Alexander De Croo,2020-10-01,
+Argentina,President,Javier Milei,2023-12-10,
+Argentina,President,Alberto Fernández,2019-12-10,2023-12-10
+Sweden,Monarch,Carl XVI Gustaf,1973-09-15,
+Sweden,Monarch,Gustaf VI Adolf,1950-10-29,1973-09-15
+Sweden,Prime Minister,Stefan Löfven,2014-10-03,2021-10-30
+Sweden,Prime Minister,Fredrik Reinfeldt,2006-10-06,2014-10-03
+Sweden,Prime Minister,Göran Persson,1996-03-22,2006-10-06
+Sweden,Prime Minister,Ingvar Carlsson,1994-10-07,1996-03-22
+Sweden,Prime Minister,Carl Bildt,1991-10-14,1994-10-07
+Sweden,Prime Minister,Ingvar Carlsson,1990-02-27,1991-10-04
+Sweden,Prime Minister,Magdalena Andersson,2021-11-30,2022-10-18
+Sweden,Prime Minister,Ulf Kristersson,2022-10-18,
+Ireland,President,Michael D. Higgins,2011-11-11,
+Ireland,President,Mary McAleese,1997-11-11,2011-11-11
+Norway,Monarch,Harald V,1991-01-17,
+Norway,Monarch,Olav V,1957-09-21,1991-01-17
+Norway,Prime Minister,Erna Solberg,2013-10-16,2021-10-14
+Norway,Prime Minister,Jens Stoltenberg,2005-10-17,2013-10-16
+Norway,Prime Minister,Kjell Magne Bondevik,2001-10-19,2005-10-17
+Norway,Prime Minister,Jens Stoltenberg,2000-03-17,2001-10-19
+Norway,Prime Minister,Kjell Magne Bondevik,1997-10-17,2000-03-17
+Norway,Prime Minister,Thorbjørn Jagland,1996-10-25,1997-10-17
+Norway,Prime Minister,Gro Harlem Brundtland,1990-11-03,1996-10-25
+Norway,Prime Minister,Anne Enger,1998-08-31,1998-09-24
+Norway,Prime Minister,Jan P. Syse,1989-10-16,1990-11-03
+Norway,Prime Minister,Jonas Gahr Støre,2021-10-14,
+Austria,President,Heinz Fischer,2004-07-08,2016-07-08
+Austria,President,Thomas Klestil,1992-07-08,2004-07-06
+Austria,President,Kurt Waldheim,1986-07-08,1992-07-08
+Austria,President,Alexander Van der Bellen,2017-01-26,
+Austria,Federal Chancellor,Werner Faymann,2008-12-02,2016-05-09
+Austria,Federal Chancellor,Alfred Gusenbauer,2007-01-11,2008-12-02
+Austria,Federal Chancellor,Wolfgang Schüssel,2000-02-04,2007-01-11
+Austria,Federal Chancellor,Viktor Klima,1997-01-28,2000-02-04
+Austria,Federal Chancellor,Franz Vranitzky,1986-06-16,1997-01-20
+Austria,Federal Chancellor,Christian Kern,2016-05-17,2017-12-18
+Austria,Federal Chancellor,Sebastian Kurz,2017-12-18,2019-05-28
+Austria,Federal Chancellor,Hartwig Löger,2019-05-28,2019-06-03
+Austria,Federal Chancellor,Brigitte Bierlein,2019-06-03,2020-01-07
+Austria,Federal Chancellor,Sebastian Kurz,2020-01-07,2021-10-11
+Austria,Federal Chancellor,Alexander Schallenberg,2021-10-11,2021-12-06
+Austria,Federal Chancellor,Karl Nehammer,2021-12-06,
+Israel,President,Isaac Herzog,2021-07-07,
+Israel,President,Reuven Rivlin,2014-07-24,2021-07-07
+Israel,President,Shimon Peres,2007-07-15,2014-07-24
+Israel,President,Chaim Herzog,1983-05-05,1993-05-13
+Israel,President,Ezer Weizman,1993-05-13,2000-07-13
+Israel,President,Moshe Katsav,2000-08-01,2007-07-01
+Israel,President,Avraham Burg,2000-07-12,2000-08-01
+Israel,President,Dalia Itzik,2007-01-07,2007-07-18
+Israel,Prime Minister,Benjamin Netanyahu,2009-03-31,2021-06-13
+Israel,Prime Minister,Yitzhak Shamir,1986-10-20,1992-07-13
+Israel,Prime Minister,Yitzhak Shamir,1986-10-20,1992-07-13
+Israel,Prime Minister,Yizhak Rabin,1992-07-13,1995-11-04
+Israel,Prime Minister,Shimon Peres,1995-11-04,1996-06-18
+Israel,Prime Minister,Benjamin Netanyahu,1996-06-18,1999-07-06
+Israel,Prime Minister,Ehud Barak,1999-07-06,2001-03-07
+Israel,Prime Minister,Ariel Sharon,2001-03-07,2006-04-14
+Israel,Prime Minister,Ehud Olmert,2006-04-14,2009-03-31
+Israel,Prime Minister,Naftali Bennett,2021-06-13,2022-07-01
+Israel,Prime Minister,Yair Lapid,2022-07-01,2022-12-29
+Israel,Prime Minister,Benjamin Netanyahu,2022-12-29,
+Thailand,King,Vajiralongkorn,2016-12-01,
+Thailand,King,Rama X,1952-07-28,2016-10-13
+Thailand,Prime Minister,Niwatthamrong Boonsongpaisan,2014-05-07,2014-05-22
+Thailand,Prime Minister,Prayut Chan-o-cha,2014-05-22,2023-08-22
+Thailand,Prime Minister,Srettha Thavisin,2023-08-24,2024-08-14
+Thailand,Prime Minister,Phumtham Wechayachai,2024-08-14,2024-08-16
+Thailand,Prime Minister,Paetongtarn Shinawatra,2024-08-16,
+United Arab Emirates,President,Mohammed bin Zayed Al Nahyan,2022-05-14,
+United Arab Emirates,President,Khalifa bin Zayed Al Nahyan,2004-11-03,2022-05-13
+United Arab Emirates,President,Zayed bin Sultan Al Nahyan,1971-12-02,2004-11-02
+Singapore,President,Halimah Yacob,2017-09-14,2023-09-13
+Singapore,President,Tharman Shanmugaratnam,2023-09-14,
+Bangladesh,President,Abdul Hamid,2013-04-14,2023-04-24
+Bangladesh,President,Zillur Rahman,2009-02-12,2013-03-20
+Bangladesh,President,Mohammad Shahabuddin,2023-04-24,
+Bangladesh,Prime Minister,Khaleda Zia,1991-03-20,1996-03-30
+Bangladesh,Prime Minister,Muhammad Habibur Rahman,1996-03-30,1996-06-23
+Bangladesh,Prime Minister,Sheikh Hasina,1996-06-23,2001-07-15
+Bangladesh,Prime Minister,Latifur Rahman,2001-07-15,2001-10-10
+Bangladesh,Prime Minister,Khaleda Zia,2001-10-10,2006-10-29
+Bangladesh,Prime Minister,Iajuddin Ahmed,2006-10-29,2007-01-11
+Bangladesh,Prime Minister,Fazlul Haque,2007-01-11,2007-01-12
+Bangladesh,Prime Minister,Fakhruddin Ahmed,2007-01-12,2009-01-06
+Bangladesh,Prime Minister,Sheikh Hasina,2009-01-06,2024-08-05
+Bangladesh,Prime Minister,Muhammad Yunus,2024-08-05,
+Philippines,President,Benigno Aquino III,2010-06-30,2016-06-30
+Philippines,President,Rodrigo Duterte,2016-06-30,2022-06-30
+Philippines,President,Corazon Aquino,1986-02-25,1992-06-30
+Philippines,President,Gloria Macapagal Arroyo,2001-01-20,2010-06-30
+Philippines,President,Joseph Estrada,1998-06-30,2001-01-20
+Philippines,President,Bongbong Marcos,2022-06-30,
+Philippines,President,Fidel Ramos,1992-06-30,1998-06-30
+Vietnam,President,Trần Đại Quang,2016-04-02,2018-09-21
+Vietnam,President,Nguyen Phu Trong,2018-10-23,2021-04-05
+Vietnam,President,Đặng Thị Ngọc Thịnh,2018-09-21,2018-10-23
+Vietnam,President,Nguyễn Xuân Phúc,2021-04-05,2023-01-18
+Vietnam,President,Võ Văn Thưởng,2023-03-02,2024-03-21
+Vietnam,President,Võ Thị Ánh Xuân,2024-03-21,2024-05-22
+Vietnam,President,Tô Lâm,2024-05-22,2024-10-21
+Vietnam,President,Lương Cường,2024-10-21,
+Vietnam,President,Võ Thị Ánh Xuân,2023-01-18,2023-03-02
+Vietnam,Prime Minister,Nguyễn Xuân Phúc,2016-04-07,2021-04-05
+Vietnam,Prime Minister,Phạm Minh Chính,2021-04-05,
+Malaysia,Prime Minister,Mahathir Mohamad,2018-05-10,2020-03-01
+Malaysia,Prime Minister,Muhyiddin Yassin,2020-03-01,2021-08-21
+Malaysia,Prime Minister,Ismail Sabri Yaakob,2021-08-21,2022-11-24
+Malaysia,Prime Minister,Anwar Ibrahim,2022-11-24,
+Denmark,monarch,Frederik X,2024-01-14,
+Denmark,monarch,Margrethe II,1972-01-14,2024-01-14
+Denmark,Prime Minister,Helle Thorning-Schmidt,2011-10-03,2015-06-28
+Denmark,Prime Minister,Lars Løkke Rasmussen,2009-04-05,2011-10-03
+Denmark,Prime Minister,Anders Fogh Rasmussen,2001-11-27,2009-04-05
+Denmark,Prime Minister,Poul Nyrup Rasmussen,1993-01-25,2001-11-27
+Denmark,Prime Minister,Poul Schlüter,1982-09-10,1993-01-25
+Denmark,Prime Minister,Lars Løkke Rasmussen,2015-06-28,2019-06-27
+Denmark,Prime Minister,Mette Frederiksen,2019-06-27,
+Egypt,President,Abdel Fattah el-Sisi,2014-06-08,
+Egypt,President,Adly Mansour,2013-07-04,2014-06-08
+Egypt,Prime Minister,Mostafa Madbouly,2018-06-14,
+Egypt,Prime Minister,Sherif Ismail,2015-09-19,2018-06-14
+Nigeria,President,Olusegun Obasanjo,1999-05-29,2007-05-29
+Nigeria,President,Umaru Musa Yar'Adua,2007-05-29,2010-05-05
+Nigeria,President,Muhammadu Buhari,2015-05-29,2023-05-29
+Nigeria,President,Bola Tinubu,2023-05-29,
+Nigeria,President,Goodluck Jonathan,2010-05-06,2015-05-28
+South Africa,President,Jacob Zuma,2009-05-09,2018-02-14
+South Africa,President,Cyril Ramaphosa,2018-02-15,
+Iran,President,Hassan Rouhani,2013-08-03,2021-08-03
+Iran,President,Mahmoud Ahmadinejad,2005-08-03,2013-08-03
+Iran,President,Mohammad Khatami,1997-08-03,2005-08-03
+Iran,President,Akbar Hashemi Rafsanjani,1989-08-03,1997-08-03
+Iran,President,Ebrahim Raisi,2021-08-03,2024-05-19
+Iran,President,Mohammad Mokhber,2024-05-19,2024-07-28
+Iran,President,Masoud Pezeshkian,2024-07-28,
+Colombia,President,Iván Duque,2018-08-07,2022-08-07
+Colombia,President,Gustavo Petro Urrego,2022-08-07,
+Romania,President,Traian Băsescu,2004-12-21,2014-12-21
+Romania,President,Klaus Iohannis,2014-12-21,
+Romania,President,Ion Iliescu,1990-05-20,1996-11-29
+Romania,President,Ion Iliescu,2000-12-20,2004-12-20
+Romania,President,Emil Constantinescu,1996-11-29,2000-12-20
+Romania,Prime Minister,Mihai Răzvan Ungureanu,2012-02-09,2012-05-07
+Romania,Prime Minister,Emil Boc,2008-12-22,2012-02-06
+Romania,Prime Minister,Călin Popescu-Tăriceanu,2004-12-28,2008-12-22
+Romania,Prime Minister,Adrian Năstase,2000-12-28,2004-12-28
+Romania,Prime Minister,Mugur Isărescu,1999-12-22,2000-12-28
+Romania,Prime Minister,Radu Vasile,1998-04-17,1999-12-22
+Romania,Prime Minister,Victor Ciorbea,1996-12-12,1998-04-17
+Romania,Prime Minister,Nicolae Văcăroiu,1992-11-19,1996-12-11
+Romania,Prime Minister,Theodor Stolojan,1991-10-16,1992-11-19
+Romania,Prime Minister,Petre Roman,1989-12-26,1991-10-16
+Romania,Prime Minister,Dacian Cioloș,2015-11-17,2017-01-04
+Romania,Prime Minister,Sorin Grindeanu,2017-01-04,2017-06-29
+Romania,Prime Minister,Mihai Tudose,2017-06-29,2018-01-16
+Romania,Prime Minister,Viorica Dăncilă,2018-01-29,2019-11-04
+Romania,Prime Minister,Victor Ponta,2012-05-07,2015-11-04
+Romania,Prime Minister,Ludovic Orban,2019-11-04,2020-12-07
+Romania,Prime Minister,Florin Cîțu,2020-12-23,2021-11-25
+Romania,Prime Minister,Nicolae Ciucă,2021-11-25,2023-06-15
+Romania,Prime Minister,Marcel Ciolacu,2023-06-15,
+Chile,President,Eduardo Frei Ruiz-Tagle,1994-03-11,2000-03-11
+Chile,President,Michelle Bachelet,2006-03-11,2010-03-11
+Chile,President,Patricio Aylwin,1990-03-11,1994-03-11
+Chile,President,Ricardo Lagos,2000-03-11,2006-03-11
+Chile,President,Sebastián Piñera,2018-03-11,2022-03-11
+Chile,President,Michelle Bachelet,2014-03-11,2018-03-11
+Chile,President,Gabriel Boric,2022-03-11,
+Chile,President,Sebastián Piñera,2010-03-11,2014-03-11
+Pakistan,President,Arif Alvi,2018-01-01,
+Pakistan,President,Mamnoon Hussain,2013-01-01,2018-01-01
+Pakistan,Prime Minister,Shehbaz Sharif,2022-04-11,
+Pakistan,Prime Minister,Imran Khan,2018-08-18,2022-04-10
+Pakistan,Prime Minister,Nasir-ul-Mulk,2018-06-01,2018-08-18
+Pakistan,Prime Minister,Shahid Khaqan Abbasi,2017-08-01,2018-05-31
+Pakistan,Prime Minister,Nawaz Sharif,2013-06-05,2017-07-28
+Pakistan,Prime Minister,Mir Hazar Khan Khoso,2013-03-25,2013-06-05
+Czech Republic,President,Petr Pavel,2023-03-09,
+Czech Republic,President,Miloš Zeman,2013-03-08,2023-03-08
+Czech Republic,President,Václav Klaus,2003-03-07,2013-03-07
+Czech Republic,President,Václav Havel,1993-02-02,2003-02-02
+Czech Republic,Prime Minister,Petr Fiala,2021-11-28,
+Czech Republic,Prime Minister,Andrej Babiš,2017-12-06,2021-11-28
+Czech Republic,Prime Minister,Bohuslav Sobotka,2014-01-29,2017-12-13
+Czech Republic,Prime Minister,Jiří Rusnok,2013-06-25,2014-01-29
+Czech Republic,Prime Minister,Petr Nečas,2010-06-28,2013-07-10
+Czech Republic,Prime Minister,Jan Fischer,2009-04-09,2010-07-10
+Czech Republic,Prime Minister,Mirek Topolánek,2006-08-16,2009-05-08
+Czech Republic,Prime Minister,Jiří Paroubek,2005-04-25,2006-09-04
+Czech Republic,Prime Minister,Stanislav Gross,2004-08-04,2005-04-25
+Czech Republic,Prime Minister,Vladimír Špidla,2002-07-15,2004-08-04
+Czech Republic,Prime Minister,Miloš Zeman,1998-07-17,2002-07-15
+Czech Republic,Prime Minister,Josef Tošovský,1997-12-17,1998-07-22
+Czech Republic,Prime Minister,Václav Klaus,1993-01-01,1998-01-02
+Finland,President,Alexander Stubb,2024-03-01,
+Finland,President,Sauli Niinistö,2012-03-01,2024-03-01
+Finland,Prime Minister,Alexander Stubb,2014-06-24,2015-05-28
+Finland,Prime Minister,Juha Sipilä,2015-05-29,2019-06-06
+Finland,Prime Minister,Antti Rinne,2019-06-06,2019-12-10
+Finland,Prime Minister,Sanna Marin,2019-12-10,2023-06-20
+Finland,Prime Minister,Petteri Orpo,2023-06-20,
+Iraq,President,Barham Salih,2018-10-02,2022-10-17
+Iraq,President,Abdul Latif Rashid,2022-10-17,
+Iraq,Prime Minister,Mustafa Al-Kadhimi,2020-05-07,2022-10-27
+Iraq,Prime Minister,Mohammed Shia' Al Sudani,2022-10-27,
+Portugal,President,Aníbal Cavaco Silva,2006-03-09,2016-03-09
+Portugal,President,Marcelo Rebelo de Sousa,2016-03-09,
+Portugal,President,Jorge Sampaio,1996-03-09,2006-03-09
+Portugal,President,Mário Soares,1986-03-09,1996-03-09
+Portugal,Prime Minister,Pedro Passos Coelho,2011-06-21,2015-11-26
+Portugal,Prime Minister,António Costa,2015-11-26,2024-04-02
+Portugal,Prime Minister,Luis Montenegro,2024-04-02,

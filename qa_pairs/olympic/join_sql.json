@@ -1,0 +1,1982 @@
+[
+    {
+        "idx": 0,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Athens 1896\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "George I",
+                "Country": "Greece",
+                "Start": "1896-04-06",
+                "End": "1896-04-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 1,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Paris 1900\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "\u00c9mile Loubet",
+                "Country": "France",
+                "Start": "1900-05-14",
+                "End": "1900-10-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 2,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"St. Louis 1904\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Theodore Roosevelt",
+                "Country": "United States",
+                "Start": "1904-07-01",
+                "End": "1904-11-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 3,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"London 1908\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "H. H. Asquith",
+                "Country": "United Kingdom",
+                "Start": "1908-04-27",
+                "End": "1908-10-31"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 4,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Stockholm 1912\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Gustaf V",
+                "Country": "Sweden",
+                "Start": "1912-07-06",
+                "End": "1912-07-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 5,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Antwerp 1920\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Albert I",
+                "Country": "Belgium",
+                "Start": "1920-08-14",
+                "End": "1920-09-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 6,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Paris 1924\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gaston Doumergue",
+                "Country": "France",
+                "Start": "1924-07-05",
+                "End": "1924-07-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 7,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Amsterdam 1928\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Wilhelmina",
+                "Country": "Netherlands",
+                "Start": "1928-07-28",
+                "End": "1928-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 8,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Los Angeles 1932\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Herbert Hoover",
+                "Country": "United States",
+                "Start": "1932-07-30",
+                "End": "1932-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 9,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Los Angeles 1932\" and Role = \"Vice President\"",
+        "correct_rows": [
+            {
+                "Name": "Charles Curtis",
+                "Country": "United States",
+                "Start": "1932-07-30",
+                "End": "1932-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 10,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Berlin 1936\" and Role = \"Chancellor\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Hitler",
+                "Country": "Germany",
+                "Start": "1936-08-01",
+                "End": "1936-08-16"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 11,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"London 1948\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "George VI",
+                "Country": "United Kingdom",
+                "Start": "1948-07-29",
+                "End": "1948-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 12,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"London 1948\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Clement Attlee",
+                "Country": "United Kingdom",
+                "Start": "1948-07-29",
+                "End": "1948-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 13,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Helsinki 1952\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Juho Kusti Paasikivi",
+                "Country": "Finland",
+                "Start": "1952-07-19",
+                "End": "1952-08-03"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 14,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Munich 1956\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Australia",
+                "Start": "1956-11-22",
+                "End": "1956-12-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 15,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Rome 1960\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Giovanni Gronchi",
+                "Country": "Italy",
+                "Start": "1960-08-25",
+                "End": "1960-09-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 16,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Tokyo 1964\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Sh\u014dwa",
+                "Country": "Japan",
+                "Start": "1964-10-09",
+                "End": "1964-10-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 17,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Mexico City 1968\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gustavo D\u00edaz Ordaz",
+                "Country": "Mexico",
+                "Start": "1968-10-12",
+                "End": "1968-10-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 18,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Munich 1972\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gustav Heinemann",
+                "Country": "Germany",
+                "Start": "1972-08-26",
+                "End": "1972-09-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 19,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Montreal 1976\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "1976-07-17",
+                "End": "1976-07-31"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 20,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Moscow 1980\" and Role = \"General Secretary\"",
+        "correct_rows": [
+            {
+                "Name": "Leonid Brezhnev",
+                "Country": "Soviet Union",
+                "Start": "1980-07-19",
+                "End": "1980-08-03"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 21,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Los Angeles 1984\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Ronald Reagan",
+                "Country": "United States",
+                "Start": "1984-07-28",
+                "End": "1984-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 22,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Seoul 1988\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Roh Tae-woo",
+                "Country": "Republic of Korea",
+                "Start": "1988-09-16",
+                "End": "1988-10-02"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 23,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Barcelona 1992\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Juan Carlos I",
+                "Country": "Spain",
+                "Start": "1992-07-25",
+                "End": "1992-08-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 24,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Barcelona 1992\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Felipe Gonz\u00e1lez",
+                "Country": "Spain",
+                "Start": "1992-07-25",
+                "End": "1992-08-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 25,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Atlanta 1996\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Bill Clinton",
+                "Country": "United States",
+                "Start": "1996-07-19",
+                "End": "1996-08-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 26,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sydney 2000\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 27,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sydney 2000\" and Role = \"Governor-General\"",
+        "correct_rows": [
+            {
+                "Name": "William Deane",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 28,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sydney 2000\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "John Howard",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 29,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Athens 2004\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Kostas Stephanopoulos",
+                "Country": "Greece",
+                "Start": "2004-08-13",
+                "End": "2004-08-29"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 30,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Beijing 2008\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Hu Jintao",
+                "Country": "China",
+                "Start": "2008-08-08",
+                "End": "2008-08-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 31,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Beijing 2008\" and Role = \"Premier\"",
+        "correct_rows": [
+            {
+                "Name": "Wen Jiabao",
+                "Country": "China",
+                "Start": "2008-08-08",
+                "End": "2008-08-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 32,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"London 2012\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "United Kingdom",
+                "Start": "2012-07-27",
+                "End": "2012-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 33,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"London 2012\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "David Cameron",
+                "Country": "United Kingdom",
+                "Start": "2012-07-27",
+                "End": "2012-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 34,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Rio 2016\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Dilma Rousseff",
+                "Country": "Brazil",
+                "Start": "2016-08-05",
+                "End": "2016-08-21"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 35,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Rio 2016\" and Role = \"Vice President\"",
+        "correct_rows": [
+            {
+                "Name": "Michel Temer",
+                "Country": "Brazil",
+                "Start": "2016-08-05",
+                "End": "2016-08-21"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 36,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Tokyo 2020\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Yoshihide Suga",
+                "Country": "Japan",
+                "Start": "2021-07-23",
+                "End": "2021-08-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 37,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Tokyo 2020\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Naruhito",
+                "Country": "Japan",
+                "Start": "2021-07-23",
+                "End": "2021-08-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 38,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Paris 2024\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Emmanuel Macron",
+                "Country": "France",
+                "Start": "2024-07-26",
+                "End": "2024-08-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 39,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Chamonix 1924\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Alexandre Millerand",
+                "Country": "France",
+                "Start": "1924-01-25",
+                "End": "1924-02-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 40,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"St. Moritz 1928\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Edmund Schulthess",
+                "Country": "Switzerland",
+                "Start": "1928-02-11",
+                "End": "1928-02-19"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 41,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Lake Placid 1932\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Herbert Hoover",
+                "Country": "United States",
+                "Start": "1932-02-04",
+                "End": "1932-02-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 42,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Garmisch-Partenkirchen 1936\" and Role = \"Chancellor\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Hitler",
+                "Country": "Germany",
+                "Start": "1936-02-06",
+                "End": "1936-02-16"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 43,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"St. Moritz 1948\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Enrico Celio",
+                "Country": "Switzerland",
+                "Start": "1948-01-30",
+                "End": "1948-02-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 44,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Oslo 1952\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Haakon VII",
+                "Country": "Norway",
+                "Start": "1952-02-14",
+                "End": "1952-02-25"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 45,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Cortina d'Ampezzo 1956\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Giovanni Gronchi",
+                "Country": "Italy",
+                "Start": "1956-01-26",
+                "End": "1956-02-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 46,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Squaw Valley 1960\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Dwight D. Eisenhower",
+                "Country": "United States",
+                "Start": "1960-02-18",
+                "End": "1960-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 47,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Innsbruck 1964\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Sch\u00e4rf",
+                "Country": "Austria",
+                "Start": "1964-01-29",
+                "End": "1964-02-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 48,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Grenoble 1968\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Charles de Gaulle",
+                "Country": "France",
+                "Start": "1968-02-06",
+                "End": "1968-02-18"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 49,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sapporo 1972\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Sh\u014dwa",
+                "Country": "Japan",
+                "Start": "1972-02-02",
+                "End": "1972-02-13"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 50,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Innsbruck 1976\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Rudolf Kirchschl\u00e4ger",
+                "Country": "Austria",
+                "Start": "1976-02-04",
+                "End": "1976-02-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 51,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Lake Placid 1980\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Jimmy Carter",
+                "Country": "United States",
+                "Start": "1980-02-13",
+                "End": "1980-02-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 52,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sarajevo 1984\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Mika \u0160piljak",
+                "Country": "Yugoslavia",
+                "Start": "1984-02-08",
+                "End": "1984-02-19"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 53,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Calgary 1988\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "1988-02-13",
+                "End": "1988-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 54,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Albertville 1992\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Fran\u00e7ois Mitterrand",
+                "Country": "France",
+                "Start": "1992-02-08",
+                "End": "1992-02-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 55,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Lillehammer 1994\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Gro Harlem Brundtland",
+                "Country": "Norway",
+                "Start": "1994-02-12",
+                "End": "1994-02-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 56,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Nagano 1998\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Akihito",
+                "Country": "Japan",
+                "Start": "1998-02-06",
+                "End": "1998-02-22"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 57,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Salt Lake City 2002\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "George W. Bush",
+                "Country": "United States",
+                "Start": "2002-02-08",
+                "End": "2002-02-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 58,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Turin 2006\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Carlo Azeglio Ciampi",
+                "Country": "Italy",
+                "Start": "2006-02-10",
+                "End": "2006-02-26"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 59,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Turin 2006\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Silvio Berlusconi",
+                "Country": "Italy",
+                "Start": "2006-02-10",
+                "End": "2006-02-26"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 60,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Vancouver 2010\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "2010-02-12",
+                "End": "2010-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 61,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Vancouver 2010\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Stephen Harper",
+                "Country": "Canada",
+                "Start": "2010-02-12",
+                "End": "2010-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 62,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Sochi 2014\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Vladimir Putin",
+                "Country": "Russia",
+                "Start": "2014-02-07",
+                "End": "2014-02-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 63,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"PyeongChang 2018\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Moon Jae-in",
+                "Country": "Republic of Korea",
+                "Start": "2018-02-08",
+                "End": "2018-02-25"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 64,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Beijing 2022\" and Role = \"Premier\"",
+        "correct_rows": [
+            {
+                "Name": "Li Keqiang",
+                "Country": "China",
+                "Start": "2022-02-04",
+                "End": "2022-02-20"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 65,
+        "op": "Name",
+        "qtype": "join_2hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_name = \"Beijing 2022\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Xi Jinping",
+                "Country": "China",
+                "Start": "2022-02-04",
+                "End": "2022-02-20"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 66,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"1\" and Season = \"Summer\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "George I",
+                "Country": "Greece",
+                "Start": "1896-04-06",
+                "End": "1896-04-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 67,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"2\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "\u00c9mile Loubet",
+                "Country": "France",
+                "Start": "1900-05-14",
+                "End": "1900-10-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 68,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"3\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Theodore Roosevelt",
+                "Country": "United States",
+                "Start": "1904-07-01",
+                "End": "1904-11-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 69,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"4\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "H. H. Asquith",
+                "Country": "United Kingdom",
+                "Start": "1908-04-27",
+                "End": "1908-10-31"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 70,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"5\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Gustaf V",
+                "Country": "Sweden",
+                "Start": "1912-07-06",
+                "End": "1912-07-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 71,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"7\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Albert I",
+                "Country": "Belgium",
+                "Start": "1920-08-14",
+                "End": "1920-09-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 72,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"8\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gaston Doumergue",
+                "Country": "France",
+                "Start": "1924-07-05",
+                "End": "1924-07-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 73,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"9\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Wilhelmina",
+                "Country": "Netherlands",
+                "Start": "1928-07-28",
+                "End": "1928-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 74,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"10\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Herbert Hoover",
+                "Country": "United States",
+                "Start": "1932-07-30",
+                "End": "1932-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 75,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"10\" and Season = \"Summer\" and Role = \"Vice President\"",
+        "correct_rows": [
+            {
+                "Name": "Charles Curtis",
+                "Country": "United States",
+                "Start": "1932-07-30",
+                "End": "1932-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 76,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"11\" and Season = \"Summer\" and Role = \"Chancellor\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Hitler",
+                "Country": "Germany",
+                "Start": "1936-08-01",
+                "End": "1936-08-16"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 77,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"14\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "George VI",
+                "Country": "United Kingdom",
+                "Start": "1948-07-29",
+                "End": "1948-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 78,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"14\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Clement Attlee",
+                "Country": "United Kingdom",
+                "Start": "1948-07-29",
+                "End": "1948-08-14"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 79,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"15\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Juho Kusti Paasikivi",
+                "Country": "Finland",
+                "Start": "1952-07-19",
+                "End": "1952-08-03"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 80,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"16\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Australia",
+                "Start": "1956-11-22",
+                "End": "1956-12-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 81,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"17\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Giovanni Gronchi",
+                "Country": "Italy",
+                "Start": "1960-08-25",
+                "End": "1960-09-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 82,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"18\" and Season = \"Summer\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Sh\u014dwa",
+                "Country": "Japan",
+                "Start": "1964-10-09",
+                "End": "1964-10-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 83,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"19\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gustavo D\u00edaz Ordaz",
+                "Country": "Mexico",
+                "Start": "1968-10-12",
+                "End": "1968-10-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 84,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"20\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Gustav Heinemann",
+                "Country": "Germany",
+                "Start": "1972-08-26",
+                "End": "1972-09-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 85,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"21\" and Season = \"Summer\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "1976-07-17",
+                "End": "1976-07-31"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 86,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"22\" and Season = \"Summer\" and Role = \"General Secretary\"",
+        "correct_rows": [
+            {
+                "Name": "Leonid Brezhnev",
+                "Country": "Soviet Union",
+                "Start": "1980-07-19",
+                "End": "1980-08-03"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 87,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"23\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Ronald Reagan",
+                "Country": "United States",
+                "Start": "1984-07-28",
+                "End": "1984-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 88,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"24\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Roh Tae-woo",
+                "Country": "Republic of Korea",
+                "Start": "1988-09-16",
+                "End": "1988-10-02"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 89,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"25\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Juan Carlos I",
+                "Country": "Spain",
+                "Start": "1992-07-25",
+                "End": "1992-08-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 90,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"25\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Felipe Gonz\u00e1lez",
+                "Country": "Spain",
+                "Start": "1992-07-25",
+                "End": "1992-08-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 91,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"26\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Bill Clinton",
+                "Country": "United States",
+                "Start": "1996-07-19",
+                "End": "1996-08-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 92,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"27\" and Season = \"Summer\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 93,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"27\" and Season = \"Summer\" and Role = \"Governor-General\"",
+        "correct_rows": [
+            {
+                "Name": "William Deane",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 94,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"27\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "John Howard",
+                "Country": "Australia",
+                "Start": "2000-09-15",
+                "End": "2000-10-01"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 95,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"28\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Kostas Stephanopoulos",
+                "Country": "Greece",
+                "Start": "2004-08-13",
+                "End": "2004-08-29"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 96,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"29\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Hu Jintao",
+                "Country": "China",
+                "Start": "2008-08-08",
+                "End": "2008-08-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 97,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"29\" and Season = \"Summer\" and Role = \"Premier\"",
+        "correct_rows": [
+            {
+                "Name": "Wen Jiabao",
+                "Country": "China",
+                "Start": "2008-08-08",
+                "End": "2008-08-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 98,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"30\" and Season = \"Summer\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "United Kingdom",
+                "Start": "2012-07-27",
+                "End": "2012-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 99,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"30\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "David Cameron",
+                "Country": "United Kingdom",
+                "Start": "2012-07-27",
+                "End": "2012-08-12"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 100,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"31\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Dilma Rousseff",
+                "Country": "Brazil",
+                "Start": "2016-08-05",
+                "End": "2016-08-21"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 101,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"31\" and Season = \"Summer\" and Role = \"Vice President\"",
+        "correct_rows": [
+            {
+                "Name": "Michel Temer",
+                "Country": "Brazil",
+                "Start": "2016-08-05",
+                "End": "2016-08-21"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 102,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"32\" and Season = \"Summer\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Yoshihide Suga",
+                "Country": "Japan",
+                "Start": "2021-07-23",
+                "End": "2021-08-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 103,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"32\" and Season = \"Summer\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Naruhito",
+                "Country": "Japan",
+                "Start": "2021-07-23",
+                "End": "2021-08-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 104,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"33\" and Season = \"Summer\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Emmanuel Macron",
+                "Country": "France",
+                "Start": "2024-07-26",
+                "End": "2024-08-11"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 105,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"1\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Alexandre Millerand",
+                "Country": "France",
+                "Start": "1924-01-25",
+                "End": "1924-02-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 106,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"2\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Edmund Schulthess",
+                "Country": "Switzerland",
+                "Start": "1928-02-11",
+                "End": "1928-02-19"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 107,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"3\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Herbert Hoover",
+                "Country": "United States",
+                "Start": "1932-02-04",
+                "End": "1932-02-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 108,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"4\" and Season = \"Winter\" and Role = \"Chancellor\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Hitler",
+                "Country": "Germany",
+                "Start": "1936-02-06",
+                "End": "1936-02-16"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 109,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"5\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Enrico Celio",
+                "Country": "Switzerland",
+                "Start": "1948-01-30",
+                "End": "1948-02-08"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 110,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"6\" and Season = \"Winter\" and Role = \"Monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Haakon VII",
+                "Country": "Norway",
+                "Start": "1952-02-14",
+                "End": "1952-02-25"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 111,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"7\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Giovanni Gronchi",
+                "Country": "Italy",
+                "Start": "1956-01-26",
+                "End": "1956-02-05"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 112,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"8\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Dwight D. Eisenhower",
+                "Country": "United States",
+                "Start": "1960-02-18",
+                "End": "1960-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 113,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"9\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Adolf Sch\u00e4rf",
+                "Country": "Austria",
+                "Start": "1964-01-29",
+                "End": "1964-02-09"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 114,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"10\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Charles de Gaulle",
+                "Country": "France",
+                "Start": "1968-02-06",
+                "End": "1968-02-18"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 115,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"11\" and Season = \"Winter\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Sh\u014dwa",
+                "Country": "Japan",
+                "Start": "1972-02-02",
+                "End": "1972-02-13"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 116,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"12\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Rudolf Kirchschl\u00e4ger",
+                "Country": "Austria",
+                "Start": "1976-02-04",
+                "End": "1976-02-15"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 117,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"13\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Jimmy Carter",
+                "Country": "United States",
+                "Start": "1980-02-13",
+                "End": "1980-02-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 118,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"14\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Mika \u0160piljak",
+                "Country": "Yugoslavia",
+                "Start": "1984-02-08",
+                "End": "1984-02-19"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 119,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"15\" and Season = \"Winter\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "1988-02-13",
+                "End": "1988-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 120,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"16\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Fran\u00e7ois Mitterrand",
+                "Country": "France",
+                "Start": "1992-02-08",
+                "End": "1992-02-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 121,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"17\" and Season = \"Winter\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Gro Harlem Brundtland",
+                "Country": "Norway",
+                "Start": "1994-02-12",
+                "End": "1994-02-27"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 122,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"18\" and Season = \"Winter\" and Role = \"Emperor\"",
+        "correct_rows": [
+            {
+                "Name": "Akihito",
+                "Country": "Japan",
+                "Start": "1998-02-06",
+                "End": "1998-02-22"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 123,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"19\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "George W. Bush",
+                "Country": "United States",
+                "Start": "2002-02-08",
+                "End": "2002-02-24"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 124,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"20\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Carlo Azeglio Ciampi",
+                "Country": "Italy",
+                "Start": "2006-02-10",
+                "End": "2006-02-26"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 125,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"20\" and Season = \"Winter\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Silvio Berlusconi",
+                "Country": "Italy",
+                "Start": "2006-02-10",
+                "End": "2006-02-26"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 126,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"21\" and Season = \"Winter\" and Role = \"monarch\"",
+        "correct_rows": [
+            {
+                "Name": "Elizabeth II",
+                "Country": "Canada",
+                "Start": "2010-02-12",
+                "End": "2010-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 127,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"21\" and Season = \"Winter\" and Role = \"Prime Minister\"",
+        "correct_rows": [
+            {
+                "Name": "Stephen Harper",
+                "Country": "Canada",
+                "Start": "2010-02-12",
+                "End": "2010-02-28"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 128,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"22\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Vladimir Putin",
+                "Country": "Russia",
+                "Start": "2014-02-07",
+                "End": "2014-02-23"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 129,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"23\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Moon Jae-in",
+                "Country": "Republic of Korea",
+                "Start": "2018-02-08",
+                "End": "2018-02-25"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 130,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"24\" and Season = \"Winter\" and Role = \"Premier\"",
+        "correct_rows": [
+            {
+                "Name": "Li Keqiang",
+                "Country": "China",
+                "Start": "2022-02-04",
+                "End": "2022-02-20"
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 131,
+        "op": "Name",
+        "qtype": "join_3hop",
+        "sql_for_db": "select Name, country, start, end from olympic where Game_edition = \"24\" and Season = \"Winter\" and Role = \"President\"",
+        "correct_rows": [
+            {
+                "Name": "Xi Jinping",
+                "Country": "China",
+                "Start": "2022-02-04",
+                "End": "2022-02-20"
+            }
+        ],
+        "incorrect_rows": []
+    }
+]

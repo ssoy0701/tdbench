@@ -1,0 +1,1926 @@
+[
+    {
+        "idx": 0,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Abigail\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+                "Start": "2024-04-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 1,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Absolution\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Hans Petter Moland",
+                "Start": "2024-10-31 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 2,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"After\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jenny Gage",
+                "Start": "2019-04-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 3,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"After Everything\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Castille Landon",
+                "Start": "2023-09-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 4,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Aftermath\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Patrick Lussier",
+                "Start": "2024-09-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 5,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Air\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ben Affleck",
+                "Start": "2023-04-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 6,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Alone\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "John Hyams",
+                "Start": "2020-09-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 7,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Amber Alert\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Kerry Bellessa",
+                "Start": "2024-09-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 8,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Anaconda\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Tom Gormican",
+                "Start": "2025-12-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 9,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Animal\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Sandeep Reddy Vanga",
+                "Start": "2023-12-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 10,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Anna\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Luc Besson",
+                "Start": "2019-06-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 11,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Art of Love\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Recai Karag\u00f6z",
+                "Start": "2024-03-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 12,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Attack on Titan\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Noah Luke",
+                "Start": "2022-09-30 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 13,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Ava\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Tate Taylor",
+                "Start": "2020-07-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 14,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Bait\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Mark Jenkin",
+                "Start": "2019-03-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 15,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Ballerina\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lee Chung-hyun",
+                "Start": "2023-10-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 16,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Barbie\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Greta Gerwig",
+                "Start": "2023-07-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 17,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Beast\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Baltasar Korm\u00e1kur",
+                "Start": "2022-08-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 18,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Beautiful Boy\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Felix van Groeningen",
+                "Start": "2018-10-12 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 19,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Beauty and the Beast\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Bill Condon",
+                "Start": "2017-03-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 20,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Blitz\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Steve McQueen",
+                "Start": "2024-11-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 21,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Breathe\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Stefon Bristol",
+                "Start": "2024-04-04 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 22,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Brothers\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Max Barbakow",
+                "Start": "2024-10-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 23,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Cargo\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ben Howling, Yolanda Ramke",
+                "Start": "2017-10-06 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 24,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Cherry\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Joe Russo, Anthony Russo",
+                "Start": "2021-02-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 25,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Cinderella\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Kay Cannon",
+                "Start": "2021-09-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 26,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"City Hunter\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Yuichi Satoh",
+                "Start": "2024-04-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 27,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Close\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lukas Dhont",
+                "Start": "2022-11-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 28,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Counterattack\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Chava Cartas",
+                "Start": "2025-02-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 29,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Crawl\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Alexandre Aja",
+                "Start": "2019-07-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 30,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Damsel\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Juan Carlos Fresnadillo",
+                "Start": "2024-03-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 31,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Dead Sea\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Phil Volken",
+                "Start": "2024-07-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 32,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Dear David\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lucky Kuswandi",
+                "Start": "2023-02-09 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 33,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Dear Santa\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Bobby Farrelly",
+                "Start": "2024-11-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 34,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Desire\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Diego Kaplan",
+                "Start": "2017-10-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 35,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Diary of a Wimpy Kid\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Swinton O. Scott III",
+                "Start": "2021-12-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 36,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Diary of a Wimpy Kid: Rodrick Rules\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Luke Cormican",
+                "Start": "2022-12-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 37,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Dogman\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Luc Besson",
+                "Start": "2023-09-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 38,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Drive\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Tarun Mansukhani",
+                "Start": "2019-11-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 39,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Dune\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Denis Villeneuve",
+                "Start": "2021-09-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 40,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Eden\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ron Howard",
+                "Start": "2025-04-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 41,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Escape\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lee Jong-pil",
+                "Start": "2024-07-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 42,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Escape Room\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Adam Robitel",
+                "Start": "2019-01-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 43,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Extinction\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ben Young",
+                "Start": "2018-07-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 44,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Extraction\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Sam Hargrave",
+                "Start": "2020-04-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 45,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Flow\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Gints Zilbalodis",
+                "Start": "2024-08-29 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 46,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Freedom\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "M\u00e9lanie Laurent",
+                "Start": "2024-11-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 47,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Frozen\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Chris Buck, Jennifer Lee",
+                "Start": "2013-11-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 48,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Get Out\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jordan Peele",
+                "Start": "2017-02-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 49,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Good Boy\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ben Leonberg",
+                "Start": "2025-03-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 50,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Haunt\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Scott Beck, Bryan Woods",
+                "Start": "2019-09-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 51,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"High Society\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Byun Hyuk",
+                "Start": "2018-08-29 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 52,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Hold Your Breath\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Will Joines, Karrie Crouse",
+                "Start": "2024-09-12 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 53,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"How to Train Your Dragon\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Dean DeBlois",
+                "Start": "2025-06-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 54,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Hypnotic\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Robert Rodriguez",
+                "Start": "2023-05-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 55,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"I'm Still Here\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Walter Salles",
+                "Start": "2024-09-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 56,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Incoming\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Dave Chernin, John Chernin",
+                "Start": "2024-08-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 57,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Inheritance\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Neil Burger",
+                "Start": "2025-01-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 58,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Into the Deep\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Christian Sesma",
+                "Start": "2025-01-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 59,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Invasion\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Bobby Boermans",
+                "Start": "2024-04-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 60,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"It\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Andy Muschietti",
+                "Start": "2017-09-06 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 61,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Joy\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ben Taylor",
+                "Start": "2024-11-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 62,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Kill\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Nikhil Nagesh Bhat",
+                "Start": "2024-07-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 63,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Lady Chatterley's Lover\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Laure de Clermont-Tonnerre",
+                "Start": "2022-11-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 64,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Last Breath\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Alex Parkinson",
+                "Start": "2025-02-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 65,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Leap Year\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Anand Tucker",
+                "Start": "2010-01-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 66,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Leo\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Robert Smigel, Robert Marianetti, David Wachtenheim",
+                "Start": "2023-11-17 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 67,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Les Mis\u00e9rables\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ladj Ly",
+                "Start": "2019-11-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 68,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Life\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Daniel Espinosa",
+                "Start": "2017-03-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 69,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Lights Out\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Christian Sesma",
+                "Start": "2024-02-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 70,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Love\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Gaspar No\u00e9",
+                "Start": "2015-05-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 71,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Mama\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Adi Garin",
+                "Start": "2025-01-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 72,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Man in Love\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Chen-Hao Yin",
+                "Start": "2021-04-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 73,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Marco\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Haneef Adeni",
+                "Start": "2024-12-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 74,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Maria\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Pablo Larra\u00edn",
+                "Start": "2024-11-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 75,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Mary\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "D.J. Caruso",
+                "Start": "2024-12-12 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 76,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Memory\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Michel Franco",
+                "Start": "2023-12-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 77,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Miracle in Cell No. 7\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Mehmet Ada \u00d6ztekin",
+                "Start": "2019-10-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 78,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Monolith\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Matt Vesely",
+                "Start": "2023-10-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 79,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Monster\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Hirokazu Kore-eda",
+                "Start": "2023-06-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 80,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Mothers' Instinct\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Beno\u00eet Delhomme",
+                "Start": "2024-01-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 81,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Non-Stop\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jack Kinsella",
+                "Start": "2025-02-28 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 82,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Nude\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Tony Sacco",
+                "Start": "2017-10-29 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 83,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Obsessed\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Igor Voloshin",
+                "Start": "2022-07-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 84,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"One Life\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "James Hawes",
+                "Start": "2023-12-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 85,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"One More Shot\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Nicholas Clifford",
+                "Start": "2025-03-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 86,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Outcast\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Nick Powell",
+                "Start": "2014-09-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 87,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Paradise\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Boris Kunz",
+                "Start": "2023-06-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 88,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Pinocchio\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Robert Zemeckis",
+                "Start": "2022-09-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 89,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Prey\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Mukunda Michael Dewil",
+                "Start": "2024-03-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 90,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"RED\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "FreddyLee Bourne",
+                "Start": "2025-03-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 91,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Retribution\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Nimr\u00f3d Antal",
+                "Start": "2023-08-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 92,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Revenge\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lee Beom",
+                "Start": "2024-09-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 93,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Rita\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jerry Lopez Sineneng",
+                "Start": "2024-03-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 94,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Robin Hood\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Otto Bathurst",
+                "Start": "2018-11-03 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 95,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Security\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Peter Chelsom",
+                "Start": "2021-06-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 96,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Silent Night\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "John Woo",
+                "Start": "2023-11-30 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 97,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Siren\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Gregg Bishop",
+                "Start": "2016-12-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 98,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Smile\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Parker Finn",
+                "Start": "2022-09-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 99,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Speak No Evil\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "James Watkins",
+                "Start": "2024-09-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 100,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Spellbound\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Vicky Jenson",
+                "Start": "2024-11-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 101,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Sugar Baby\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Alexander Prost",
+                "Start": "2024-04-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 102,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Survive\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Fr\u00e9d\u00e9ric Jardin",
+                "Start": "2024-06-19 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 103,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Tabu\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Miguel Gomes",
+                "Start": "2012-04-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 104,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Terrifier\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Damien Leone",
+                "Start": "2018-01-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 105,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The American\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "James Napier Robertson",
+                "Start": "2023-11-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 106,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Beach House\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jeffrey A. Brown",
+                "Start": "2020-10-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 107,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Beast\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Bertrand Bonello",
+                "Start": "2024-02-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 108,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Boy\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "William Brent Bell",
+                "Start": "2016-01-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 109,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Call\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Lee Chung-hyun",
+                "Start": "2020-11-23 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 110,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Colony\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Tim Fehlbaum",
+                "Start": "2021-08-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 111,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Gangster, the Cop, the Devil\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Wei Li",
+                "Start": "2023-03-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 112,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Girl on the Train\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ribhu Dasgupta",
+                "Start": "2021-02-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 113,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Host\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Andy Newbery",
+                "Start": "2020-01-17 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 114,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The House\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Anissa Bonnefont",
+                "Start": "2022-11-16 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 115,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Hunt\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Craig Zobel",
+                "Start": "2020-03-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 116,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Invitation\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jessica M. Thompson",
+                "Start": "2022-08-24 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 117,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Island\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Shaun Paul Piccinino",
+                "Start": "2023-07-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 118,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Killer\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "John Woo",
+                "Start": "2024-08-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 119,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The King\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "David Mich\u00f4d",
+                "Start": "2019-10-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 120,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Ledge\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Howard J. Ford",
+                "Start": "2022-02-18 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 121,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Legend of La Llorona\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Patricia Harris Seeley",
+                "Start": "2022-01-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 122,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Little Mermaid\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Rob Marshall",
+                "Start": "2023-05-18 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 123,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Monkey\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Osgood Perkins",
+                "Start": "2025-02-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 124,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Monkey King\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Anthony Stacchi",
+                "Start": "2023-08-11 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 125,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Most Beautiful Girl in the World\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Robert Ronny",
+                "Start": "2025-02-13 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 126,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Mule\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Clint Eastwood",
+                "Start": "2018-12-14 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 127,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Nun\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Corin Hardy",
+                "Start": "2018-09-05 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 128,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Other Woman\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Daniel Auteuil",
+                "Start": "2018-04-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 129,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Return\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Uberto Pasolini",
+                "Start": "2024-09-07 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 130,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Ritual\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "David Midell",
+                "Start": "2025-04-18 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 131,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Tank\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Scott Walker",
+                "Start": "2023-04-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 132,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Wailing\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Pedro Mart\u00edn Calero",
+                "Start": "2024-10-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 133,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Wall\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Doug Liman",
+                "Start": "2017-05-12 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 134,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"The Witch\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ronny A. Sosa",
+                "Start": "2021-10-28 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 135,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Thelma\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Josh Margolin",
+                "Start": "2024-06-21 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 136,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Trap\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "M. Night Shyamalan",
+                "Start": "2024-07-31 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 137,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Trouble\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jon Holmberg",
+                "Start": "2024-10-02 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 138,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Truth or Dare\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jeff Wadlow",
+                "Start": "2018-04-12 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 139,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Underwater\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "William Eubank",
+                "Start": "2020-01-08 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 140,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Unstoppable\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "\u6768\u950b, Feng Yang",
+                "Start": "2025-02-22 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 141,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Veronica\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Paco Plaza",
+                "Start": "2017-08-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 142,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Vice\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Adam McKay",
+                "Start": "2018-12-25 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 143,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Waves\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ji\u0159\u00ed M\u00e1dl",
+                "Start": "2024-08-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 144,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Whiplash\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Damien Chazelle",
+                "Start": "2014-10-10 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 145,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Wicked\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Jon M. Chu",
+                "Start": "2024-11-20 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 146,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"X\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Ti West",
+                "Start": "2022-03-17 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 147,
+        "qtype": "now",
+        "sql_for_db": "select Director, start, end from movie where Title = \"Young Hearts\" order by release_year desc limit 1",
+        "correct_rows": [
+            {
+                "Director": "Anthony Schatteman",
+                "Start": "2024-10-26 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    }
+]

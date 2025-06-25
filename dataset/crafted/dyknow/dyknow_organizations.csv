@@ -1,0 +1,122 @@
+Organization_name,Organization_type,Role,Name,Start,End
+Walmart,company,CEO,Doug McMillon,2014-01-01,
+Walmart,company,CEO,Mike Duke,2009-01-01,2014-01-01
+Walmart,company,CEO,Lee Scott,2000-01-01,2009-01-01
+Walmart,company,CEO,David Glass,1988-01-01,2000-01-01
+Walmart,company,CEO,Sam Walton,1950-01-01,1988-01-01
+Saudi Aramco,company,CEO,Khalid A. Al-Falih,2009-01-01,2015-01-01
+Saudi Aramco,company,CEO,Amin H. Al-Nasser,2015-01-01,
+Amazon,company,CEO,Andy Jassy,2021-07-06,
+Amazon,company,CEO,Jeff Bezos,1996-01-01,2021-07-05
+ExxonMobil,company,CEO,Rex Tillerson,2006-01-01,2017-01-01
+ExxonMobil,company,CEO,Darren Woods,2017-01-01,
+ExxonMobil,company,CEO,Lee Raymond,1999-01-01,2005-01-01
+Apple,company,CEO,Michael Scott,1977-01-01,1981-01-01
+Apple,company,CEO,Mike Markkula,1981-01-01,1983-01-01
+Apple,company,CEO,John Sculley,1983-01-01,1993-01-01
+Apple,company,CEO,Michael Spindler,1993-01-01,1996-01-01
+Apple,company,CEO,Gil Amelio,1996-01-01,1997-01-01
+Apple,company,CEO,Steve Jobs,1997-09-01,2011-08-23
+Apple,company,CEO,Tim Cook,2011-08-24,
+Shell,company,CEO,Ben van Beurden,2014-01-01,2022-12-31
+Shell,company,CEO,Peter Voser,2009-01-01,2013-12-31
+Shell,company,CEO,Jeroen van der Veer,2005-01-01,2009-01-01
+Shell,company,CEO,Wael Sawan,2023-01-01,
+CVS Health,company,CEO,Larry Merlo,2011-01-01,2024-10-01
+CVS Health,company,CEO,David Joyner,2024-10-01,
+Berkshire Hathaway,company,CEO,Warren Buffett,1970-01-01,1978-01-01
+Berkshire Hathaway,company,CEO,Charlie Munger,1978-01-01,2023-01-01
+Berkshire Hathaway,company,CEO,Greg Abel,2023-05-01,
+Volkswagen Group,company,CEO,Heinrich Nordhoff,1948-01-01,1968-01-01
+Volkswagen Group,company,CEO,Kurt Lotz,1968-01-01,1971-01-01
+Volkswagen Group,company,CEO,Rudolf Leiding,1971-01-01,1975-01-01
+Volkswagen Group,company,CEO,Toni Schmücker,1975-01-01,1982-01-01
+Volkswagen Group,company,CEO,Carl Hahn,1982-01-01,1993-01-01
+Volkswagen Group,company,CEO,Ferdinand Piëch,1993-01-01,2002-01-01
+Volkswagen Group,company,CEO,Bernd Pischetsrieder,2002-01-01,2006-01-01
+Volkswagen Group,company,CEO,Martin Winterkorn,2007-01-01,2015-01-01
+Volkswagen Group,company,CEO,Matthias Müller,2015-01-01,2018-01-01
+Volkswagen Group,company,CEO,Herbert Diess,2018-01-01,2022-08-31
+Volkswagen Group,company,CEO,Hermann Münch,1946-01-01,1947-01-01
+Volkswagen Group,company,CEO,Oliver Blume,2022-09-01,
+Alphabet Inc.,company,CEO,Larry Page,2015-08-10,2019-12-03
+Alphabet Inc.,company,CEO,Sundar Pichai,2019-12-03,
+Toyota,company,CEO,Akio Toyoda,2009-01-01,
+Toyota,company,CEO,Katsuaki Watanabe,2005-01-01,2009-01-01
+TotalEnergies,company,CEO,Christophe de Margerie,2007-01-01,2014-10-20
+TotalEnergies,company,CEO,Thierry Desmarest,1995-01-01,2007-01-01
+TotalEnergies,company,CEO,Serge Tchuruk,1990-01-01,1995-01-01
+TotalEnergies,company,CEO,François-Xavier Ortoli,1984-01-01,1990-01-01
+TotalEnergies,company,CEO,René Granier de Lilliac,1971-01-01,1984-01-01
+TotalEnergies,company,CEO,Victor de Metz,1945-01-01,1971-01-01
+TotalEnergies,company,CEO,Jules Mény,1928-01-01,1943-01-01
+TotalEnergies,company,CEO,Anas Farouki,1924-01-01,1928-01-01
+TotalEnergies,company,CEO,Patrick Pouyanné,2014-01-01,
+TotalEnergies,company,CEO,Marcel Champin,1943-01-01,1945-01-01
+Glencore,company,CEO,Ivan Glasenberg,2002-01-01,2021-01-01
+Glencore,company,CEO,Gary Nagle,2021-01-01,
+BP,company,CEO,Bob Dudley,2010-10-01,2020-02-05
+BP,company,CEO,Bernard Looney,2020-02-05,2024-01-01
+BP,company,CEO,Murray Auchincloss,2024-01-01,
+Microsoft,company,CEO,Steve Ballmer,2000-01-01,2014-02-04
+Microsoft,company,CEO,Satya Nadella,2014-02-04,
+Microsoft,company,CEO,Bill Gates,1975-01-01,2000-01-01
+Gazprom,company,CEO,Alexey Miller,2001-01-01,
+Gazprom,company,CEO,Rem Viakhirev,1992-01-01,2001-01-01
+Ford Motor Company,company,CEO,Mark Fields,2014-01-01,2017-05-21
+Ford Motor Company,company,CEO,Jim Farley,2020-10-01,
+Ford Motor Company,company,CEO,John S. Gray,1903-01-01,1906-01-01
+Ford Motor Company,company,CEO,Henry Ford,1906-01-01,1945-01-01
+Ford Motor Company,company,CEO,Henry Ford II,1945-01-01,1979-01-01
+Ford Motor Company,company,CEO,Philip Caldwell,1979-01-01,1985-01-01
+Ford Motor Company,company,CEO,Donald Petersen,1985-01-01,1990-01-01
+Ford Motor Company,company,CEO,Harold Arthur Poling,1990-01-01,1993-01-01
+Ford Motor Company,company,CEO,"Alexander Trotman, Baron Trotman",1993-01-01,1998-01-01
+Ford Motor Company,company,CEO,Jacques Nasser,1999-01-01,2001-01-01
+Ford Motor Company,company,CEO,William Clay Ford,2001-01-01,2006-01-01
+Ford Motor Company,company,CEO,Alan Mulally,2006-01-01,2014-01-01
+Ford Motor Company,company,CEO,James Hackett,2017-01-01,2020-01-01
+United Nations,organization,general secretary,António Guterres,2017-01-01,
+United Nations,organization,general secretary,Ban Ki-moon,2007-01-01,2016-12-31
+United Nations,organization,general secretary,Kofi Annan,1997-01-01,2006-01-01
+United Nations,organization,general secretary,Boutros Boutros-Ghali,1992-01-01,1996-12-31
+United Nations,organization,general secretary,Javier Pérez de Cuéllar,1982-01-01,1991-12-31
+United Nations,organization,general secretary,Kurt Waldheim,1972-01-01,1981-12-31
+United Nations,organization,general secretary,U Thant,1961-11-03,1971-12-31
+United Nations,organization,general secretary,Dag Hammarskjöld,1953-04-10,1961-09-18
+United Nations,organization,general secretary,Trygve Lie,1946-02-02,1952-11-10
+World Bank,organization,chairperson,Kristalina Georgieva,2019-02-20,2019-04-09
+World Bank,organization,chairperson,Jim Yong Kim,2012-07-01,2019-02-01
+World Bank,organization,chairperson,David Malpass,2019-04-09,2023-06-01
+World Bank,organization,chairperson,Ajaypal Singh Banga,2023-06-02,
+International Atomic Energy Agency,organization,director / manager,Yukiya Amano,2009-01-01,2019-07-18
+International Atomic Energy Agency,organization,director / manager,Mohamed ElBaradei,1997-01-01,2009-01-01
+International Atomic Energy Agency,organization,director / manager,William Sterling Cole,1957-01-01,1961-01-01
+International Atomic Energy Agency,organization,director / manager,Sigvard Arne Eklund,1961-01-01,1981-01-01
+International Atomic Energy Agency,organization,director / manager,Hans Blix,1981-01-01,1997-01-01
+International Atomic Energy Agency,organization,director / manager,Rafael Grossi,2019-12-03,
+North Atlantic Treaty Organization,organization,general secretary,Jens Stoltenberg,2024-10-01,
+North Atlantic Treaty Organization,organization,general secretary,Jens Stoltenberg,2014-10-01,2024-09-30
+North Atlantic Treaty Organization,organization,general secretary,Anders Fogh Rasmussen,2009-01-01,2014-09-30
+North Atlantic Treaty Organization,organization,general secretary,Jaap de Hoop Scheffer,2004-01-01,2009-01-01
+North Atlantic Treaty Organization,organization,general secretary,Alessandro Minuto-Rizzo,2003-01-01,2003-01-01
+North Atlantic Treaty Organization,organization,general secretary,"George Robertson, Baron Robertson of Port Ellen",1999-10-14,2003-01-01
+North Atlantic Treaty Organization,organization,general secretary,Javier Solana,1995-12-05,1999-10-06
+North Atlantic Treaty Organization,organization,general secretary,Sergio Balanzino,1995-10-20,1995-12-05
+North Atlantic Treaty Organization,organization,general secretary,Willy Claes,1994-10-17,1995-10-20
+North Atlantic Treaty Organization,organization,general secretary,Sergio Balanzino,1994-08-13,1994-10-17
+North Atlantic Treaty Organization,organization,general secretary,Manfred Wörner,1988-07-01,1994-08-13
+North Atlantic Treaty Organization,organization,general secretary,"Peter Carington, 6th Baron Carrington",1984-06-25,1988-07-01
+North Atlantic Treaty Organization,organization,general secretary,Joseph Luns,1971-10-01,1984-06-25
+International Olympic Committee,organization,chairperson,Dimitrios Vikelas,1894-01-01,1896-01-01
+International Olympic Committee,organization,chairperson,Pierre de Coubertin,1896-01-01,1916-01-01
+International Olympic Committee,organization,chairperson,Godefroy de Blonay,1916-01-01,1919-01-01
+International Olympic Committee,organization,chairperson,Pierre de Coubertin,1919-01-01,1925-01-01
+International Olympic Committee,organization,chairperson,Henri de Baillet-Latour,1925-01-01,1942-01-01
+International Olympic Committee,organization,chairperson,Sigfrid Edström,1942-01-01,1946-01-01
+International Olympic Committee,organization,chairperson,Sigfrid Edström,1946-01-01,1952-01-01
+International Olympic Committee,organization,chairperson,Avery Brundage,1952-01-01,1972-01-01
+International Olympic Committee,organization,chairperson,"Michael Morris, 3rd Baron Killanin",1972-01-01,1980-01-01
+International Olympic Committee,organization,chairperson,Juan Antonio Samaranch,1980-01-01,2001-01-01
+International Olympic Committee,organization,chairperson,Jacques Rogge,2001-01-01,2013-01-01
+International Olympic Committee,organization,chairperson,Thomas Bach,2013-09-10,

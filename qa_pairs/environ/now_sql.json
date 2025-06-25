@@ -1,0 +1,1296 @@
+[
+    {
+        "idx": 0,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Finland\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1990-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 1,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Poland\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1990-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 2,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Norway\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1991-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 3,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Sweden\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1991-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 4,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Denmark\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1992-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 5,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Latvia\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2004-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 6,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Slovenia\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "1996-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 7,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Estonia\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2000-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 8,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"EU 27\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2005-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 9,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Alberta\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2007-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 10,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Switzerland\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 11,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"New Zealand\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 12,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Switzerland\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 13,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"British Columbia\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 14,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"RGGI\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2009-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 15,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Iceland\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2010-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 16,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Tokyo\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2010-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 17,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Ireland\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2010-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 18,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Saitama\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2011-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 19,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"California\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2012-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 20,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Japan\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2012-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 21,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Quebec\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 22,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Kazakhstan\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 23,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"United Kingdom\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 24,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Shenzhen\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 25,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Shanghai\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 26,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Beijing\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 27,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Guangdong\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 28,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Tianjin\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 29,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"France\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 30,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Hubei\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 31,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Chongqing\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 32,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Korea, Rep.\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 33,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Portugal\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 34,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"British Columbia\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2016-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 35,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Australia\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 36,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"South Africa\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 37,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Chile\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 38,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Colombia\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 39,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Ukraine\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2011-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 40,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Liechtenstein\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 41,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Washington\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 42,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Fujian\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2016-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 43,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Canada\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 44,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Singapore\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 45,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"China\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 46,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Mexico\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2020-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 47,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Newfoundland and Labrador\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 48,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Massachusetts\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2018-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 49,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Northwest Territories\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 50,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Nova Scotia\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 51,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Canada\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 52,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Netherlands\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 53,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Argentina\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2018-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 54,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Saskatchewan\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 55,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Spain\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 56,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"New Brunswick\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 57,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Ontario\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 58,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Indonesia\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 59,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Germany\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 60,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Luxembourg\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 61,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Serbia and Montenegro\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 62,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"United Kingdom\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 63,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Austria\" and Type = \"ETS\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 64,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Uruguay\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 65,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Taiwan\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2024-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 66,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Queretaro\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 67,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"State of Mexico\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 68,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Yucatan\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 69,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Guanajuato\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 70,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Durango\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2024-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 71,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Hungary\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 72,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Albania\" and Type = \"Carbon tax\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2008-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 73,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Alberta\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2007-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 74,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Australia\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2012-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 75,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"British Columbia\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2016-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 76,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"California\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 77,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Canada\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 78,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Chile\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2024-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 79,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"China\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 80,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Chongqing\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 81,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Colombia\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 82,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Fujian\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 83,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Saudi Arabia\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2024-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 84,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Guangdong\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 85,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Kazakhstan\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 86,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Nova Scotia\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 87,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Portugal\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2024-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 88,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Quebec\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 89,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"South Korea\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 90,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"nan\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 91,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Sakhalin\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 92,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"South Africa\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 93,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Spain\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2011-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 94,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Sri Lanka\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2016-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 95,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Switzerland\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2012-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 96,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Taiwan\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 97,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Thailand\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2014-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 98,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Tokyo\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2010-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    },
+    {
+        "idx": 99,
+        "qtype": "now",
+        "sql_for_db": "select Status, start, end from environ where Jurisdiction = \"Washington\" and Type = \"carbon crediting mechanism\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Status": "yes",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": []
+    }
+]

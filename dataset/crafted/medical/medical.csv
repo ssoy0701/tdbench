@@ -1,0 +1,302 @@
+Name,Gender,Blood_Type,Medical_Condition,Doctor,Hospital,Insurance_Provider,Billing_Amount,Room_Number,Medication,Start,End
+Ryan Garrison Dvm,Male,AB-,Obesity,Cory Chambers,"Erickson Williams, Caldwell and",Aetna,37237,108,Paracetamol,2019-06-03,2019-06-24
+Ryan Garrison Dvm,Male,AB-,Hypertension,Laura Guerra,LLC Hodge,Blue Cross,41840,176,Penicillin,2021-11-24,2021-12-13
+Ryan Garrison Dvm,Male,AB-,Asthma,Kelly Nelson,Group Jacobs,UnitedHealthcare,19339,236,Lipitor,2023-08-21,2023-09-14
+Brandon Morgan,Female,B+,Asthma,Bryan Howell,Garcia Sons and,Cigna,15379,249,Paracetamol,2021-03-29,2021-04-05
+Brandon Morgan,Female,B+,Cancer,Melinda Bennett,"Martinez and Rodriguez, Lozano",Cigna,11434,315,Lipitor,2022-12-30,2023-01-09
+Brandon Morgan,Female,B+,Arthritis,Paul Mayer,"and Russo Noble Gonzalez,",UnitedHealthcare,25798,392,Penicillin,2024-01-19,2024-02-05
+Lucas Alvarez,Female,A+,Diabetes,Cheryl Hays,"Villanueva, Gill and Mullins",Aetna,19784,316,Ibuprofen,2021-03-07,2021-03-15
+Lucas Alvarez,Female,A+,Obesity,Dawn Miller,Inc Ochoa,Blue Cross,20768,317,Ibuprofen,2021-03-21,2021-04-15
+Lucas Alvarez,Female,A+,Arthritis,Bryan Patterson,Le PLC,Medicare,31259,433,Penicillin,2021-07-30,2021-08-07
+Lucas Alvarez,Female,A+,Hypertension,Daniel Walters,PLC Osborne,Blue Cross,43023,137,Ibuprofen,2021-11-09,2021-11-17
+Lucas Alvarez,Female,A+,Asthma,Ann White,"Green, Donaldson Miller and",Cigna,46156,236,Penicillin,2022-07-07,2022-08-05
+Michael Wolfe,Female,O+,Diabetes,Jack Gillespie MD,Green-Smith,Aetna,34541,366,Penicillin,2019-08-11,2019-08-20
+Michael Wolfe,Female,O+,Cancer,Matthew Mcdonald,"Perez Fletcher and Lynch,",Medicare,28792,495,Paracetamol,2022-07-24,2022-08-01
+Michael Wolfe,Female,O+,Asthma,Crystal Wells,Inc Pacheco,UnitedHealthcare,12953,440,Ibuprofen,2023-03-20,2023-04-18
+Michael Wolfe,Female,O+,Cancer,Kaitlyn Cooper,Nelson-Williams,Aetna,35987,341,Ibuprofen,2023-12-27,2024-01-16
+Jessica Fuentes,Male,A-,Diabetes,Robert Woods,Rosario-Wilkins,Medicare,44258,384,Ibuprofen,2020-05-28,2020-06-05
+Jessica Fuentes,Male,A-,Obesity,David Johnson,"Castro and Johnson Griffith,",Medicare,29923,113,Paracetamol,2021-09-05,2021-09-30
+Jessica Fuentes,Male,A-,Arthritis,Christian Lynch,Mcclain LLC,UnitedHealthcare,7864,237,Ibuprofen,2022-03-04,2022-03-18
+Jessica Fuentes,Male,A-,Cancer,Russell Green,"Miller Stout and Owens,",UnitedHealthcare,17086,226,Lipitor,2022-07-19,2022-07-29
+Christopher Stephens,Female,AB+,Arthritis,Robert Adams,Allen-Holland,Blue Cross,38982,284,Paracetamol,2019-05-13,2019-05-17
+Christopher Stephens,Female,AB+,Obesity,Julia Burns,Cortez LLC,Aetna,35013,141,Penicillin,2021-06-18,2021-06-30
+Christopher Stephens,Female,AB+,Hypertension,Cory Moyer,LLC Benjamin,Cigna,20634,460,Paracetamol,2022-02-04,2022-02-14
+Christopher Stephens,Female,AB+,Obesity,Mark Brown,Clark-Stewart,Cigna,39909,176,Penicillin,2023-08-12,2023-09-01
+Monica Russell Dds,Male,B-,Diabetes,Jessica Robertson,"Benson Wilson and Stewart,",Aetna,45063,393,Aspirin,2020-01-02,2020-01-11
+Monica Russell Dds,Male,B-,Diabetes,Tara Perkins,Inc Graves,Medicare,2477,273,Penicillin,2020-06-05,2020-07-03
+Monica Russell Dds,Male,B-,Arthritis,Adrian Garcia DDS,Palmer-Smith,UnitedHealthcare,1597,389,Penicillin,2022-06-21,2022-07-19
+Christopher Barajas,Male,B+,Obesity,Stephanie Tran,PLC Mathis,Medicare,35344,285,Lipitor,2019-05-08,2019-06-01
+Christopher Barajas,Male,B+,Hypertension,Nicole Roman,"Hughes and Wong, Tanner",Medicare,32893,120,Aspirin,2020-09-02,2020-09-10
+Christopher Barajas,Male,B+,Asthma,Mary Hudson,"Johnson, Sanders Day and",Blue Cross,6129,411,Lipitor,2020-09-18,2020-09-23
+Christopher Barajas,Male,B+,Obesity,Joseph Steele,Inc Thomas,Blue Cross,38065,261,Lipitor,2021-04-11,2021-04-28
+Christopher Barajas,Male,B+,Cancer,Tina Ballard,Inc Gonzalez,Blue Cross,27157,361,Ibuprofen,2022-04-11,2022-05-03
+Christopher Barajas,Male,B+,Hypertension,Mrs. Norma Charles,"Hahn Simpson, Young and",Blue Cross,15345,146,Penicillin,2022-05-21,2022-05-29
+Christopher Barajas,Male,B+,Asthma,Paula Keith,Lee Ltd,UnitedHealthcare,9541,176,Penicillin,2022-07-22,2022-08-06
+Kyle Jackson,Female,B-,Asthma,Barbara Parsons,Small-Shaw,Cigna,31988,156,Paracetamol,2020-05-24,2020-06-15
+Kyle Jackson,Female,B-,Diabetes,John Hernandez,Snyder-Robinson,Cigna,36215,361,Lipitor,2020-11-19,2020-12-12
+Kyle Jackson,Female,B-,Hypertension,Matthew West,Kim and Sons,UnitedHealthcare,29977,447,Aspirin,2021-11-14,2021-11-30
+Juan Harmon,Female,A+,Obesity,Jennifer Griffin,Weaver-Sharp,Cigna,8567,150,Aspirin,2020-03-06,2020-03-15
+Juan Harmon,Female,A+,Obesity,Mr. Tyler Martinez,"Beck Young Rogers, and",UnitedHealthcare,44451,312,Ibuprofen,2020-05-07,2020-05-17
+Juan Harmon,Female,A+,Diabetes,Amy Smith,Craig Group,UnitedHealthcare,32328,239,Penicillin,2021-01-01,2021-01-13
+Juan Harmon,Female,A+,Obesity,Nicholas Reynolds,"and Graham Flores, Carrillo",Medicare,43114,207,Ibuprofen,2021-01-02,2021-01-08
+Juan Harmon,Female,A+,Arthritis,Andrew Logan,Kline Inc,Medicare,10312,122,Ibuprofen,2021-08-08,2021-08-15
+Juan Harmon,Female,A+,Hypertension,Ashlee Williams,Dean-Robbins,UnitedHealthcare,44318,418,Penicillin,2022-04-26,2022-05-12
+Juan Harmon,Female,A+,Cancer,Bruce Young,Moore Group,Medicare,14003,314,Aspirin,2024-02-07,2024-02-22
+Melissa Figueroa,Male,AB+,Arthritis,Stephanie Fernandez,Bullock-Davis,Aetna,12915,148,Penicillin,2020-10-10,2020-10-19
+Melissa Figueroa,Male,AB+,Obesity,Steven Hicks,Moore-Orr,Medicare,27479,157,Lipitor,2022-10-20,2022-11-03
+Melissa Figueroa,Male,AB+,Obesity,Kimberly French,Ltd Gregory,Blue Cross,40843,196,Paracetamol,2022-12-26,2023-01-21
+Melissa Figueroa,Male,AB+,Arthritis,Blake Chang,Robinson-Olson,Cigna,10545,127,Penicillin,2023-01-15,2023-01-24
+Melissa Figueroa,Male,AB+,Diabetes,George Stone,"Bruce Harris and Robinson,",Medicare,17277,190,Paracetamol,2023-03-22,2023-04-18
+Melissa Figueroa,Male,AB+,Hypertension,Timothy Morrison,Martinez Inc,UnitedHealthcare,24166,224,Aspirin,2024-03-10,2024-03-14
+Olivia Reid,Female,AB+,Cancer,John Zavala,LLC Ryan,UnitedHealthcare,27479,389,Lipitor,2023-04-28,2023-05-01
+Olivia Reid,Female,AB+,Asthma,Natalie Lamb,Group Scott,Blue Cross,28586,165,Aspirin,2023-08-13,2023-08-15
+Olivia Reid,Female,AB+,Obesity,Michelle Miller,Inc Green,Cigna,28036,268,Penicillin,2024-02-10,2024-02-15
+Jerome Davis,Male,B+,Cancer,Carrie Walter,Flores-Joseph,Medicare,9643,296,Penicillin,2020-10-19,2020-10-21
+Jerome Davis,Male,B+,Cancer,Timothy Brown,Brown PLC,UnitedHealthcare,43811,496,Paracetamol,2023-05-20,2023-05-25
+Jerome Davis,Male,B+,Hypertension,Dr. Ronald Villanueva,Jenkins Sons and,Medicare,38084,468,Penicillin,2023-08-03,2023-09-02
+Lawrence Thompson,Male,AB-,Obesity,Mr. David Smith,Garcia Inc,Medicare,14265,217,Ibuprofen,2019-06-01,2019-06-04
+Lawrence Thompson,Male,AB-,Cancer,Lindsay Pierce,"and Alexander Crawford Graham,",Aetna,27507,286,Ibuprofen,2021-07-21,2021-07-31
+Lawrence Thompson,Male,AB-,Arthritis,Nicholas Aguirre,Ltd Smith,Cigna,46290,278,Paracetamol,2023-08-04,2023-09-02
+William Davis,Male,B-,Arthritis,Melanie Wilson,"Flynn, and Lee Mcclain",Blue Cross,26255,352,Lipitor,2020-03-06,2020-03-25
+William Davis,Male,B-,Obesity,Sabrina Garcia,Powell Ltd,Aetna,41529,173,Aspirin,2020-10-22,2020-10-27
+William Davis,Male,B-,Asthma,Kenneth Bailey,Jones-Miranda,Aetna,36014,259,Lipitor,2022-04-30,2022-05-12
+William Davis,Male,B-,Cancer,Heather Hood,Soto-Anderson,Medicare,31577,444,Lipitor,2022-07-22,2022-08-17
+Mark Hutchinson,Female,B+,Obesity,Richard Hicks,"Hodges Olsen, and Stevens",Blue Cross,26962,281,Ibuprofen,2020-11-12,2020-11-25
+Mark Hutchinson,Female,B+,Arthritis,Elizabeth Morales,"Nguyen Smith, Flores and",Aetna,2419,387,Lipitor,2021-07-31,2021-08-13
+Mark Hutchinson,Female,B+,Asthma,Kayla Ferguson,Huff PLC,UnitedHealthcare,32339,470,Ibuprofen,2023-09-21,2023-10-04
+Mark Hutchinson,Female,B+,Asthma,Alexandria Pearson,Branch LLC,Cigna,7389,144,Penicillin,2024-04-01,2024-04-27
+Billy Petersen,Female,B+,Obesity,Donald Hebert,"and Reynolds Moore Martin,",Medicare,32363,161,Penicillin,2019-07-02,2019-07-13
+Billy Petersen,Female,B+,Cancer,Joshua Thompson,Wright-Wagner,Medicare,17561,352,Ibuprofen,2019-11-16,2019-11-19
+Billy Petersen,Female,B+,Hypertension,Arthur Jones,and Mcdonald Sons,Aetna,39348,208,Aspirin,2021-04-14,2021-05-07
+Billy Petersen,Female,B+,Hypertension,Matthew Barnes,Edwards PLC,Aetna,20730,187,Paracetamol,2021-07-26,2021-08-14
+Billy Petersen,Female,B+,Hypertension,Randy Sims,Flores Inc,Cigna,25268,372,Paracetamol,2021-12-19,2021-12-20
+Billy Petersen,Female,B+,Hypertension,Raven Johnson,Ltd Garza,UnitedHealthcare,40856,118,Penicillin,2022-05-05,2022-05-25
+Billy Petersen,Female,B+,Asthma,Dr. Dennis Davis DDS,Suarez-Hickman,Blue Cross,48260,462,Paracetamol,2022-08-20,2022-09-03
+Roger Hamilton,Female,O-,Arthritis,Luis Franklin,Group Kim,Cigna,36508,304,Lipitor,2020-05-16,2020-05-26
+Roger Hamilton,Female,O-,Arthritis,Tonya Hall,Ortega Inc,Aetna,23820,439,Aspirin,2020-07-21,2020-08-11
+Roger Hamilton,Female,O-,Hypertension,Mrs. Melissa Gomez,"Anderson Smith, Smith and",UnitedHealthcare,32794,152,Aspirin,2020-08-15,2020-08-23
+Roger Hamilton,Female,O-,Cancer,Stacy Rodriguez,White-Lewis,Medicare,19556,128,Aspirin,2023-01-09,2023-01-13
+Roger Hamilton,Female,O-,Arthritis,Hannah Warren,Inc Irwin,UnitedHealthcare,9754,294,Paracetamol,2023-03-25,2023-04-07
+Roger Hamilton,Female,O-,Obesity,Jerome Brown,"Graham and Nunez Campbell,",UnitedHealthcare,30344,422,Ibuprofen,2023-04-25,2023-05-10
+Roger Hamilton,Female,O-,Diabetes,Kenneth Duarte,"Boyer, and Hill Terry",Medicare,11995,455,Paracetamol,2023-09-16,2023-10-06
+Sarah Hood,Female,AB-,Obesity,Mike Hoffman,"Rojas and Rojas, Rowe",Blue Cross,39496,253,Aspirin,2019-11-24,2019-12-03
+Sarah Hood,Female,AB-,Hypertension,Michael Thompson,"George Henry Kelly, and",UnitedHealthcare,45755,234,Aspirin,2020-10-19,2020-10-21
+Sarah Hood,Female,AB-,Arthritis,Lacey Duran,Cole-Cruz,UnitedHealthcare,28347,497,Lipitor,2021-12-16,2021-12-18
+Brandy Cannon,Male,AB+,Asthma,Douglas Edwards,Ltd Brown,Cigna,39420,449,Ibuprofen,2019-08-24,2019-09-13
+Brandy Cannon,Male,AB+,Obesity,Richard Booker,"Cochran Whitney, and Novak",UnitedHealthcare,41808,102,Aspirin,2019-09-13,2019-09-26
+Brandy Cannon,Male,AB+,Hypertension,Paul Proctor,PLC Zamora,Medicare,7219,415,Paracetamol,2019-10-31,2019-11-06
+Brandy Cannon,Male,AB+,Asthma,Joshua Campbell,Hall Sons and,Cigna,38598,420,Ibuprofen,2020-11-22,2020-11-24
+Brandy Cannon,Male,AB+,Hypertension,Richard Murphy,"Douglas Williams, and Rivera",Blue Cross,16601,462,Penicillin,2021-02-19,2021-02-26
+Brandy Cannon,Male,AB+,Arthritis,Deborah Murphy,Young Ltd,UnitedHealthcare,23127,249,Lipitor,2021-08-30,2021-09-10
+Brandy Cannon,Male,AB+,Arthritis,Dustin Alvarez,"Nelson Baldwin, Boyd and",UnitedHealthcare,38572,123,Ibuprofen,2021-10-28,2021-10-31
+Jason Garcia,Male,AB-,Arthritis,Amanda Flores,Weaver-Pierce,Aetna,10732,301,Lipitor,2020-02-23,2020-03-12
+Jason Garcia,Male,AB-,Obesity,Jillian Ramos,Whitehead PLC,Aetna,16572,128,Ibuprofen,2020-04-23,2020-04-29
+Jason Garcia,Male,AB-,Obesity,Sarah Espinoza,"White, and Jones Perez",UnitedHealthcare,15839,259,Ibuprofen,2022-01-29,2022-02-27
+Jason Garcia,Male,AB-,Cancer,Brian Bell,"Howard and Nunez Lee,",UnitedHealthcare,44309,181,Aspirin,2022-11-30,2022-12-14
+Jerry Martin,Male,A+,Asthma,Katrina Davila,"Carter and Green Watkins,",Medicare,3523,445,Paracetamol,2020-01-02,2020-01-20
+Jerry Martin,Male,A+,Hypertension,Scott Harmon,and Sons Campbell,Cigna,6555,464,Ibuprofen,2020-12-18,2021-01-15
+Jerry Martin,Male,A+,Arthritis,Sean Kennedy,Davis-Wilkinson,UnitedHealthcare,16375,166,Aspirin,2022-05-29,2022-05-31
+Jerry Martin,Male,A+,Diabetes,Christopher Jennings,White-Vega,Medicare,26430,224,Aspirin,2022-10-08,2022-10-18
+Jerry Martin,Male,A+,Obesity,Melissa Rodriguez,Rivera-Cunningham,UnitedHealthcare,34306,196,Aspirin,2023-08-25,2023-09-05
+Jerry Martin,Male,A+,Obesity,Zachary Wright,"and Dennis Serrano, Davis",Aetna,38946,477,Penicillin,2023-10-31,2023-11-09
+Jerry Martin,Male,A+,Arthritis,Cheryl Gomez,Pugh-Horton,UnitedHealthcare,17323,443,Aspirin,2024-03-17,2024-04-03
+Matthew Jimenez,Female,AB+,Obesity,Barbara Barber,PLC Jones,Cigna,29357,229,Paracetamol,2021-04-29,2021-05-01
+Matthew Jimenez,Female,AB+,Diabetes,Kristen Holmes,"Sawyer and Atkinson, West",Medicare,13532,206,Paracetamol,2021-05-12,2021-05-14
+Matthew Jimenez,Female,AB+,Asthma,Jason Torres,Johnson Inc,Aetna,34417,298,Paracetamol,2021-08-22,2021-08-27
+Matthew Jimenez,Female,AB+,Arthritis,Brent Wright,Ellis-Knight,Blue Cross,29442,175,Ibuprofen,2023-05-18,2023-06-07
+Matthew Jimenez,Female,AB+,Hypertension,Nicholas Lee,Johns-King,UnitedHealthcare,12786,383,Aspirin,2023-08-09,2023-08-20
+Matthew Jimenez,Female,AB+,Asthma,Alyssa Cunningham,Morris-Snyder,UnitedHealthcare,10597,368,Ibuprofen,2024-03-22,2024-03-25
+Justin Hooper,Female,A+,Arthritis,Kristine Jackson,"Harris and Chandler Brown,",Medicare,35634,285,Lipitor,2019-05-24,2019-05-29
+Justin Hooper,Female,A+,Hypertension,Linda Moore,Inc White,Blue Cross,37334,152,Penicillin,2019-05-27,2019-05-29
+Justin Hooper,Female,A+,Hypertension,Vanessa Oliver,Group Barnett,Aetna,30295,332,Ibuprofen,2021-11-02,2021-11-12
+Justin Hooper,Female,A+,Arthritis,Timothy Wood,"Hernandez Brown, and Norman",UnitedHealthcare,46947,160,Ibuprofen,2023-02-03,2023-02-08
+Robert Thompson,Female,B+,Diabetes,Shawn Cain,"and Flores Thomas, Miller",UnitedHealthcare,49792,332,Paracetamol,2020-03-20,2020-03-30
+Robert Thompson,Female,B+,Hypertension,Mark Fisher,Weaver-Krueger,Blue Cross,45653,174,Penicillin,2020-08-03,2020-08-26
+Robert Thompson,Female,B+,Hypertension,Victoria Leonard,PLC Juarez,UnitedHealthcare,48748,269,Lipitor,2020-09-04,2020-09-20
+Robert Thompson,Female,B+,Arthritis,Catherine Moore,PLC Rodgers,Aetna,25459,169,Ibuprofen,2022-06-24,2022-07-01
+Robert Thompson,Female,B+,Diabetes,Mrs. Linda Miles,"and Sullivan, Mcclure Shields",Aetna,41222,255,Lipitor,2022-10-03,2022-10-14
+Robert Thompson,Female,B+,Asthma,Emily Williams,PLC Logan,Cigna,40341,457,Lipitor,2023-03-24,2023-04-01
+Robin Barajas Md,Female,B-,Diabetes,Lisa Walker,"and Brown Vasquez Long,",Aetna,26848,407,Ibuprofen,2020-01-23,2020-01-30
+Robin Barajas Md,Female,B-,Cancer,Tara Mendez,Group Schwartz,Aetna,24668,389,Ibuprofen,2020-12-15,2021-01-05
+Robin Barajas Md,Female,B-,Diabetes,Cheryl Campbell,Lopez-Werner,Aetna,39906,487,Penicillin,2021-05-31,2021-06-20
+Robin Barajas Md,Female,B-,Obesity,Robert Keller,"Cochran and Castillo Marshall,",Aetna,19231,315,Aspirin,2021-06-28,2021-07-08
+Robin Barajas Md,Female,B-,Obesity,Andrew West,"Johnson Simmons, and Garrison",Cigna,32755,252,Ibuprofen,2021-08-19,2021-08-29
+Robin Barajas Md,Female,B-,Obesity,Patricia Mason,Clark Inc,Medicare,6325,216,Lipitor,2022-01-10,2022-01-28
+Robin Barajas Md,Female,B-,Hypertension,Amanda Little,Barnett PLC,Cigna,15291,367,Ibuprofen,2024-03-18,2024-03-30
+Connor Meyer,Female,AB+,Asthma,David Stevenson,Cooper-Stewart,Blue Cross,36546,226,Lipitor,2019-12-16,2019-12-18
+Connor Meyer,Female,AB+,Diabetes,Michelle Molina,Guerra-Wheeler,Medicare,45850,126,Ibuprofen,2022-10-08,2022-11-07
+Connor Meyer,Female,AB+,Hypertension,Christopher Suarez,Johnston-Kim,Blue Cross,24135,484,Lipitor,2023-08-15,2023-08-22
+Connor Meyer,Female,AB+,Arthritis,David Ritter,Ball-Stevens,Cigna,3333,444,Aspirin,2023-11-17,2023-11-18
+Connor Meyer,Female,AB+,Cancer,Bobby Marks,Adams-Henry,Blue Cross,15422,431,Paracetamol,2024-03-15,2024-04-09
+Christy Gross,Female,A-,Obesity,Betty Johnson,"York Smith Lane, and",Blue Cross,23095,456,Lipitor,2020-04-21,2020-05-17
+Christy Gross,Female,A-,Diabetes,Erin Davis,"Johnson Baldwin, and Brown",Aetna,7102,365,Lipitor,2021-09-24,2021-09-29
+Christy Gross,Female,A-,Obesity,Diane Clark,PLC Perkins,Medicare,36574,266,Penicillin,2023-10-30,2023-11-21
+Gregory Rogers,Female,AB+,Obesity,George Boone,Reeves-Perry,Cigna,5000,395,Penicillin,2020-07-21,2020-08-05
+Gregory Rogers,Female,AB+,Diabetes,Ana Fitzgerald,"Morales, Bullock and Soto",Medicare,10682,191,Ibuprofen,2021-09-11,2021-09-23
+Gregory Rogers,Female,AB+,Hypertension,Jennifer Crawford,Evans-Wright,Medicare,47946,200,Ibuprofen,2022-02-26,2022-03-25
+Gregory Rogers,Female,AB+,Cancer,Derek Meza,Brandt PLC,Aetna,9432,493,Penicillin,2022-07-02,2022-07-06
+Mary Barnes,Female,O-,Hypertension,Hunter Taylor,Clark-Chavez,Medicare,20744,192,Ibuprofen,2020-04-20,2020-05-04
+Mary Barnes,Female,O-,Obesity,Tony Harris,"Garcia Martin, Taylor and",Aetna,8532,472,Lipitor,2020-06-14,2020-07-07
+Mary Barnes,Female,O-,Cancer,Courtney Tran,Hayes-Rhodes,Blue Cross,2763,347,Ibuprofen,2022-02-03,2022-02-13
+Mary Barnes,Female,O-,Hypertension,Rita Bailey,and Hudson Sons,Cigna,41355,127,Lipitor,2022-12-07,2022-12-28
+Mary Barnes,Female,O-,Cancer,Andrea Wagner,"Ross, and Davies Perez",Aetna,27292,196,Aspirin,2023-02-06,2023-02-12
+Mary Barnes,Female,O-,Cancer,Megan Wilcox,Figueroa-Wall,Cigna,11795,277,Penicillin,2023-08-14,2023-09-08
+Rodney Gamble,Male,A-,Hypertension,Joshua Hall,"and Cain, Mendoza Gibson",Blue Cross,4675,149,Lipitor,2020-05-12,2020-06-03
+Rodney Gamble,Male,A-,Diabetes,Megan Spencer,Johnson-Cantrell,Aetna,35676,404,Aspirin,2020-08-08,2020-08-30
+Rodney Gamble,Male,A-,Obesity,Sue Travis,"and Trevino Ross Garrison,",Cigna,7646,147,Ibuprofen,2022-10-09,2022-10-22
+Rodney Gamble,Male,A-,Arthritis,Regina Carter,"Solis Fleming, Maxwell and",Medicare,23120,412,Penicillin,2022-10-19,2022-11-17
+Rodney Gamble,Male,A-,Diabetes,Alejandro Frederick,"Wilson Price Brooks, and",UnitedHealthcare,47277,241,Paracetamol,2024-02-22,2024-02-24
+Anna Baker,Male,AB-,Hypertension,Kristi Brown,"Parker, and Nicholson Ortiz",Blue Cross,12509,383,Penicillin,2019-10-26,2019-11-09
+Anna Baker,Male,AB-,Asthma,Alan Gilbert,"and Lee Cobb, Haynes",UnitedHealthcare,43634,123,Ibuprofen,2020-12-06,2020-12-07
+Anna Baker,Male,AB-,Diabetes,Christopher Kelly,Duke-Torres,Medicare,20458,394,Penicillin,2021-07-30,2021-08-10
+Anna Baker,Male,AB-,Obesity,Mr. Jeffrey Mason,Knox-Fleming,Medicare,27741,446,Penicillin,2023-04-26,2023-05-15
+Anna Baker,Male,AB-,Hypertension,Chelsea King,Weber LLC,UnitedHealthcare,5652,145,Lipitor,2023-06-03,2023-06-28
+Larry Butler,Male,B+,Arthritis,Kimberly Nelson,Acosta-Taylor,Aetna,6380,175,Ibuprofen,2019-10-23,2019-11-02
+Larry Butler,Male,B+,Cancer,Beth Harris,Wood LLC,Aetna,24539,258,Ibuprofen,2021-02-09,2021-03-03
+Larry Butler,Male,B+,Arthritis,Tanya Bean,"and Mahoney, Cabrera Thomas",Cigna,45924,173,Lipitor,2021-12-26,2022-01-08
+Larry Butler,Male,B+,Obesity,Kelly Chapman,Johnson LLC,Blue Cross,7207,346,Lipitor,2022-02-20,2022-03-20
+Courtney Smith,Male,A-,Asthma,Jorge Williams,"and Washington Morgan Tanner,",UnitedHealthcare,33883,393,Paracetamol,2020-06-26,2020-07-01
+Courtney Smith,Male,A-,Cancer,Nancy Sutton,Ramos-Holt,Blue Cross,7609,404,Ibuprofen,2021-02-17,2021-03-07
+Courtney Smith,Male,A-,Hypertension,Briana Middleton,Mitchell Sons and,Cigna,2060,289,Lipitor,2021-02-21,2021-02-23
+Courtney Smith,Male,A-,Obesity,Katrina Williams,Group Dunlap,Blue Cross,34749,215,Penicillin,2023-05-01,2023-05-06
+Randy Thompson,Female,B-,Obesity,Sherry Riley,Rivera-Mcintosh,UnitedHealthcare,4337,319,Ibuprofen,2019-10-16,2019-11-02
+Randy Thompson,Female,B-,Obesity,Adam Reed,LLC Hernandez,Aetna,2978,430,Lipitor,2020-03-14,2020-04-12
+Randy Thompson,Female,B-,Asthma,Anthony Webster,"White Hardy Miranda, and",Aetna,48373,440,Ibuprofen,2020-06-27,2020-07-26
+Randy Thompson,Female,B-,Hypertension,Kenneth Horton,Johnson-Dunn,Blue Cross,19309,274,Paracetamol,2021-10-06,2021-10-12
+Randy Thompson,Female,B-,Hypertension,Gloria Hall,Miller Inc,Medicare,34604,307,Aspirin,2022-10-11,2022-10-30
+Kristy Kirby,Male,O-,Obesity,Maureen Newman,Ruiz-Doyle,Cigna,45725,132,Aspirin,2020-03-21,2020-04-04
+Kristy Kirby,Male,O-,Asthma,Sandra Pearson,Thompson-Collier,UnitedHealthcare,3052,174,Paracetamol,2022-08-31,2022-09-17
+Kristy Kirby,Male,O-,Diabetes,Randy Reed,"Mcdonald and Berg Brown,",Aetna,6075,476,Lipitor,2023-04-16,2023-05-10
+Brenda Mckenzie,Male,B+,Asthma,Kayla Rodgers,"Chen Walker and Farmer,",Aetna,24468,398,Paracetamol,2020-09-09,2020-09-23
+Brenda Mckenzie,Male,B+,Arthritis,Rodney May,Garrett Ltd,Aetna,36441,252,Ibuprofen,2023-02-19,2023-03-06
+Brenda Mckenzie,Male,B+,Obesity,Brittany Black,Ltd Garner,UnitedHealthcare,37012,261,Lipitor,2023-09-27,2023-09-28
+Ashley Ray,Female,A-,Obesity,Robert Brown,Weaver-Williams,Cigna,13641,306,Paracetamol,2020-01-05,2020-01-24
+Ashley Ray,Female,A-,Cancer,Jennifer Barnes,King Inc,Cigna,26723,248,Aspirin,2021-02-19,2021-02-21
+Ashley Ray,Female,A-,Hypertension,Amber Harmon,Barton Sons and,Blue Cross,45279,166,Aspirin,2022-07-22,2022-08-08
+Ashley Ray,Female,A-,Cancer,Russell Winters,Owens Inc,Cigna,50268,172,Aspirin,2022-11-02,2022-11-04
+Ashley Ray,Female,A-,Cancer,Danielle Morales,Inc Mora,UnitedHealthcare,15905,351,Penicillin,2023-04-28,2023-04-29
+Ashley Ray,Female,A-,Diabetes,Dana Roberts,Trujillo-Berg,Blue Cross,38696,367,Penicillin,2023-07-15,2023-08-01
+Scott Scott,Male,A+,Arthritis,Crystal Craig,Bennett-Vazquez,Blue Cross,33029,482,Lipitor,2021-02-14,2021-02-27
+Scott Scott,Male,A+,Hypertension,Curtis Mckay,"White Berry, Palmer and",Aetna,7649,457,Paracetamol,2022-06-27,2022-07-09
+Scott Scott,Male,A+,Asthma,Thomas Day,Hill Sons and,Cigna,19429,259,Ibuprofen,2022-07-27,2022-08-06
+Miranda Rodriguez,Female,B+,Hypertension,Jose Taylor,May and Sons,Blue Cross,29560,442,Paracetamol,2019-06-15,2019-06-21
+Miranda Rodriguez,Female,B+,Hypertension,Jacob Martin,PLC Green,Medicare,48413,391,Paracetamol,2020-01-04,2020-01-09
+Miranda Rodriguez,Female,B+,Asthma,Gregory Frederick,Powell-Cruz,UnitedHealthcare,7360,443,Penicillin,2020-06-23,2020-07-14
+Miranda Rodriguez,Female,B+,Diabetes,Eric Conley,Kennedy Inc,Blue Cross,21999,129,Aspirin,2021-01-27,2021-02-24
+Miranda Rodriguez,Female,B+,Arthritis,John Potter,Lopez Inc,Medicare,3916,268,Penicillin,2021-05-31,2021-06-22
+Meghan Fernandez,Female,O+,Hypertension,Brandy Padilla,"Stevens, and Price Gordon",Aetna,43739,358,Ibuprofen,2019-10-30,2019-11-19
+Meghan Fernandez,Female,O+,Diabetes,Shawn Carroll,Sanchez-Keller,Blue Cross,35916,111,Aspirin,2021-12-22,2022-01-15
+Meghan Fernandez,Female,O+,Hypertension,David Ramos,"and Pace, Gamble Lyons",Medicare,35419,280,Aspirin,2022-01-28,2022-02-10
+Meghan Fernandez,Female,O+,Asthma,Lisa Griffin MD,Sons Walker and,Aetna,43113,207,Penicillin,2022-04-14,2022-04-22
+Meghan Fernandez,Female,O+,Hypertension,Rodney Chen,Miller LLC,Medicare,1741,146,Penicillin,2022-05-10,2022-05-12
+Zachary King,Male,O-,Asthma,Andrew Turner,"Ferguson Turner and Wiggins,",Aetna,44269,441,Lipitor,2020-07-16,2020-07-31
+Zachary King,Male,O-,Asthma,Don Harris,LLC Winters,UnitedHealthcare,19979,169,Lipitor,2020-10-12,2020-10-15
+Zachary King,Male,O-,Hypertension,Virginia Rocha,Inc Thornton,Cigna,17426,209,Ibuprofen,2021-05-20,2021-06-12
+Zachary King,Male,O-,Cancer,Carrie Elliott,Taylor Ltd,Aetna,26202,247,Aspirin,2021-08-27,2021-09-14
+Zachary King,Male,O-,Obesity,Mary Riley,"Williams Barnes, Alexander and",Cigna,4432,421,Lipitor,2022-03-18,2022-04-16
+Zachary King,Male,O-,Obesity,Tami Taylor,Austin LLC,Medicare,31892,461,Penicillin,2022-09-13,2022-09-30
+Zachary King,Male,O-,Diabetes,Michael Jackson,Ho-Adams,Medicare,18714,344,Penicillin,2023-03-03,2023-03-27
+Michael Hill,Female,A+,Asthma,Sarah Johnson,Harmon Inc,UnitedHealthcare,14172,500,Aspirin,2021-01-05,2021-01-06
+Michael Hill,Female,A+,Arthritis,Sandra Collins,Swanson-Anderson,Blue Cross,32288,193,Paracetamol,2021-09-25,2021-10-25
+Michael Hill,Female,A+,Obesity,Jamie Martin,Turner-Ramos,Blue Cross,8312,178,Aspirin,2023-05-14,2023-06-03
+Michael Hill,Female,A+,Hypertension,Mark Young,"and Jimenez Yoder, Andrews",UnitedHealthcare,39781,461,Aspirin,2023-09-01,2023-09-24
+Michael Hill,Female,A+,Diabetes,Erin Duke,and Sons Rogers,Medicare,37126,389,Lipitor,2024-04-08,2024-04-18
+Cynthia Martinez,Female,AB-,Obesity,Vanessa Brown,Walsh-Deleon,Aetna,11556,432,Ibuprofen,2019-12-14,2019-12-26
+Cynthia Martinez,Female,AB-,Diabetes,Justin Walker,Norris-Boyd,Blue Cross,32495,420,Aspirin,2023-07-08,2023-07-22
+Cynthia Martinez,Female,AB-,Arthritis,Sandra Long,"Smith and Rodgers, Brooks",Blue Cross,22881,109,Penicillin,2023-08-10,2023-08-12
+Samuel Hall,Male,B+,Asthma,Dale Love,"Small, and Clark Mahoney",UnitedHealthcare,44042,174,Paracetamol,2022-02-26,2022-03-08
+Samuel Hall,Male,B+,Diabetes,Olivia Cole,Cabrera-Mcclure,Blue Cross,9444,254,Ibuprofen,2022-07-16,2022-08-08
+Samuel Hall,Male,B+,Asthma,Denise Hebert,Cook-Gibson,UnitedHealthcare,38272,101,Penicillin,2022-09-20,2022-09-24
+Samuel Hall,Male,B+,Obesity,Kevin White,"and Gordon Taylor, Lopez",Aetna,29742,417,Paracetamol,2023-06-05,2023-06-25
+Samuel Hall,Male,B+,Obesity,Jessica Peters,Parks-Hill,Blue Cross,34873,389,Paracetamol,2023-11-03,2023-11-26
+Samuel Hall,Male,B+,Arthritis,Elizabeth Ortiz,Mcpherson Group,Medicare,8507,135,Lipitor,2024-03-17,2024-03-31
+Andrew Palmer,Female,O+,Asthma,Christina Adams,Inc Crawford,UnitedHealthcare,48777,207,Aspirin,2019-08-10,2019-09-02
+Andrew Palmer,Female,O+,Diabetes,Brittany Barrett,Johnson-Jenkins,Cigna,20294,295,Penicillin,2020-02-05,2020-02-28
+Andrew Palmer,Female,O+,Arthritis,Bryan Thomas,Love-Barber,Medicare,25703,103,Lipitor,2020-04-13,2020-05-04
+Andrew Palmer,Female,O+,Cancer,Amanda Erickson,"and Barry Duran Hall,",Blue Cross,20425,383,Lipitor,2021-07-22,2021-08-19
+Andrew Palmer,Female,O+,Hypertension,Amy Collins,"Smith, Mitchell and Gardner",Blue Cross,14056,277,Aspirin,2022-06-21,2022-06-29
+Andrew Palmer,Female,O+,Obesity,Mindy Munoz,Wong Inc,Medicare,21959,340,Aspirin,2022-07-25,2022-08-14
+Andrew Palmer,Female,O+,Asthma,David Nguyen,Ltd Campbell,UnitedHealthcare,43054,198,Paracetamol,2024-03-18,2024-04-15
+Laura Henderson,Male,B-,Hypertension,David Fields,Tucker-Cook,Medicare,21168,260,Penicillin,2022-03-08,2022-03-31
+Laura Henderson,Male,B-,Cancer,Kelly Tapia,and Meadows Sons,UnitedHealthcare,6062,384,Penicillin,2023-01-18,2023-02-16
+Laura Henderson,Male,B-,Cancer,Timothy Kelley,Parker-Garcia,UnitedHealthcare,13275,436,Ibuprofen,2023-12-12,2024-01-07
+Jacqueline Arnold,Male,O+,Diabetes,Carrie Arnold,"Adkins, Garcia Pratt and",Medicare,13204,299,Ibuprofen,2020-07-24,2020-08-20
+Jacqueline Arnold,Male,O+,Hypertension,Joseph Hamilton,Lee-Nelson,Medicare,10505,131,Ibuprofen,2021-06-20,2021-06-29
+Jacqueline Arnold,Male,O+,Arthritis,William Shepard,Sanchez Inc,Medicare,6376,389,Lipitor,2021-07-24,2021-08-20
+Jacqueline Arnold,Male,O+,Diabetes,Robin Bradshaw,and Booth Sons,Cigna,22843,346,Ibuprofen,2022-06-26,2022-07-12
+Jacqueline Arnold,Male,O+,Arthritis,Jacob Best,"Oconnell, and King Farmer",Medicare,11826,264,Aspirin,2022-09-17,2022-10-09
+Jacqueline Arnold,Male,O+,Hypertension,Vincent Ramirez,Powell-Werner,Medicare,17012,121,Penicillin,2023-12-26,2024-01-22
+Heather Owens,Male,B-,Hypertension,Phillip Reed,PLC Mercado,UnitedHealthcare,37029,418,Ibuprofen,2020-01-21,2020-01-25
+Heather Owens,Male,B-,Asthma,Jeffrey Gonzalez,"and Ramsey Wong, Cox",Blue Cross,12897,107,Aspirin,2020-02-27,2020-03-26
+Heather Owens,Male,B-,Cancer,Catherine Griffith,Group Lynch,Blue Cross,24018,398,Penicillin,2023-01-11,2023-01-19
+Kenneth Jacobs,Female,AB+,Obesity,Justin Higgins,Morris Inc,Medicare,20641,158,Ibuprofen,2019-06-14,2019-06-24
+Kenneth Jacobs,Female,AB+,Arthritis,Andrea Rodriguez,Moore-Rodriguez,Medicare,10417,335,Ibuprofen,2020-05-01,2020-05-14
+Kenneth Jacobs,Female,AB+,Hypertension,Sarah Klein,"and Miller, Gonzales Rodriguez",Blue Cross,27619,378,Paracetamol,2020-05-04,2020-05-29
+Kenneth Jacobs,Female,AB+,Obesity,Jeffrey Patel,Thomas Inc,Blue Cross,18615,238,Ibuprofen,2020-12-12,2020-12-22
+Kenneth Jacobs,Female,AB+,Arthritis,Brett Haynes,Carter PLC,Aetna,20478,454,Paracetamol,2022-11-21,2022-12-03
+Kenneth Jacobs,Female,AB+,Diabetes,Andrew Oconnell,Harris-West,Cigna,6293,104,Aspirin,2023-07-10,2023-07-31
+Kenneth Jacobs,Female,AB+,Obesity,Joshua Lloyd,"Baldwin and Perez Cook,",Aetna,49021,183,Aspirin,2024-04-25,2024-05-07
+Alyssa Bell,Male,AB-,Obesity,Nicholas Anderson,"Johnson and Rogers, Rose",Cigna,36639,377,Lipitor,2019-12-13,2020-01-07
+Alyssa Bell,Male,AB-,Cancer,Desiree Ali,Patrick-Kaiser,Aetna,12188,144,Lipitor,2020-01-25,2020-01-31
+Alyssa Bell,Male,AB-,Asthma,Jane Williams,Romero-Webb,UnitedHealthcare,26809,211,Aspirin,2021-05-12,2021-05-30
+Alyssa Bell,Male,AB-,Asthma,Colin Williams,Perez-Nguyen,UnitedHealthcare,9152,291,Ibuprofen,2021-06-21,2021-06-24
+Alyssa Bell,Male,AB-,Diabetes,Sylvia Murphy,Pace-Moran,Medicare,40623,336,Ibuprofen,2021-10-02,2021-10-11
+Nathan Greer,Male,A-,Diabetes,Joshua Velasquez,Giles Ltd,UnitedHealthcare,40212,447,Aspirin,2019-11-23,2019-12-16
+Nathan Greer,Male,A-,Obesity,Sara Reed,"and Bryant, Smith Clark",Aetna,20312,122,Aspirin,2020-11-22,2020-11-27
+Nathan Greer,Male,A-,Arthritis,Robyn Villarreal,Santos Inc,UnitedHealthcare,7946,167,Paracetamol,2021-07-17,2021-08-15
+Nathan Greer,Male,A-,Arthritis,Jessica Chung,Torres-Michael,Medicare,47916,408,Lipitor,2021-12-18,2022-01-01
+Nathan Greer,Male,A-,Diabetes,Nicole Simpson,Ashley-Kane,Blue Cross,42617,179,Ibuprofen,2022-08-17,2022-08-21
+Nathan Greer,Male,A-,Asthma,Scott Delgado,"Wilson and Davis Koch,",Aetna,21426,198,Aspirin,2022-09-24,2022-09-29
+Nathan Greer,Male,A-,Cancer,Christopher Brown,"and Mendoza, Keith Johnson",Cigna,24222,297,Ibuprofen,2023-09-23,2023-10-20
+Troy Simmons,Female,O-,Cancer,Andrew Jones,Martin-Cabrera,Cigna,45278,333,Aspirin,2019-11-25,2019-12-07
+Troy Simmons,Female,O-,Hypertension,Roberto Dudley,Hooper-Norman,Cigna,27918,269,Lipitor,2020-11-07,2020-11-14
+Troy Simmons,Female,O-,Asthma,Jennifer Ward,"and Yu Herrera, Harper",Blue Cross,13327,175,Aspirin,2020-11-10,2020-11-29
+Troy Simmons,Female,O-,Hypertension,Stephanie Walsh,Simon-Hunt,Medicare,2016,224,Paracetamol,2022-09-10,2022-09-23
+Troy Simmons,Female,O-,Diabetes,Brian Nelson,Hays Inc,Medicare,2748,286,Lipitor,2023-09-01,2023-09-20
+Brandy Hudson,Male,O-,Hypertension,Timothy Mcgee,"Bowman Guerrero, and Oconnor",Medicare,24658,237,Ibuprofen,2019-07-02,2019-07-18
+Brandy Hudson,Male,O-,Diabetes,Louis Mccormick,Vega-Gross,Medicare,36525,126,Ibuprofen,2019-08-21,2019-09-19
+Brandy Hudson,Male,O-,Diabetes,Anthony Valdez,Johnson Sons and,UnitedHealthcare,37378,176,Penicillin,2020-08-04,2020-08-23
+Brandy Hudson,Male,O-,Diabetes,Sharon Contreras,Davis-Brown,Aetna,41727,140,Penicillin,2021-09-16,2021-09-21
+Brandy Hudson,Male,O-,Obesity,Angela Campbell,"and Salazar Brennan Edwards,",Medicare,42329,350,Lipitor,2022-06-21,2022-07-03
+Brandy Hudson,Male,O-,Arthritis,Stuart Walker,Wiggins-Williams,Medicare,5885,441,Lipitor,2023-05-15,2023-05-20
+Brandy Hudson,Male,O-,Cancer,Chase Booker DDS,"and Sanchez Scott, Bailey",Aetna,18604,393,Penicillin,2023-12-20,2023-12-30
+Brianna Griffin,Female,A+,Obesity,David Poole,Underwood Inc,Cigna,7336,352,Ibuprofen,2019-07-29,2019-08-03
+Brianna Griffin,Female,A+,Asthma,Michelle Wheeler,Martin-Terry,Aetna,29245,238,Penicillin,2021-05-04,2021-05-15
+Brianna Griffin,Female,A+,Asthma,Anthony Davenport,Williams-Wright,Cigna,29329,129,Penicillin,2022-03-13,2022-04-06
+Brianna Griffin,Female,A+,Hypertension,John Ortega,Mcguire Group,Blue Cross,22135,462,Aspirin,2022-10-07,2022-10-18
+Nicholas Owens,Male,A-,Asthma,Karen Park,Group Bernard,Cigna,6159,230,Lipitor,2023-08-05,2023-08-17
+Nicholas Owens,Male,A-,Asthma,Jon Woods,"and Hall, Butler Mccall",Aetna,35974,450,Penicillin,2023-09-06,2023-09-09
+Nicholas Owens,Male,A-,Obesity,Richard Matthews,Malone Ltd,Blue Cross,8128,469,Aspirin,2024-02-02,2024-02-04
+Jose Sharp,Male,B-,Hypertension,Sherry Anderson,Small-Taylor,Aetna,49018,450,Ibuprofen,2020-07-12,2020-07-26
+Jose Sharp,Male,B-,Asthma,Susan Fitzpatrick,"Sanders Snow, Austin and",Medicare,3580,124,Lipitor,2020-12-10,2021-01-06
+Jose Sharp,Male,B-,Asthma,Scott Meyer,Wright-Walker,Aetna,50713,244,Ibuprofen,2022-08-09,2022-08-27
+Dale Roberts,Male,A+,Cancer,Laura Gregory,Hill and Sons,Cigna,25686,187,Lipitor,2019-12-01,2019-12-30
+Dale Roberts,Male,A+,Obesity,Alexandra Ruiz,Group Garcia,Blue Cross,23307,125,Ibuprofen,2020-06-24,2020-07-20
+Dale Roberts,Male,A+,Arthritis,Stuart Rivera,Carr-Nelson,Cigna,37102,104,Penicillin,2020-11-14,2020-11-25
+Dale Roberts,Male,A+,Arthritis,Margaret Oneal,Group Booker,Cigna,3783,211,Ibuprofen,2023-03-11,2023-03-17
+Brandy Vasquez,Male,O-,Hypertension,Charlene Clayton,"White Mitchell and Hurst,",Aetna,2481,113,Aspirin,2019-08-25,2019-08-31
+Brandy Vasquez,Male,O-,Arthritis,Andrea Vincent,Stephenson Ltd,UnitedHealthcare,34380,164,Lipitor,2021-02-11,2021-02-24
+Brandy Vasquez,Male,O-,Arthritis,Mr. Justin Frazier DVM,Rivas PLC,UnitedHealthcare,18703,430,Paracetamol,2022-07-08,2022-08-07
+Brandy Vasquez,Male,O-,Diabetes,Johnathan Kim,"Martin Smith, and Blackwell",UnitedHealthcare,25293,422,Lipitor,2022-09-03,2022-09-14
+Brandy Vasquez,Male,O-,Hypertension,Stephanie Mann,and Sons Hudson,Cigna,18237,226,Paracetamol,2023-01-31,2023-02-14
+Michael Alexander,Male,B+,Obesity,Charles Scott,Sons and Martinez,Cigna,18134,494,Lipitor,2019-05-21,2019-06-04
+Michael Alexander,Male,B+,Obesity,Cynthia Rodriguez,Sandoval PLC,Cigna,30894,317,Paracetamol,2019-07-04,2019-07-29
+Michael Alexander,Male,B+,Cancer,Gabriel Singleton,Taylor-Stevens,Blue Cross,19996,355,Lipitor,2022-05-08,2022-05-09
+Barry Franklin,Male,B+,Cancer,Michelle Sanchez,"Chandler, and Olson Holland",UnitedHealthcare,20520,395,Paracetamol,2019-05-08,2019-06-05
+Barry Franklin,Male,B+,Arthritis,Charles Webb,Bass Inc,Medicare,5549,302,Ibuprofen,2019-08-16,2019-09-06
+Barry Franklin,Male,B+,Hypertension,Colleen Myers,Inc Hayes,Medicare,24646,173,Paracetamol,2019-10-09,2019-10-17
+Barry Franklin,Male,B+,Asthma,Amy Bryant,"Rodgers, Solomon Jefferson and",Cigna,46644,449,Aspirin,2023-09-09,2023-10-06
+Sara Cook,Male,O-,Arthritis,Douglas Fleming,"Jarvis Scott, Fleming and",Medicare,6175,138,Aspirin,2021-12-26,2022-01-12
+Sara Cook,Male,O-,Cancer,Nicholas Novak,Sons Rivera and,Cigna,8090,400,Penicillin,2022-01-04,2022-01-05
+Sara Cook,Male,O-,Diabetes,William Holmes,Hunter-Mcguire,UnitedHealthcare,4405,225,Ibuprofen,2023-02-23,2023-03-05
+Andre Aguirre,Female,B-,Asthma,Sarah Phillips,Inc Lee,Blue Cross,30143,322,Penicillin,2019-08-04,2019-08-14
+Andre Aguirre,Female,B-,Diabetes,Heather Graham,Spence-Johnson,Medicare,8442,109,Penicillin,2019-11-19,2019-12-19
+Andre Aguirre,Female,B-,Asthma,Christopher Myers,Stevenson-Wilson,Blue Cross,13448,185,Paracetamol,2020-05-15,2020-06-12
+Andre Aguirre,Female,B-,Asthma,Katherine Obrien,"Villa, Hammond Lee and",Cigna,3348,333,Penicillin,2022-01-16,2022-01-23
+Andre Aguirre,Female,B-,Hypertension,Lawrence Crawford,and Baker Sons,Aetna,28498,281,Penicillin,2023-05-16,2023-06-12
+Andre Aguirre,Female,B-,Obesity,Lauren Jordan,"Allen, Johns and Holland",Cigna,19210,338,Paracetamol,2024-03-14,2024-04-11
+William Mitchell,Male,O-,Obesity,Darren Silva,"Smith Evans, and Young",UnitedHealthcare,40925,427,Paracetamol,2021-07-25,2021-08-09
+William Mitchell,Male,O-,Arthritis,Jason Jackson,Scott-Stewart,Cigna,12068,472,Ibuprofen,2022-02-12,2022-02-25
+William Mitchell,Male,O-,Hypertension,Ralph Sanchez,Hickman-Jackson,Cigna,48656,245,Aspirin,2022-04-26,2022-05-11
+William Mitchell,Male,O-,Asthma,Amy Osborn,Sparks-Hanson,UnitedHealthcare,16255,436,Penicillin,2023-08-26,2023-09-15
+William Mitchell,Male,O-,Hypertension,Karen Walker,"Richardson Davis Fuller, and",Aetna,44981,276,Ibuprofen,2024-01-13,2024-02-09

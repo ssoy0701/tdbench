@@ -1,0 +1,852 @@
+[
+    {
+        "idx": 0,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Cristiano Ronaldo\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Al-Nassr",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Manchester United F.C.",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Real Madrid CF",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            },
+            {
+                "Team": "Sporting CP",
+                "Start": "2002-01-01 00:00:00",
+                "End": "2003-01-01 00:00:00"
+            },
+            {
+                "Team": "Portugal national association football team",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2021-06-27 00:00:00"
+            },
+            {
+                "Team": "Portugal national under-21 football team",
+                "Start": "2002-01-01 00:00:00",
+                "End": "2003-01-01 00:00:00"
+            },
+            {
+                "Team": "Portugal Olympic football team",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2004-01-01 00:00:00"
+            },
+            {
+                "Team": "Portugal national under-20 football team",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2003-01-01 00:00:00"
+            },
+            {
+                "Team": "Portugal national under-17 football team",
+                "Start": "2001-01-01 00:00:00",
+                "End": "2002-01-01 00:00:00"
+            },
+            {
+                "Team": "Portugal national under-15 football team",
+                "Start": "2001-01-01 00:00:00",
+                "End": "2001-01-01 00:00:00"
+            },
+            {
+                "Team": "Juventus FC",
+                "Start": "2018-01-01 00:00:00",
+                "End": "2021-08-26 00:00:00"
+            },
+            {
+                "Team": "Manchester United F.C.",
+                "Start": "2021-08-27 00:00:00",
+                "End": "2022-11-22 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Lionel Messi\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Inter Miami CF",
+                "Start": "2023-07-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Newell's Old Boys",
+                "Start": "1995-01-01 00:00:00",
+                "End": "2000-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Barcelona C",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2004-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Barcelona Atl\u00e8tic",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2005-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Barcelona",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2021-01-01 00:00:00"
+            },
+            {
+                "Team": "Paris Saint-Germain F.C.",
+                "Start": "2021-01-01 00:00:00",
+                "End": "2023-06-30 00:00:00"
+            },
+            {
+                "Team": "Argentina national under-20 football team",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2005-01-01 00:00:00"
+            },
+            {
+                "Team": "Argentina national under-23 football team",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2008-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Barcelona Juvenil A",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2004-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Neymar Jr.\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Al-Hilal SFC",
+                "Start": "2023-08-15 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "FC Barcelona",
+                "Start": "2013-01-01 00:00:00",
+                "End": "2017-01-01 00:00:00"
+            },
+            {
+                "Team": "Santos F.C.",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            },
+            {
+                "Team": "Brazil national under-17 football team",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Brazil national under-20 football team",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2011-01-01 00:00:00"
+            },
+            {
+                "Team": "Brazil Olympic football team",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Paris Saint-Germain F.C.",
+                "Start": "2017-01-01 00:00:00",
+                "End": "2023-08-15 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Kylian Mbapp\u00e9\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Paris Saint-Germain F.C.",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "AS Monaco FC",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Karim Benzema\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Al Ittihad FC",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Olympique Lyonnais",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Real Madrid CF",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2023-01-01 00:00:00"
+            },
+            {
+                "Team": "France national association football team",
+                "Start": "2007-01-01 00:00:00",
+                "End": "2022-01-01 00:00:00"
+            },
+            {
+                "Team": "France national under-17 association football team",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2004-01-01 00:00:00"
+            },
+            {
+                "Team": "France national under-18 association football team",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2005-01-01 00:00:00"
+            },
+            {
+                "Team": "France national under-19 association football team",
+                "Start": "2005-01-01 00:00:00",
+                "End": "2006-01-01 00:00:00"
+            },
+            {
+                "Team": "France national under-21 association football team",
+                "Start": "2006-01-01 00:00:00",
+                "End": "2006-01-01 00:00:00"
+            },
+            {
+                "Team": "Olympique Lyonnais Reserves and Academy",
+                "Start": "2004-01-01 00:00:00",
+                "End": "2006-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Erling Haaland\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Manchester City F.C.",
+                "Start": "2022-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Bryne FK",
+                "Start": "2016-01-01 00:00:00",
+                "End": "2017-01-01 00:00:00"
+            },
+            {
+                "Team": "Molde FK",
+                "Start": "2017-01-01 00:00:00",
+                "End": "2019-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Red Bull Salzburg",
+                "Start": "2019-01-01 00:00:00",
+                "End": "2020-01-01 00:00:00"
+            },
+            {
+                "Team": "Borussia Dortmund",
+                "Start": "2020-01-01 00:00:00",
+                "End": "2022-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Mohamed Salah\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Liverpool F.C.",
+                "Start": "2017-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "ACF Fiorentina",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            },
+            {
+                "Team": "Al Mokawloon Al Arab SC",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Chelsea F.C.",
+                "Start": "2014-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            },
+            {
+                "Team": "A.S. Roma",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2017-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Basel",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2014-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Sadio Man\u00e9\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Al-Nassr",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "FC Red Bull Salzburg",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2014-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Metz",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Southampton F.C.",
+                "Start": "2014-01-01 00:00:00",
+                "End": "2016-01-01 00:00:00"
+            },
+            {
+                "Team": "Senegal national under-23 football team",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Liverpool F.C.",
+                "Start": "2016-01-01 00:00:00",
+                "End": "2022-01-01 00:00:00"
+            },
+            {
+                "Team": "FC Bayern Munich",
+                "Start": "2022-01-01 00:00:00",
+                "End": "2023-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Kevin De Bruyne\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Manchester City F.C.",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "K.R.C. Genk",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Chelsea F.C.",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2014-01-01 00:00:00"
+            },
+            {
+                "Team": "K.R.C. Genk",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "SV Werder Bremen",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            },
+            {
+                "Team": "VfL Wolfsburg",
+                "Start": "2014-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            },
+            {
+                "Team": "Belgium national football team",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2011-01-01 00:00:00"
+            },
+            {
+                "Team": "Belgium national under-18 football team",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Belgium national under-19 football team",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Belgium national under-21 football team",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2011-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Harry Kane\" and Sport = \"soccer\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "FC Bayern Munich",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Tottenham Hotspur F.C.",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2023-01-01 00:00:00"
+            },
+            {
+                "Team": "Leyton Orient F.C.",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2011-01-01 00:00:00"
+            },
+            {
+                "Team": "Millwall F.C.",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "Norwich City F.C.",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            },
+            {
+                "Team": "Tottenham Hotspur F.C.",
+                "Start": "2013-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            },
+            {
+                "Team": "England national under-17 association football team",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2010-01-01 00:00:00"
+            },
+            {
+                "Team": "England national under-19 association football team",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            },
+            {
+                "Team": "England national under-20 association football team",
+                "Start": "2013-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            },
+            {
+                "Team": "England national under-21 association football team",
+                "Start": "2013-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Stephen Curry\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Golden State Warriors",
+                "Start": "2009-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Davidson Wildcats men's basketball",
+                "Start": "2006-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Kevin Durant\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Phoenix Suns",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Seattle SuperSonics",
+                "Start": "2007-01-01 00:00:00",
+                "End": "2008-01-01 00:00:00"
+            },
+            {
+                "Team": "Texas Longhorns men's basketball",
+                "Start": "2006-01-01 00:00:00",
+                "End": "2007-01-01 00:00:00"
+            },
+            {
+                "Team": "Oklahoma City Thunder",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2016-01-01 00:00:00"
+            },
+            {
+                "Team": "Golden State Warriors",
+                "Start": "2016-01-01 00:00:00",
+                "End": "2019-01-01 00:00:00"
+            },
+            {
+                "Team": "Brooklyn Nets",
+                "Start": "2019-01-01 00:00:00",
+                "End": "2019-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"LeBron James\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Los Angeles Lakers",
+                "Start": "2018-07-09 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Cleveland Cavaliers",
+                "Start": "2003-01-01 00:00:00",
+                "End": "2010-01-01 00:00:00"
+            },
+            {
+                "Team": "Miami Heat",
+                "Start": "2010-07-10 00:00:00",
+                "End": "2014-01-01 00:00:00"
+            },
+            {
+                "Team": "Cleveland Cavaliers",
+                "Start": "2014-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Nikola Jokic\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Denver Nuggets",
+                "Start": "2015-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "KK Mega Basket",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Bradley Beal\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Phoenix Suns",
+                "Start": "2012-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Florida Gators men's basketball",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Giannis Antetokounmpo\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Milwaukee Bucks",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Filathlitikos B.C.",
+                "Start": "2011-01-01 00:00:00",
+                "End": "2013-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Damian Lillard\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Milwaukee Bucks",
+                "Start": "2023-09-27 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Portland Trail Blazers",
+                "Start": "2012-01-01 00:00:00",
+                "End": "2023-09-27 00:00:00"
+            },
+            {
+                "Team": "Weber State Wildcats men's basketball",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Kawhi Leonard\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Toronto Raptors",
+                "Start": "2018-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "San Diego State Aztecs men's basketball",
+                "Start": "2009-01-01 00:00:00",
+                "End": "2011-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Paul George\" and Sport = \"basketball\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Los Angeles Clippers",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Fresno State Bulldogs men's basketball",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2010-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Max Verstappen\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Red Bull Racing",
+                "Start": "2016-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Scuderia Toro Rosso",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2016-01-01 00:00:00"
+            },
+            {
+                "Team": "Van Amersfoort Racing",
+                "Start": "2014-01-01 00:00:00",
+                "End": "2015-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Lewis Hamilton\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Mercedes F1 Team",
+                "Start": "2013-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "McLaren",
+                "Start": "2007-01-01 00:00:00",
+                "End": "2012-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Fernando Alonso\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Aston Martin F1 Team",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Renault F1 Team",
+                "Start": "2002-01-01 00:00:00",
+                "End": "2006-01-01 00:00:00"
+            },
+            {
+                "Team": "McLaren",
+                "Start": "2007-01-01 00:00:00",
+                "End": "2007-01-01 00:00:00"
+            },
+            {
+                "Team": "Renault F1 Team",
+                "Start": "2008-01-01 00:00:00",
+                "End": "2009-01-01 00:00:00"
+            },
+            {
+                "Team": "Scuderia Ferrari",
+                "Start": "2010-01-01 00:00:00",
+                "End": "2014-01-01 00:00:00"
+            },
+            {
+                "Team": "McLaren",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            },
+            {
+                "Team": "Minardi",
+                "Start": "2001-01-01 00:00:00",
+                "End": "2001-01-01 00:00:00"
+            },
+            {
+                "Team": "Renault F1 Team",
+                "Start": "2021-01-01 00:00:00",
+                "End": "2022-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Charles Leclerc\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Scuderia Ferrari",
+                "Start": "2019-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Sauber",
+                "Start": "2018-01-01 00:00:00",
+                "End": "2019-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Carlos Sainz Jr.\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Scuderia Ferrari",
+                "Start": "2021-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "McLaren",
+                "Start": "2019-01-01 00:00:00",
+                "End": "2020-01-01 00:00:00"
+            },
+            {
+                "Team": "Renault F1 Team",
+                "Start": "2017-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            },
+            {
+                "Team": "Scuderia Toro Rosso",
+                "Start": "2015-01-01 00:00:00",
+                "End": "2017-01-01 00:00:00"
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "qtype": "now",
+        "sql_for_db": "select Team, start, end from dyknow where Name = \"Pierre Gasly\" and Sport = \"F1 racing\" and End IS NULL",
+        "correct_rows": [
+            {
+                "Team": "Alpine F1 Team",
+                "Start": "2023-01-01 00:00:00",
+                "End": null
+            }
+        ],
+        "incorrect_rows": [
+            {
+                "Team": "Red Bull Racing",
+                "Start": "2019-01-01 00:00:00",
+                "End": "2019-08-12 00:00:00"
+            },
+            {
+                "Team": "Scuderia Toro Rosso",
+                "Start": "2017-01-01 00:00:00",
+                "End": "2018-01-01 00:00:00"
+            },
+            {
+                "Team": "Scuderia Toro Rosso",
+                "Start": "2019-08-12 00:00:00",
+                "End": "2023-01-01 00:00:00"
+            }
+        ]
+    }
+]
