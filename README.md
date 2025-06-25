@@ -112,7 +112,7 @@ After generating SQL queries, you can tranlsate these queries into natural langu
 
 #### 3-1. Set Up the Translator LLM
 You should first update `src/utils/utils_llm.py`, adding API keys and download [Ollama](https://github.com/ollama/ollama) to run the LLM APIs.
-While we use GPT-4o for our experiemnts, you can freely change the model type for the translator.
+While we use GPT-4o for our experiments, you can freely change the model type for the translator.
 
 #### 3-2. Tranlsate SQL Queries
 Now, run:
