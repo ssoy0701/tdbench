@@ -4,8 +4,8 @@ This repository contains source code of *Harnessing Temporal Databases for Syste
 
 With this repository, you can:
 - Continuously evaluate LLMs with latest world knowledge (i.e., temporal aligment task)
-- Evaluate how well LLMs can understand temporal constraints (i.e., temporal reasoning task)
-- Use your own temporal databases, creating customized Time-Sensitive QA (TSQA) benchmark benchmarks
+- Evaluate how well LLMs can understand temporal constraints in questions (i.e., temporal reasoning task)
+- Use your own temporal databases, creating customized Time-Sensitive QA (TSQA) benchmarks
 
 
 ## 📓 Table of Contents
