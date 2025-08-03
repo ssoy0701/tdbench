@@ -299,12 +299,6 @@ Your answer must be one of: `Yes`, `Half`, or `No`. Be concise.
 
         entity_date = "\n".join(entity_date_list)
 
-        start_time = pd.to_datetime(correct_rows[0]['Start']).strftime('%Y-%m-%d')
-        end_time = pd.to_datetime(correct_rows[0]['End']).strftime('%Y-%m-%d')
-        answer_entity = correct_rows[0][answer_col_key]
-
-        date = start_time if eval_criteria == 'start' else end_time
-
         prompt = f"""You are given a reference date, which is either a start date or an end date. Check whether the response correctly includes this specific date, even if it is expressed in a different but equivalent format (e.g., `26 Jan 2025`, `January 26, 2025`, `2025/01/26`, etc.).
 
 - If the correct {eval_criteria} date is mentioned with the correct meaning, respond with **"Yes"**.  

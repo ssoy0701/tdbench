@@ -78,6 +78,9 @@ elif task == 'movie':
 elif task == 'olympic_joined':
     system_msg = "The following SQL query is about a relational database OlympicGames(Game_edition, Game_name, Country, City, Name, Role) where 'Name' and 'Role' are about leaders of the **host country**."
 
+elif task == 'medical':
+    system_msg = "The following SQL query is about a relational database SyntheticPatients(name, gender, blood_type, doctor, medication, start, end) where start, end are date of admission and discharge."
+
 else: 
     raise NotImplementedError
 
